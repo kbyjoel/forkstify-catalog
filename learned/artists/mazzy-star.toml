@@ -1,8 +1,13 @@
-plays = 0.0
+plays = 1.0
+last = "2026-09-08"
 weight = 1.0
 
 [tops."Fade Into You"]
 liked = true
+
+[tops.Roseblood]
+plays = 1.0
+last = "2026-09-08"
 
 [tops."She Hangs Brightly"]
 liked = true
