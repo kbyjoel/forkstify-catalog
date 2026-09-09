@@ -1,4 +1,5 @@
-plays = 0.0
+plays = 1.0
+last = "2026-09-09"
 weight = 1.0
 
 [tops."Au café du canal"]
@@ -8,6 +9,8 @@ skipped = 1
 liked = true
 
 [tops."Les Papets Les Minots"]
+plays = 1.0
+last = "2026-09-09"
 liked = true
 
 [tops.Occitanista]
