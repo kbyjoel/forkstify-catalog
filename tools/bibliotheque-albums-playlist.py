@@ -108,7 +108,8 @@ def main():
         if not track.get("artists"):
             continue
         n_titres += 1
-        for a in track["artists"]:
+        # l'artiste principal seulement, comme pour les titres aimés
+        for a in track["artists"][:1]:
             add(fip, a, "titres_fipway")
     ranked = sorted(fip.values(), key=lambda e: -e["titres_fipway"])
     (OUT / "artistes-fipway.json").write_text(json.dumps(ranked, ensure_ascii=False, indent=1))

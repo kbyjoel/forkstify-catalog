@@ -81,7 +81,11 @@ def liked_track_artists(token):
         if not items:
             break
         for it in items:
-            for a in (it.get("track") or {}).get("artists", []):
+            # seul l'artiste principal compte : un invité sur un titre aimé
+            # n'est pas un artiste aimé (Bosh, Bossikan, Bow Wow — Joel,
+            # 09/09/2026)
+            artists = (it.get("track") or {}).get("artists", [])
+            for a in artists[:1]:
                 key = a["id"]
                 entry = counts.setdefault(key, {"nom": a["name"], "spotify": key,
                                                 "titres_aimes": 0})

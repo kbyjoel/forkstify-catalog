@@ -96,7 +96,8 @@ def main():
         if not track.get("artists"):
             continue
         n_titres += 1
-        for a in track["artists"]:
+        # l'artiste principal seulement, comme pour les titres aimés
+        for a in track["artists"][:1]:
             e = counts.setdefault(a["id"], {"nom": a["name"], "spotify": a["id"],
                                             "titres_playlist": 0})
             e["titres_playlist"] += 1
