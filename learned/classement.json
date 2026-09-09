@@ -12,10 +12,10 @@
  {
   "nom": "Odezenne",
   "spotify": "1FiWBzw15KbR9amOb1Xnxp",
-  "score": 77,
+  "score": 76,
   "sources": 4,
   "albums_aimes": 10,
-  "titres_aimes": 42,
+  "titres_aimes": 41,
   "titres_fipway": 1,
   "titres_playlist": 4
  },
@@ -58,17 +58,6 @@
   "titres_playlist": 4
  },
  {
-  "nom": "La Femme",
-  "spotify": "5VTWoYYizcOY3uIKnxeCGI",
-  "score": 45,
-  "sources": 5,
-  "albums_aimes": 4,
-  "titres_aimes": 15,
-  "titres_fipway": 4,
-  "titres_playlist": 6,
-  "suivi": true
- },
- {
   "nom": "The Cure",
   "spotify": "7bu3H8JO7d0UbMoVzbo70s",
   "score": 45,
@@ -77,6 +66,17 @@
   "titres_aimes": 34,
   "titres_fipway": 1,
   "titres_playlist": 1
+ },
+ {
+  "nom": "La Femme",
+  "spotify": "5VTWoYYizcOY3uIKnxeCGI",
+  "score": 44,
+  "sources": 5,
+  "albums_aimes": 4,
+  "titres_aimes": 15,
+  "titres_fipway": 3,
+  "titres_playlist": 6,
+  "suivi": true
  },
  {
   "nom": "Stupeflip",
@@ -98,11 +98,11 @@
  {
   "nom": "Dominique A",
   "spotify": "6IoS9ojtxKCL1tW5VL1buI",
-  "score": 39,
+  "score": 38,
   "sources": 3,
   "albums_aimes": 2,
   "titres_aimes": 31,
-  "titres_fipway": 2
+  "titres_fipway": 1
  },
  {
   "nom": "Air",
@@ -144,16 +144,6 @@
   "titres_playlist": 7
  },
  {
-  "nom": "Roméo Elvis",
-  "spotify": "2pHk4wAmL7ofTAuvCIUWtv",
-  "score": 26,
-  "sources": 4,
-  "albums_aimes": 1,
-  "titres_aimes": 16,
-  "titres_fipway": 1,
-  "titres_playlist": 6
- },
- {
   "nom": "Damien Rice",
   "spotify": "14r9dR01KeBLFfylVSKCZQ",
   "score": 25,
@@ -172,13 +162,13 @@
   "titres_playlist": 2
  },
  {
-  "nom": "Le Motel",
-  "spotify": "4LLrhUqUv2Mi1NhHz0pjXd",
-  "score": 23,
+  "nom": "Roméo Elvis",
+  "spotify": "2pHk4wAmL7ofTAuvCIUWtv",
+  "score": 24,
   "sources": 3,
   "albums_aimes": 1,
   "titres_aimes": 15,
-  "titres_playlist": 5
+  "titres_playlist": 6
  },
  {
   "nom": "Noir Désir",
@@ -251,16 +241,6 @@
   "titres_aimes": 12
  },
  {
-  "nom": "Bertrand Belin",
-  "spotify": "5yFrjxlSd8zPqzCCNrOI5h",
-  "score": 18,
-  "sources": 4,
-  "albums_aimes": 1,
-  "titres_aimes": 11,
-  "titres_fipway": 3,
-  "titres_playlist": 1
- },
- {
   "nom": "-M-",
   "spotify": "6soPpJHlCtN6SY8pWlfbC6",
   "score": 17,
@@ -290,14 +270,6 @@
   "titres_playlist": 1
  },
  {
-  "nom": "The Limiñanas",
-  "spotify": "2joJCoCL4EmiVqic3vZn7n",
-  "score": 16,
-  "sources": 2,
-  "albums_aimes": 3,
-  "titres_fipway": 7
- },
- {
   "nom": "Flora Fishbach",
   "spotify": "6smOYrOT8fGSn5lDC86Jjb",
   "score": 16,
@@ -323,6 +295,24 @@
   "albums_aimes": 1,
   "titres_aimes": 12,
   "titres_playlist": 1
+ },
+ {
+  "nom": "Bertrand Belin",
+  "spotify": "5yFrjxlSd8zPqzCCNrOI5h",
+  "score": 16,
+  "sources": 4,
+  "albums_aimes": 1,
+  "titres_aimes": 11,
+  "titres_fipway": 1,
+  "titres_playlist": 1
+ },
+ {
+  "nom": "The Limiñanas",
+  "spotify": "2joJCoCL4EmiVqic3vZn7n",
+  "score": 15,
+  "sources": 2,
+  "albums_aimes": 3,
+  "titres_fipway": 6
  },
  {
   "nom": "The xx",
@@ -477,14 +467,6 @@
   "albums_aimes": 3
  },
  {
-  "nom": "XXXTENTACION",
-  "spotify": "15UsOTVnJzReFVN1VCnxy4",
-  "score": 9,
-  "sources": 2,
-  "albums_aimes": 2,
-  "titres_aimes": 3
- },
- {
   "nom": "Cheveu",
   "spotify": "3No127Hkg9LRf1Q63Uyq35",
   "score": 9,
@@ -511,13 +493,6 @@
   "titres_playlist": 3
  },
  {
-  "nom": "Squeezie",
-  "spotify": "0xECfhlRzRRIIe2Co5HX6n",
-  "score": 9,
-  "sources": 1,
-  "titres_aimes": 9
- },
- {
   "nom": "CAN",
   "spotify": "4l8xPGtl6DHR2uvunqrl8r",
   "score": 8,
@@ -525,6 +500,14 @@
   "albums_aimes": 2,
   "titres_fipway": 1,
   "titres_playlist": 1
+ },
+ {
+  "nom": "XXXTENTACION",
+  "spotify": "15UsOTVnJzReFVN1VCnxy4",
+  "score": 8,
+  "sources": 2,
+  "albums_aimes": 2,
+  "titres_aimes": 2
  },
  {
   "nom": "Alain Bashung",
@@ -545,8 +528,23 @@
   "titres_fipway": 2
  },
  {
+  "nom": "Le Motel",
+  "spotify": "4LLrhUqUv2Mi1NhHz0pjXd",
+  "score": 8,
+  "sources": 2,
+  "albums_aimes": 1,
+  "titres_playlist": 5
+ },
+ {
   "nom": "24kGoldn",
   "spotify": "6fWVd57NKTalqvmjRd2t8Z",
+  "score": 8,
+  "sources": 1,
+  "titres_aimes": 8
+ },
+ {
+  "nom": "Squeezie",
+  "spotify": "0xECfhlRzRRIIe2Co5HX6n",
   "score": 8,
   "sources": 1,
   "titres_aimes": 8
@@ -748,15 +746,6 @@
   "titres_playlist": 1
  },
  {
-  "nom": "Kanye West",
-  "spotify": "5K4W6rqBFWDnAN6FQUkS6x",
-  "score": 5,
-  "sources": 3,
-  "titres_aimes": 2,
-  "titres_fipway": 1,
-  "titres_playlist": 2
- },
- {
   "nom": "Troublemakers",
   "spotify": "1fvr9T1HgAq0fZvTLsWorn",
   "score": 4,
@@ -929,6 +918,15 @@
   "score": 4,
   "sources": 1,
   "titres_aimes": 4
+ },
+ {
+  "nom": "Kanye West",
+  "spotify": "5K4W6rqBFWDnAN6FQUkS6x",
+  "score": 4,
+  "sources": 3,
+  "titres_aimes": 1,
+  "titres_fipway": 1,
+  "titres_playlist": 2
  },
  {
   "nom": "Portishead",
@@ -1498,52 +1496,6 @@
   "titres_aimes": 3
  },
  {
-  "nom": "Kelly Rowland",
-  "spotify": "3AuMNF8rQAKOzjYppFNAoB",
-  "score": 3,
-  "sources": 1,
-  "titres_aimes": 3
- },
- {
-  "nom": "Michelle Williams",
-  "spotify": "6t7nbFAc2dUa7oNu7kBOui",
-  "score": 3,
-  "sources": 1,
-  "titres_aimes": 3
- },
- {
-  "nom": "Nekfeu",
-  "spotify": "4LXBc13z5EWsc5N32bLxfH",
-  "score": 3,
-  "sources": 2,
-  "titres_aimes": 2,
-  "titres_playlist": 1
- },
- {
-  "nom": "Stromae",
-  "spotify": "5j4HeCoUlzhfWtjAfM1acR",
-  "score": 3,
-  "sources": 2,
-  "titres_aimes": 2,
-  "titres_playlist": 1
- },
- {
-  "nom": "Angèle",
-  "spotify": "3QVolfxko2UyCOtexhVTli",
-  "score": 3,
-  "sources": 2,
-  "titres_aimes": 2,
-  "titres_fipway": 1
- },
- {
-  "nom": "Mélanie Pain",
-  "spotify": "2Sk0H4rS0QuQESESHELFy0",
-  "score": 3,
-  "sources": 2,
-  "titres_aimes": 2,
-  "titres_playlist": 1
- },
- {
   "nom": "Queen",
   "spotify": "1dfeR4HaWDbWqFHLkxsg1d",
   "score": 3,
@@ -1600,14 +1552,6 @@
   "titres_playlist": 2
  },
  {
-  "nom": "Nico",
-  "spotify": "0IwlY33zbBXN7zlS9DP2Cj",
-  "score": 3,
-  "sources": 2,
-  "titres_fipway": 1,
-  "titres_playlist": 2
- },
- {
   "nom": "Serge Gainsbourg",
   "spotify": "01C9OoXDvCKkGcf735Tcfo",
   "score": 3,
@@ -1626,34 +1570,6 @@
  {
   "nom": "Bow Wow",
   "spotify": "7352aRY2mqSxBZwzUb6LmA",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Jermaine Dupri",
-  "spotify": "6nfYGe7IIuuP5bMY1jkJP6",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Fabolous",
-  "spotify": "0YWxKQj2Go9CGHCp77UOyy",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Fundisha",
-  "spotify": "6rh2u7ghM7Dw1HnGmuBeSL",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Gringe",
-  "spotify": "4oVERQ0AxzzQ4zip1nMKlt",
   "score": 2,
   "sources": 1,
   "titres_aimes": 2
@@ -1687,20 +1603,6 @@
   "titres_aimes": 2
  },
  {
-  "nom": "Naps",
-  "spotify": "6W5uA6CNMf3hd2j4a2XWCx",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Drake",
-  "spotify": "3TVXtAsR1Inumwj472S9r4",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
   "nom": "Lil Pump",
   "spotify": "3wyVrVrFCkukjdVIdirGVY",
   "score": 2,
@@ -1710,41 +1612,6 @@
  {
   "nom": "Daniel Pemberton",
   "spotify": "7LbEDjJKrmWoMcN3OpaNnR",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Kev Adams",
-  "spotify": "28fTXEL90HZCAWinBeKF9m",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Colette",
-  "spotify": "2Lxf9JXIFwHtKmC7DCwyI3",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Thundercat",
-  "spotify": "4frXpPxQQZwbCu3eTGnZEw",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Bilal",
-  "spotify": "4jCbgl5Dmt3uOh8WRQfpPs",
-  "score": 2,
-  "sources": 1,
-  "titres_aimes": 2
- },
- {
-  "nom": "Anna Wise",
-  "spotify": "0N41KJ4H6bkPAm2tx7VS8C",
   "score": 2,
   "sources": 1,
   "titres_aimes": 2
@@ -1774,8 +1641,8 @@
   "titres_playlist": 1
  },
  {
-  "nom": "Del The Funky Homosapien",
-  "spotify": "0YsLR3SQd5QTXAhGIGX7cl",
+  "nom": "Nekfeu",
+  "spotify": "4LXBc13z5EWsc5N32bLxfH",
   "score": 2,
   "sources": 2,
   "titres_aimes": 1,
@@ -1798,8 +1665,8 @@
   "titres_playlist": 1
  },
  {
-  "nom": "Jacno",
-  "spotify": "0Ylo19ka3IHeArSwlL3D8m",
+  "nom": "Stromae",
+  "spotify": "5j4HeCoUlzhfWtjAfM1acR",
   "score": 2,
   "sources": 2,
   "titres_aimes": 1,
@@ -1830,60 +1697,12 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Gotan Project",
-  "spotify": "44ejFPE33H5aOInxNV2BFP",
-  "score": 2,
-  "sources": 2,
-  "titres_aimes": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "The Cinematic Orchestra",
-  "spotify": "32ogthv0BdaSMPml02X9YB",
-  "score": 2,
-  "sources": 2,
-  "titres_aimes": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Rebeka Warrior",
-  "spotify": "0VPogECnuuH2xbYP3Rmpd4",
-  "score": 2,
-  "sources": 2,
-  "titres_aimes": 1,
-  "titres_playlist": 1
- },
- {
-  "nom": "Grems",
-  "spotify": "2VXsRo1aTjdh4KydrrKtF2",
-  "score": 2,
-  "sources": 2,
-  "titres_aimes": 1,
-  "titres_playlist": 1
- },
- {
   "nom": "Michel Berger",
   "spotify": "5skauLarl8sqqUFypECtP4",
   "score": 2,
   "sources": 2,
   "titres_aimes": 1,
   "titres_fipway": 1
- },
- {
-  "nom": "Snoop Dogg",
-  "spotify": "7hJcb9fa4alzcOq3EaNPoG",
-  "score": 2,
-  "sources": 2,
-  "titres_aimes": 1,
-  "titres_playlist": 1
- },
- {
-  "nom": "Gordon Tracks",
-  "spotify": "4DWl8U58uYeeTtlvbrLEY6",
-  "score": 2,
-  "sources": 2,
-  "titres_aimes": 1,
-  "titres_playlist": 1
  },
  {
   "nom": "Goran Bregović",
@@ -2082,14 +1901,6 @@
   "titres_playlist": 1
  },
  {
-  "nom": "Ry Cooder",
-  "spotify": "1CPwHx5lgVxv0rfcp7UXLx",
-  "score": 2,
-  "sources": 2,
-  "titres_fipway": 1,
-  "titres_playlist": 1
- },
- {
   "nom": "The Smiths",
   "spotify": "3yY2gUcIsjMr8hjo51PoJ8",
   "score": 2,
@@ -2182,6 +1993,13 @@
   "titres_playlist": 2
  },
  {
+  "nom": "Nico",
+  "spotify": "0IwlY33zbBXN7zlS9DP2Cj",
+  "score": 2,
+  "sources": 1,
+  "titres_playlist": 2
+ },
+ {
   "nom": "Kelis",
   "spotify": "0IF46mUS8NXjgHabxk2MCM",
   "score": 2,
@@ -2252,20 +2070,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Jowell & Randy",
-  "spotify": "4IMAo2UQchVFyPH24PAjUs",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Poo Bear",
-  "spotify": "3JXpwnHbLvXxY99EuXqFPX",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Blaqout",
   "spotify": "6wI2A5J2jZZ2GXFHr1Qm5K",
   "score": 1,
@@ -2275,48 +2079,6 @@
  {
   "nom": "Michel Fugain",
   "spotify": "3Uitc0uNSbhVrqJON4NCMY",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Le Big Bazar",
-  "spotify": "3Flcm9X9nGdFzBfptzOI3K",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "mgk",
-  "spotify": "6TIYQ3jFPwQSRmorSezPxX",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Tommy Lee",
-  "spotify": "4b9L0p4cMof32XvjwT9YrX",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Audio Chateau",
-  "spotify": "4rtX2hxqvqi1IMDmA8dVDD",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Future",
-  "spotify": "1RyvyyTE3xzB2ZywiAwp0i",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "iann dior",
-  "spotify": "6ASri4ePR7RlsvIQgWPJpS",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2336,29 +2098,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Inoxtag",
-  "spotify": "44BwcqsS9V20HWSeql39ah",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Kazuya Yoshii",
   "spotify": "4tgnOBWTNWUtp3uhUiLCkj",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Skread",
-  "spotify": "6BbceEVcjow8mhQPYK3eBK",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "The Neptunes",
-  "spotify": "0KuF7reCTOZwV7YJnHQqgr",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2378,27 +2119,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "KronoMuzik",
-  "spotify": "7B53Suqn5TsVu6S6gIgqeA",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Myd",
-  "spotify": "3QFiymmbJlVBPpnrOatEAk",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Busta Rhymes",
-  "spotify": "1YfEcTuGvBQ8xSD1f53UnK",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Farruko",
   "spotify": "329e4yvIujISKGKz1BZZbO",
   "score": 1,
@@ -2413,22 +2133,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Mastu",
-  "spotify": "4V9vRZSqYVOgad1sDuDPHb",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Macklemore",
   "spotify": "3JhNCzhSMTxs9WLGJJxWOY",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Skylar Grey",
-  "spotify": "4utLUGcTvOJFr6aqIJtYWV",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2441,13 +2147,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Bastille",
-  "spotify": "7EQ0qTo7fWT7DPxmxtSYEc",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Madcon",
   "spotify": "6c4sUNBgdonFJz8Kx2VsGz",
   "score": 1,
@@ -2455,22 +2154,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Ray Dalton",
-  "spotify": "4e0nWw2r4BoQSKPQ2zpU13",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Pv Nova",
   "spotify": "4ZmvWXweW6z8J13MFuioAd",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Cyprien",
-  "spotify": "0B3XlUHSIHY3i4rWszdK6j",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2511,20 +2196,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "RM",
-  "spotify": "2auC28zjQyVTsiZKNgPRGs",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "BTS",
-  "spotify": "3Nrfpe0tUJi4K4DXYWgMUX",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Sexion d'Assaut",
   "spotify": "4vnmifnGOeRXfNTRtgd4Tj",
   "score": 1,
@@ -2560,15 +2231,15 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Justin Bieber",
-  "spotify": "1uNFoZAHBGtllmzznpCI3s",
+  "nom": "FLOW",
+  "spotify": "3w2HqkKa6upwuXEULtGvnY",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
  },
  {
-  "nom": "FLOW",
-  "spotify": "3w2HqkKa6upwuXEULtGvnY",
+  "nom": "Naps",
+  "spotify": "6W5uA6CNMf3hd2j4a2XWCx",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2581,29 +2252,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Bruno Mars",
-  "spotify": "0du5cEVh5yTK9QJze8zA0C",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Negrito Senpai",
   "spotify": "2GaeJMjlHon1tOuq3LGeaZ",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Gambi",
-  "spotify": "1lB3I3SI30v2ZOpR4XQqzJ",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Nemir",
-  "spotify": "5f6nz3iqzrfiUfKOIKvLvd",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2623,8 +2273,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Jack Harlow",
-  "spotify": "2LIk90788K0zvyj2JJVwkJ",
+  "nom": "Drake",
+  "spotify": "3TVXtAsR1Inumwj472S9r4",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2632,13 +2282,6 @@
  {
   "nom": "Coolio",
   "spotify": "3y24n3XhZ96wgwRXjvS17T",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "L.V.",
-  "spotify": "2LhsePRtgCo4THVKULQBL7",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2679,13 +2322,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Young Thug",
-  "spotify": "50co4Is1HCEo8bhOyUWKpn",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "DJ Snake",
   "spotify": "540vIaP2JwjQb9dm3aArA4",
   "score": 1,
@@ -2693,36 +2329,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Selena Gomez",
-  "spotify": "0C8ZW7ezQVs4URX5aX7Kqx",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Ozuna",
-  "spotify": "1i8SpTcr7yvPOmcqrbnVXY",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Cardi B",
-  "spotify": "4kYSro6naA4h99UJvo89HB",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Kungs",
   "spotify": "7keGfmQR4X5w0two1xKZ7d",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Cookin' On 3 Burners",
-  "spotify": "726MxZBpkxnnoKl6aN7mmj",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2784,43 +2392,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Denzel Curry",
-  "spotify": "6fxyWrfmjcbj5d12gXeiNV",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Cordae",
-  "spotify": "0huGjMyP507tBCARyzSkrv",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "SWAVAY",
-  "spotify": "29gIYsdyccGoUc6qgkZeTK",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Trevor Rich",
-  "spotify": "6QhPWkWn4HiqXP9b3OMLKI",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Lil Wayne",
   "spotify": "55Aa2cqylxrFIXC767Z865",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Ty Dolla $ign",
-  "spotify": "7c0XG5cIJTrrAgEC3ULPiq",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2847,22 +2420,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Black Caviar",
-  "spotify": "1wqW0IQWC7V7jktcjVHID6",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Vince Staples",
   "spotify": "68kEuyFKyqrdQQLLsmiatm",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Richie Kohan",
-  "spotify": "3QYRu7CWJylnxkvbTS3ovC",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2882,55 +2441,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Soso Maness",
-  "spotify": "0oeiA5U9u1U45Gos5cywUU",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Elams",
-  "spotify": "2IoSLl3tqYMq9DzR0d6NJN",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Jul",
-  "spotify": "3IW7ScrzXmPvZhB27hmfgy",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "SCH",
-  "spotify": "2kXKa3aAFngGz2P4GjG5w2",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Solda",
-  "spotify": "7FXX45sHqoQoCwqtG0ZV8H",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Houari",
-  "spotify": "6zrOXBaNn0DqJeXxgC2eyH",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "13 Organisé",
-  "spotify": "19u3RGWKsjmbg9eI6zAiNp",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "NLE Choppa",
   "spotify": "0ErzCpIMyLcjPiwT4elrtZ",
   "score": 1,
@@ -2945,13 +2455,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Ninho",
-  "spotify": "6Te49r3A6f5BiIgBRxH7FH",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Daddy Yankee",
   "spotify": "4VMYDCV2IEDYJArk749S6m",
   "score": 1,
@@ -2959,22 +2462,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Snow",
-  "spotify": "3uZFBSsMiooimnprFL9jD1",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Sam's",
   "spotify": "3mvmdWXXKKpUrmYTvdALyS",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Lacrim",
-  "spotify": "7DUTsWY3RBd64vh8UtgtYA",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -2989,13 +2478,6 @@
  {
   "nom": "LUM!X",
   "spotify": "0TKFPt9w0AAEnhB9bd0pLy",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Gabry Ponte",
-  "spotify": "5ENS85nZShljwNgg4wFD7D",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -3043,8 +2525,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "youtunes",
-  "spotify": "2zINAyIGzXnyoYcuHlkGjl",
+  "nom": "Kev Adams",
+  "spotify": "28fTXEL90HZCAWinBeKF9m",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -3085,13 +2567,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Heuss L'enfoiré",
-  "spotify": "3YwqjMyrRfuixi2pbgTGCE",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Wejdene",
   "spotify": "1SxuyHZnLUFyFHGzdGaxZk",
   "score": 1,
@@ -3113,13 +2588,6 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Swae Lee",
-  "spotify": "1zNqQNIdeOUZHb8zbZRFMX",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Juice WRLD",
   "spotify": "4MCBfE4596Uoi2O4DtmEMz",
   "score": 1,
@@ -3127,22 +2595,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Seezyn",
-  "spotify": "1jIVEaq8GmqMYb8nFNAZgb",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
   "nom": "Kirby",
   "spotify": "4VZ6HC2m6jAjAcT80Oxquw",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Vincenzo",
-  "spotify": "0qip4dhB68FjSC0Y2S86RP",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -3157,41 +2611,6 @@
  {
   "nom": "Vanilla Ice",
   "spotify": "7GXXMm3DB1VswVcuGyInUd",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "J Balvin",
-  "spotify": "1vyhD5VmyZ7KMfW5gqLgo5",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Willy William",
-  "spotify": "4RSyJzf7ef6Iu2rnLdabNq",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "JAŸ-Z",
-  "spotify": "3nFkdlSjzX9mRTtwJOzDYB",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Bzzzz Drumline",
-  "spotify": "0xdtP9n6ADxk6Q0vDx3dwz",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Blue Ivy",
-  "spotify": "3XV0lFzNs8BCTwhJTcMiBr",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -3218,57 +2637,8 @@
   "titres_aimes": 1
  },
  {
-  "nom": "Nick Waterhouse",
-  "spotify": "0V7uVrIYr4FwFvUN9S4kYr",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Virus Style",
-  "spotify": "5ZOMfDZL1oGs3VqJJ2rQ07",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Tasha Bundy",
-  "spotify": "09N5lJ1z2PeVrlzsuzajAq",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Jazzanova",
-  "spotify": "0nTErwSOllrcUWt3knOG2T",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Wechsel Garland",
-  "spotify": "5iTn5dJcAOVdyIzK1AN0pW",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Panoptica",
-  "spotify": "190DvOuVkHyMOK9FZIOqo8",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Iso68",
-  "spotify": "5RbFACKC7XvaFNyRXskOob",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Stratus",
-  "spotify": "7Lbjafvyybu3xnrVRCtE9V",
+  "nom": "Angèle",
+  "spotify": "3QVolfxko2UyCOtexhVTli",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -3276,125 +2646,6 @@
  {
   "nom": "Noob",
   "spotify": "3p2cynbpnQqIukLKI5AJ33",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Bonnie Banane",
-  "spotify": "5krZkab66mF2eexXFJv0A6",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Moussa",
-  "spotify": "5szBKM0Zc5bKmQvkiO1NDS",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Nabounou",
-  "spotify": "2YAMIrgMwrE7IFI7RF2hYw",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Radioinactive",
-  "spotify": "12p113CCqH63zqdhvVJ0C9",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "BUSDRIVER",
-  "spotify": "43SXnO2N4X024u3l9MfvXD",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Out One",
-  "spotify": "6qujj6WyYq94kVj8IOxHpF",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Jan Paternoster",
-  "spotify": "6sNyuinYrlcmgHWphReBwI",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Lomepal",
-  "spotify": "1Yfe3ONJlioHys7jwHdfVm",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Sandrine Cacheton",
-  "spotify": "0qUaXdMnl3S7snwG5wpyje",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "MC Salo",
-  "spotify": "1quV4CgipPwybFtikATOBc",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "George Clinton",
-  "spotify": "2GVBp7QyHckoOg7rYkLvrA",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "James Fauntleroy",
-  "spotify": "5ooSG9S0glqP5ZrqqaHBvT",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Ronald Isley",
-  "spotify": "6W9RUw7xnNRYtgh8dimg7L",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Rapsody",
-  "spotify": "6NL31G53xThQXkFs7lDpL5",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "GIMS",
-  "spotify": "0GOx72r5AAEKRGQFn3xqXK",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Dizzee Rascal",
-  "spotify": "0gusqTJKxtU1UTmNRMHZcv",
-  "score": 1,
-  "sources": 1,
-  "titres_aimes": 1
- },
- {
-  "nom": "Ibeyi",
-  "spotify": "5Q8NEHGX70m1kkojbtm8wa",
   "score": 1,
   "sources": 1,
   "titres_aimes": 1
@@ -3442,36 +2693,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Alison Krauss",
-  "spotify": "5J6L7N6B4nI1M5cwa29mQG",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Camille",
   "spotify": "0gOsZcHl7H3ewXVIEnWFZX",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Flowering Inferno",
-  "spotify": "2JLqcc3mwS4Xf7xZuYwK0p",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Nidia Gongora",
-  "spotify": "5Ln6VxkwRDdAH40Lel6Yj8",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Quantic and His Combo Barbaro",
-  "spotify": "7zc5IwPnsT4IxqtsqVwcSN",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -3568,13 +2791,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Vaska Jankovska",
-  "spotify": "6UfckOcvEeVW0fOLrqPHMA",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Lou Reed",
   "spotify": "42TFhl7WlMRXiNqzSrnzPL",
   "score": 1,
@@ -3617,27 +2833,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Areski Belkacem",
-  "spotify": "5LLUmbTFyu7rOa75EdRQcY",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Chilly Gonzales",
-  "spotify": "0qudezVgvl4Chd9BgNFB83",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Emmanuelle Seigner",
-  "spotify": "1VULYBfWerkoDij9s1T0Si",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Baxter Dury",
   "spotify": "0EgHhNmWcjusA7F2heSD0O",
   "score": 1,
@@ -3666,22 +2861,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Raül Refree",
-  "spotify": "5TPIp7TiaJOVn2sZ4s4JDy",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Isobel Campbell",
   "spotify": "55dlp5I9jyc4UjzlrcKMnq",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Los Miticos Del Ritmo",
-  "spotify": "1YR9g05YIIVWq3QsC7Krsu",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -3715,22 +2896,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "AnnenMayKantereit",
-  "spotify": "23xqmJEN3oVxwzqtNIyR5m",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Marvin Gaye",
   "spotify": "3koiLjNrgRTNbOwViDipeA",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Tammi Terrell",
-  "spotify": "75jNCko3SnEMI5gwGqrbb8",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -3764,13 +2931,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Vinicio Capossela",
-  "spotify": "6FlxhoUGATC40TALMesaFM",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Susheela Raman",
   "spotify": "3uSVvh3bPDq5XMTHElgfC2",
   "score": 1,
@@ -3780,6 +2940,13 @@
  {
   "nom": "Orishas",
   "spotify": "2gKYxTUOqw9aPt7ljMwSHT",
+  "score": 1,
+  "sources": 1,
+  "titres_fipway": 1
+ },
+ {
+  "nom": "Gotan Project",
+  "spotify": "44ejFPE33H5aOInxNV2BFP",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -3799,22 +2966,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Wings",
-  "spotify": "3sFhA6G1N0gG1pszb6kk1m",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "The Cox Family",
   "spotify": "5fu3Po5z59bTfUgbcaE0ay",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Billy Nomates",
-  "spotify": "0QJaBD8Piha8IEwKtNpBOB",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -3836,13 +2989,6 @@
  {
   "nom": "Rhume",
   "spotify": "3RSTHtAvVBCZ8S9IQo0QmZ",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Antoine Wielemans",
-  "spotify": "1UWUCHZoGKigq1AdScIJtF",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -3897,13 +3043,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Tigre d'Eau Douce",
-  "spotify": "2J0cbdwUlJkBYkQYIDDU5k",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Ben Harper",
   "spotify": "45lorWzrKLxfKlWpV7r9CN",
   "score": 1,
@@ -3946,36 +3085,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Soulwax",
-  "spotify": "43mWhBXSflupNLuNjM5vff",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Biga*Ranx",
   "spotify": "5rgdw8NVhnxWL8Poo6HsiX",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "LEJ",
-  "spotify": "6etBiT7APomx05xmEWvJFb",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Akhenaton",
-  "spotify": "4ddg7PH5OuSossiSBWgueu",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Blundetto",
-  "spotify": "3bWxjvKUe8YV0VkI5d3I1Y",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4018,13 +3129,6 @@
  {
   "nom": "Pascal Comelade",
   "spotify": "1S8bX9opXYLkPIp7WPhySa",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Lionel Limiñana",
-  "spotify": "0VpzSIbLokBNmaHM7oWGI9",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4114,22 +3218,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Lee Fields",
-  "spotify": "3MAzDpqE01xyUmzNsc0Ee0",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Adriana Paz",
   "spotify": "3lRv03FuzVeH86fJhllcMz",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "The Mexican Choir",
-  "spotify": "68jpn60DDc7XyG0MqeJeqh",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4191,13 +3281,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Ruan Vitor",
-  "spotify": "52r6egZqN7n6JpVkP7LnWG",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Mazouni",
   "spotify": "0wfq6Qxt4GZIEgjmrXSt9k",
   "score": 1,
@@ -4219,8 +3302,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Patrick Watson",
-  "spotify": "7bPs6jf983f0bjRAt1yxDM",
+  "nom": "The Cinematic Orchestra",
+  "spotify": "32ogthv0BdaSMPml02X9YB",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4254,20 +3337,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Charlotte Brousseau",
-  "spotify": "4LNArdKIzDfgrwwqbzX5K4",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Pusha T",
-  "spotify": "0ONHkAv9pCAFxb0zJwDNTy",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Tokyo",
   "spotify": "6EbqAudWdOXJmGgJnfzAqq",
   "score": 1,
@@ -4289,20 +3358,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Theodora",
-  "spotify": "3PpJbrAbphauEun8Xf9tD2",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Horace Andy",
-  "spotify": "2ieAXAuLe6qQ3RJsqCxpoC",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Dominic Fike",
   "spotify": "6USv9qhCn6zfxlBQIYJ9qs",
   "score": 1,
@@ -4317,43 +3372,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Dan The Automator",
-  "spotify": "4fv5w0LJib9OMbXQegqZ01",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Prince Paul",
-  "spotify": "7ajUo7DyiAOYvCndGLoJ1u",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Róisín Murphy",
-  "spotify": "3qwabfaWewpfli7hMNM3O8",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "J-Live",
-  "spotify": "5bb5uytW59wDF0gpv8iQbE",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Dawn Penn",
   "spotify": "6mLXvSt7Xxy2r9uBba1O6Z",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Noel Gallagher",
-  "spotify": "6IRQd80VHepXiTXdmBzk6l",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4368,13 +3388,6 @@
  {
   "nom": "Laurent Voulzy",
   "spotify": "6ogXCiVOaz2afPmMNHph7Z",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Véronique Jannot",
-  "spotify": "3AySyGIRlpIhkjan8dOSbN",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4401,13 +3414,6 @@
   "titres_fipway": 1
  },
  {
-  "nom": "Akon",
-  "spotify": "0z4gvV4rjIZ9wHck67ucSV",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "White Town",
   "spotify": "1MPcILKoMCJym9KscdYxuM",
   "score": 1,
@@ -4429,36 +3435,8 @@
   "titres_fipway": 1
  },
  {
-  "nom": "CeeLo Green",
-  "spotify": "5nLYd9ST4Cnwy6NHaCxbj8",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Danger Mouse",
-  "spotify": "2dBj3prW7gP9bCCOIQeDUf",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
   "nom": "Bob Marley & The Wailers",
   "spotify": "2QsynagSdAqZj3U9HgDzjD",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Angela McCluskey",
-  "spotify": "5AlIxbb8HarTSm2tdA5F0x",
-  "score": 1,
-  "sources": 1,
-  "titres_fipway": 1
- },
- {
-  "nom": "Nuria",
-  "spotify": "21sVXoR17xphV2u6PNTpo2",
   "score": 1,
   "sources": 1,
   "titres_fipway": 1
@@ -4681,6 +3659,13 @@
   "titres_playlist": 1
  },
  {
+  "nom": "Jacno",
+  "spotify": "0Ylo19ka3IHeArSwlL3D8m",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
   "nom": "New Order",
   "spotify": "0yNLKJebCb8Aueb54LYya3",
   "score": 1,
@@ -4842,6 +3827,13 @@
   "titres_playlist": 1
  },
  {
+  "nom": "Gordon Tracks",
+  "spotify": "4DWl8U58uYeeTtlvbrLEY6",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
   "nom": "Arcade Fire",
   "spotify": "3kjuyTCjPG1WMFCiyc5IuB",
   "score": 1,
@@ -4942,6 +3934,13 @@
  {
   "nom": "De La Soul",
   "spotify": "1Z8ODXyhEBi3WynYw0Rya6",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
+  "nom": "Del The Funky Homosapien",
+  "spotify": "0YsLR3SQd5QTXAhGIGX7cl",
   "score": 1,
   "sources": 1,
   "titres_playlist": 1
@@ -5171,6 +4170,13 @@
   "titres_playlist": 1
  },
  {
+  "nom": "Snoop Dogg",
+  "spotify": "7hJcb9fa4alzcOq3EaNPoG",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
   "nom": "Hope Sandoval",
   "spotify": "7zS53Xa6sVgfoh00kckgyV",
   "score": 1,
@@ -5255,8 +4261,22 @@
   "titres_playlist": 1
  },
  {
+  "nom": "Mélanie Pain",
+  "spotify": "2Sk0H4rS0QuQESESHELFy0",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
   "nom": "Irma Thomas",
   "spotify": "01Z8Z9K54zewyP04ZfGLSv",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
+  "nom": "Ry Cooder",
+  "spotify": "1CPwHx5lgVxv0rfcp7UXLx",
   "score": 1,
   "sources": 1,
   "titres_playlist": 1
@@ -5278,6 +4298,13 @@
  {
   "nom": "Swell",
   "spotify": "4EaWgdL8zvu4JvDZY4ED5Q",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
+  "nom": "Grems",
+  "spotify": "2VXsRo1aTjdh4KydrrKtF2",
   "score": 1,
   "sources": 1,
   "titres_playlist": 1
@@ -5306,6 +4333,13 @@
  {
   "nom": "Pharrell Williams",
   "spotify": "2RdwBSPQiwcmiDo9kixcl8",
+  "score": 1,
+  "sources": 1,
+  "titres_playlist": 1
+ },
+ {
+  "nom": "Rebeka Warrior",
+  "spotify": "0VPogECnuuH2xbYP3Rmpd4",
   "score": 1,
   "sources": 1,
   "titres_playlist": 1
