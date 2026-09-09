@@ -2,7 +2,6 @@ plays = 1.0
 last = "2026-09-09"
 weight = 1.0
 
-[tops."Les yeux de ma mère (en concert)"]
+[tops."Les hommes que j'aime"]
 plays = 1.0
 last = "2026-09-09"
-liked = true
