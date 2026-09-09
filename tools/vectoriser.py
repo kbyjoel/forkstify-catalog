@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Compose le texte de chaque fiche depuis sa structure et calcule les vecteurs.
 
+**Remplacé par `forkstify vectors` depuis le 09/09/2026** (décision 0019 du
+dépôt forkstify) : l'application vectorise elle-même, avec le même modèle
+et la même composition de texte, tronqué à 128 jetons, vecteurs normalisés.
+Ce script reste pour mémoire et pour `--textes`.
+
 Le texte n'est jamais demandé aux humains : il est composé depuis les champs
 structurés (tags, dates, origine, liens et voisins), la description ajoute de
 la nuance quand elle existe (docs/conception/catalogue.md du dépôt forkstify).
