@@ -1,7 +1,11 @@
-plays = 1.0
-last = "2026-09-07"
+plays = 1.9924326442238343
+last = "2026-09-09"
 weight = 1.0
 
 [tops."Bruxelles arrive"]
 plays = 1.0
 last = "2026-09-07"
+
+[tops.Soleil]
+plays = 1.0
+last = "2026-09-09"
