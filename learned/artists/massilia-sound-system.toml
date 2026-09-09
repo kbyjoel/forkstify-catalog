@@ -4,5 +4,14 @@ weight = 1.0
 [tops."Jompa Vo!"]
 liked = true
 
+[tops."Les Papets Les Minots"]
+liked = true
+
+[tops.Occitanista]
+liked = true
+
+[tops."Pauvre De Nous"]
+liked = true
+
 [tops."Raja Occitani"]
 liked = true
