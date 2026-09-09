@@ -1,0 +1,22 @@
+plays = 1.0
+last = "2026-09-09"
+weight = 1.0
+
+[tops."Bonne Nuit"]
+plays = 1.0
+last = "2026-09-09"
+
+[tops."Castan Blues"]
+liked = true
+
+[tops."Demain, demain"]
+liked = true
+
+[tops."L'Omelette Au Pastis"]
+liked = true
+
+[tops."Le Plus Big Défi"]
+liked = true
+
+[tops."Ma Ville Est Le Plus Beau Park"]
+liked = true
