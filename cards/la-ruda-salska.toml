@@ -8,3 +8,11 @@ end = "2012"
 origin = "Saumur"
 
 tags = ["ska", "pop", "punk", "fr", "90s"]
+
+tops = [
+  "L'art de la joie",
+  "Le bruit du bang",
+  "L'instinct du meilleur - Live",
+  "Orange",
+  "Trianon",
+]
