@@ -1,8 +1,15 @@
-plays = 0.0
+plays = 2.0
+last = "2026-09-09"
 weight = 1.0
 
 [tops."Au café du canal"]
 skipped = 1
 
+[tops."Côté Punk"]
+plays = 1.0
+last = "2026-09-09"
+
 [tops."Je cours"]
+plays = 1.0
+last = "2026-09-09"
 liked = true
