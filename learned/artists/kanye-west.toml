@@ -1,8 +1,12 @@
-plays = 3.0
+plays = 4.0
 last = "2026-09-10"
 weight = 1.0
 
 [tops.530]
+plays = 1.0
+last = "2026-09-10"
+
+[tops."ALL THE LOVE (feat. Andre Troutman)"]
 plays = 1.0
 last = "2026-09-10"
 
