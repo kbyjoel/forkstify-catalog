@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-09-07"
+plays = 2.977340935648844
+last = "2026-09-10"
 weight = 1.0
 
 [tops.Alright]
@@ -9,3 +9,7 @@ last = "2026-09-07"
 [tops."King Kunta"]
 plays = 1.0
 last = "2026-09-07"
+
+[tops."Money Trees"]
+plays = 1.0
+last = "2026-09-10"
