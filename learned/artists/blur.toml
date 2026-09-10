@@ -1,7 +1,12 @@
-plays = 1.0
+plays = 2.0
 last = "2026-09-10"
 weight = 1.0
 
 [tops."Country House"]
 plays = 1.0
 last = "2026-09-10"
+
+[tops."Girls & Boys"]
+plays = 1.0
+last = "2026-09-10"
+liked = true
