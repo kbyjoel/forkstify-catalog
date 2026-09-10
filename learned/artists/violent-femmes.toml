@@ -1,0 +1,11 @@
+plays = 1.0
+last = "2026-09-10"
+weight = 1.0
+
+[tops."Blister In The Sun"]
+liked = true
+
+[tops."Kiss Off"]
+plays = 1.0
+last = "2026-09-10"
+liked = true
