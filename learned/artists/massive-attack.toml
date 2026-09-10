@@ -1,7 +1,11 @@
-plays = 1.0
+plays = 2.0
 last = "2026-09-10"
 weight = 1.0
 
 [tops."Paradise Circus"]
+plays = 1.0
+last = "2026-09-10"
+
+[tops.Teardrop]
 plays = 1.0
 last = "2026-09-10"
