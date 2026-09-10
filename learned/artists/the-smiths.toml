@@ -1,7 +1,15 @@
-plays = 1.0
+plays = 3.0
 last = "2026-09-10"
 weight = 1.0
 
 [tops."Bigmouth Strikes Again"]
+plays = 1.0
+last = "2026-09-10"
+
+[tops."Heaven Knows I'm Miserable Now"]
+plays = 1.0
+last = "2026-09-10"
+
+[tops."There Is a Light That Never Goes Out"]
 plays = 1.0
 last = "2026-09-10"
