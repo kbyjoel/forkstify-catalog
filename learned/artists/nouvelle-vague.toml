@@ -1,12 +1,16 @@
-plays = 2.0
-last = "2026-09-07"
+plays = 2.977340935648844
+last = "2026-09-10"
 weight = 1.0
+
+[tops."Ever Fallen in Love"]
+plays = 1.0
+last = "2026-09-07"
 
 [tops."In a Manner of Speaking"]
 plays = 1.0
 last = "2026-09-07"
 liked = true
 
-[tops."Ever Fallen in Love"]
+[tops."Just Can't Get Enough"]
 plays = 1.0
-last = "2026-09-07"
+last = "2026-09-10"
