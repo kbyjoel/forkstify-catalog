@@ -1,4 +1,4 @@
-plays = 2.9848796046144006
+plays = 3.9848796046144006
 last = "2026-09-11"
 weight = 1.0
 
@@ -13,6 +13,10 @@ liked = true
 
 [tops."On The Bound"]
 liked = true
+
+[tops."Paper Bag"]
+plays = 1.0
+last = "2026-09-11"
 
 [tops.Shadowboxer]
 plays = 1.0
