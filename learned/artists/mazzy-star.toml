@@ -2,6 +2,9 @@ plays = 3.9848796046144006
 last = "2026-09-11"
 weight = 1.0
 
+[tops."All Your Sisters"]
+skipped = 1
+
 [tops."Fade Into You"]
 plays = 1.9962091367899788
 last = "2026-09-11"
