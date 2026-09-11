@@ -1,7 +1,11 @@
-plays = 1.0
+plays = 2.0
 last = "2026-09-11"
 weight = 1.0
 
 [tops."BAILE INoLVIDABLE"]
+plays = 1.0
+last = "2026-09-11"
+
+[tops.DtMF]
 plays = 1.0
 last = "2026-09-11"
