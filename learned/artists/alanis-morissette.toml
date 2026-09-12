@@ -1,6 +1,10 @@
-plays = 2.0
+plays = 3.0
 last = "2026-09-12"
 weight = 1.0
+
+[tops."Hand in My Pocket"]
+plays = 1.0
+last = "2026-09-12"
 
 [tops.Ironic]
 plays = 1.0
