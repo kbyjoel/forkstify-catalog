@@ -1,8 +1,10 @@
-plays = 1.0
+plays = 2.0
 last = "2026-09-12"
 weight = 1.0
 
 [tops.One]
+plays = 1.0
+last = "2026-09-12"
 liked = true
 
 [tops."With Or Without You"]
