@@ -1,13 +1,18 @@
-plays = 1.9962091367899788
+plays = 3.996209136789979
 last = "2026-09-12"
 weight = 1.0
 
 [tops."Danzón"]
-plays = 1.0
-last = "2026-09-11"
+plays = 1.9962091367899788
+last = "2026-09-12"
 liked = true
 
 [tops.Ileso]
+plays = 1.0
+last = "2026-09-12"
+liked = true
+
+[tops."Si Señor"]
 plays = 1.0
 last = "2026-09-12"
 liked = true
