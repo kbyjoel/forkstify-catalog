@@ -6,6 +6,9 @@ weight = 1.0
 plays = 1.0
 last = "2026-09-11"
 
+[tops."California Love (Original Version)"]
+liked = true
+
 [tops."Hit 'Em Up (Single Version)"]
 plays = 1.0
 last = "2026-09-11"
