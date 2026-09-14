@@ -5,6 +5,9 @@ weight = 1.0
 [tops."Do the Hippogriff"]
 skipped = 1
 
+[tops.Tearjerker]
+liked = true
+
 [tops."The Tearjerker Returns"]
 plays = 1.0
 last = "2026-09-14"
