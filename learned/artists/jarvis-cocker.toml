@@ -1,5 +1,11 @@
-plays = 0.0
+plays = 1.0
+last = "2026-09-14"
 weight = 1.0
 
 [tops."Do the Hippogriff"]
 skipped = 1
+
+[tops."The Tearjerker Returns"]
+plays = 1.0
+last = "2026-09-14"
+liked = true
