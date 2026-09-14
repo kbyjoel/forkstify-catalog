@@ -2,6 +2,8 @@ plays = 1.0
 last = "2026-09-10"
 weight = 1.0
 
+[tops.Berghain]
+
 [tops."It's Oh So Quiet"]
 plays = 1.0
 last = "2026-09-10"
