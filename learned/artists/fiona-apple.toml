@@ -1,5 +1,5 @@
-plays = 3.9848796046144006
-last = "2026-09-11"
+plays = 4.939732782918117
+last = "2026-09-14"
 weight = 1.0
 
 [tops."Anything We Want"]
@@ -12,6 +12,8 @@ last = "2026-09-11"
 liked = true
 
 [tops."On The Bound"]
+plays = 1.0
+last = "2026-09-14"
 liked = true
 
 [tops."Paper Bag"]
