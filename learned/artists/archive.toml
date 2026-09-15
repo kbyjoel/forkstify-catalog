@@ -1,6 +1,10 @@
-plays = 2.9698451066422233
-last = "2026-09-14"
+plays = 3.9585868300879916
+last = "2026-09-15"
 weight = 1.0
+
+[tops.Again]
+plays = 1.0
+last = "2026-09-15"
 
 [tops."City Walls"]
 plays = 1.0
