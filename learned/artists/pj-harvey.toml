@@ -1,6 +1,10 @@
-plays = 2.9849225533211117
-last = "2026-09-14"
+plays = 3.973607120228964
+last = "2026-09-15"
 weight = 1.0
+
+[tops."Good Fortune"]
+plays = 1.0
+last = "2026-09-15"
 
 [tops."The Darker Days Of Me & Him - Demo"]
 plays = 1.0

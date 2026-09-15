@@ -1,5 +1,5 @@
-plays = 3.962391847269273
-last = "2026-09-14"
+plays = 4.947370961791772
+last = "2026-09-15"
 weight = 1.0
 
 [tops."All Being Fine"]
@@ -10,6 +10,10 @@ liked = true
 [tops."Big Swimmer"]
 plays = 1.0
 last = "2026-09-10"
+
+[tops."Milk Boy (I Love You)"]
+plays = 1.0
+last = "2026-09-15"
 
 [tops."The Moods That I Get In"]
 plays = 1.0
