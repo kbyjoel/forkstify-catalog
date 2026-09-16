@@ -1,4 +1,4 @@
-plays = 2.966395024131736
+plays = 3.966395024131736
 last = "2026-09-16"
 weight = 1.0
 
@@ -8,6 +8,10 @@ last = "2026-09-07"
 liked = true
 
 [tops."Nights Out"]
+plays = 1.0
+last = "2026-09-16"
+
+[tops."Radio Ladio"]
 plays = 1.0
 last = "2026-09-16"
 
