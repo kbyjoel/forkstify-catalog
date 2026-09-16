@@ -1,4 +1,4 @@
-plays = 2.0
+plays = 4.0
 last = "2026-09-16"
 weight = 1.0
 
@@ -6,3 +6,11 @@ weight = 1.0
 plays = 2.0
 last = "2026-09-16"
 liked = true
+
+[tops."Jaded Future"]
+plays = 1.0
+last = "2026-09-16"
+
+[tops."Trans Boulogne Express"]
+plays = 1.0
+last = "2026-09-16"
