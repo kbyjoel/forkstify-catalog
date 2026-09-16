@@ -1,0 +1,15 @@
+plays = 3.0
+last = "2026-09-16"
+weight = 1.0
+
+[tops."Chaos A.D"]
+plays = 1.0
+last = "2026-09-16"
+
+[tops.Love]
+plays = 1.0
+last = "2026-09-16"
+
+[tops."The Shooter"]
+plays = 1.0
+last = "2026-09-16"
