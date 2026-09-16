@@ -1,0 +1,15 @@
+plays = 3.0
+last = "2026-09-16"
+weight = 1.0
+
+[tops."Tomorrow Night"]
+plays = 1.0
+last = "2026-09-16"
+
+[tops."Too Late"]
+plays = 1.0
+last = "2026-09-16"
+
+[tops."Your Very Eyes"]
+plays = 1.0
+last = "2026-09-16"
