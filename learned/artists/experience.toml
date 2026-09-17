@@ -1,5 +1,5 @@
-plays = 1.0
-last = "2026-09-09"
+plays = 1.9700724360405784
+last = "2026-09-17"
 weight = 1.0
 
 [tops."Aujourd'hui maintenant"]
@@ -17,4 +17,6 @@ liked = true
 liked = true
 
 [tops."Pour ceux qui aiment le jazz"]
+plays = 1.0
+last = "2026-09-17"
 liked = true
