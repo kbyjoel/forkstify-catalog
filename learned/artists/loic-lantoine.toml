@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-09-09"
+plays = 2.9401448720811567
+last = "2026-09-17"
 weight = 1.0
 
 [tops."Au café du canal"]
@@ -10,6 +10,6 @@ plays = 1.0
 last = "2026-09-09"
 
 [tops."Je cours"]
-plays = 1.0
-last = "2026-09-09"
+plays = 1.9700724360405784
+last = "2026-09-17"
 liked = true
