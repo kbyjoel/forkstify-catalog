@@ -5,3 +5,12 @@ weight = 1.0
 [tops.Angels]
 plays = 1.0
 last = "2026-09-14"
+
+[tops.Crystalised]
+liked = true
+
+[tops.Intro]
+liked = true
+
+[tops.VCR]
+liked = true
