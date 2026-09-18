@@ -1,5 +1,5 @@
-plays = 1.9849225533211117
-last = "2026-09-14"
+plays = 2.95499498936169
+last = "2026-09-18"
 weight = 1.0
 
 [tops.Berghain]
@@ -9,3 +9,7 @@ last = "2026-09-14"
 [tops."It's Oh So Quiet"]
 plays = 1.0
 last = "2026-09-10"
+
+[tops."Miðvikudags"]
+plays = 1.0
+last = "2026-09-18"
