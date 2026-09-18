@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-09-10"
+plays = 2.9401448720811567
+last = "2026-09-18"
 weight = 1.0
 
 [tops."Paradise Circus"]
@@ -9,3 +9,7 @@ last = "2026-09-10"
 [tops.Teardrop]
 plays = 1.0
 last = "2026-09-10"
+
+[tops."Unfinished Sympathy"]
+plays = 1.0
+last = "2026-09-18"

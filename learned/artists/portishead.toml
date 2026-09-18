@@ -1,5 +1,5 @@
-plays = 5.977397983438985
-last = "2026-09-15"
+plays = 6.909676860659379
+last = "2026-09-18"
 weight = 1.0
 
 [tops."Glory Box"]
@@ -20,4 +20,6 @@ plays = 1.0
 last = "2026-09-15"
 
 [tops."Wandering Star"]
+plays = 1.0
+last = "2026-09-18"
 liked = true
