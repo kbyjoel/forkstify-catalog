@@ -1,6 +1,10 @@
-plays = 1.9849225533211117
-last = "2026-09-14"
+plays = 2.95499498936169
+last = "2026-09-18"
 weight = 1.0
+
+[tops.Breathe]
+plays = 1.0
+last = "2026-09-18"
 
 [tops."Breathe (Kartell Slow Remix)"]
 plays = 1.0
