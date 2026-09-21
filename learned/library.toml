@@ -1,0 +1,5958 @@
+format = 1
+harvested = "2026-09-21"
+
+[[playlists]]
+id = "5iMBweAQEat42JjcTnUswH"
+name = "#fipway"
+
+[[playlists]]
+id = "1d3A64GNSHNq4RWWuyB0sx"
+name = "#oklm"
+
+[[playlists]]
+id = "7w6BgE33EZQA3ysHyGu9ao"
+name = "#psyche"
+
+[[playlists]]
+id = "3Ujes5j0VRehwtqwBBOCum"
+name = "#road trip BDX//ATX"
+
+[[artists]]
+name = "Calexico"
+spotify = "1OmdWpAh1pucAuZPzJaxIJ"
+liked_tracks = 66
+liked_albums = 4
+followed = false
+playlist_tracks = 8
+score = 86
+sources = 3
+
+[[artists]]
+name = "Odezenne"
+spotify = "1FiWBzw15KbR9amOb1Xnxp"
+liked_tracks = 41
+liked_albums = 10
+followed = false
+playlist_tracks = 8
+score = 79
+sources = 3
+
+[[artists]]
+name = "Orelsan"
+spotify = "4FpJcNgOvIpSBeJgRg3OfN"
+liked_tracks = 45
+liked_albums = 4
+followed = true
+playlist_tracks = 3
+score = 68
+sources = 4
+
+[[artists]]
+name = "Radiohead"
+spotify = "4Z8W4fKeB5YxbusRsdQVPb"
+liked_tracks = 33
+liked_albums = 4
+followed = false
+playlist_tracks = 15
+score = 60
+sources = 3
+
+[[artists]]
+name = "The Beatles"
+spotify = "3WrFJ7ztbogyGnTHbHJFl2"
+liked_tracks = 29
+liked_albums = 6
+followed = false
+playlist_tracks = 8
+score = 55
+sources = 3
+
+[[artists]]
+name = "La Femme"
+spotify = "5VTWoYYizcOY3uIKnxeCGI"
+liked_tracks = 15
+liked_albums = 4
+followed = true
+playlist_tracks = 18
+score = 53
+sources = 4
+
+[[artists]]
+name = "Nirvana"
+spotify = "6olE6TJLqED3rqDCT0FyPh"
+liked_tracks = 39
+liked_albums = 3
+followed = false
+playlist_tracks = 3
+score = 51
+sources = 3
+
+[[artists]]
+name = "The Cure"
+spotify = "7bu3H8JO7d0UbMoVzbo70s"
+liked_tracks = 34
+liked_albums = 3
+followed = false
+playlist_tracks = 3
+score = 46
+sources = 3
+
+[[artists]]
+name = "Stupeflip"
+spotify = "7qiRNP9z0FhN63YcLmb8Ai"
+liked_tracks = 22
+liked_albums = 5
+followed = false
+playlist_tracks = 7
+score = 44
+sources = 3
+
+[[artists]]
+name = "Dominique A"
+spotify = "6IoS9ojtxKCL1tW5VL1buI"
+liked_tracks = 31
+liked_albums = 2
+followed = false
+playlist_tracks = 4
+score = 41
+sources = 3
+
+[[artists]]
+name = "Beyoncé"
+spotify = "6vWDO969PvNqNYHIOW5v0m"
+liked_tracks = 40
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 40
+sources = 1
+
+[[artists]]
+name = "Flavien Berger"
+spotify = "5PyU5aVBI66v0pkCIvEJfu"
+liked_tracks = 13
+liked_albums = 3
+followed = false
+playlist_tracks = 14
+score = 36
+sources = 3
+
+[[artists]]
+name = "Air"
+spotify = "1P6U1dCeHxPui5pIrGmndZ"
+liked_tracks = 25
+liked_albums = 1
+followed = false
+playlist_tracks = 4
+score = 32
+sources = 3
+
+[[artists]]
+name = "Cabadzi"
+spotify = "6SOfR3vMDf9otrCMyzrdDn"
+liked_tracks = 12
+liked_albums = 2
+followed = true
+playlist_tracks = 4
+score = 30
+sources = 4
+
+[[artists]]
+name = "Damien Rice"
+spotify = "14r9dR01KeBLFfylVSKCZQ"
+liked_tracks = 19
+liked_albums = 2
+followed = false
+playlist_tracks = 1
+score = 26
+sources = 3
+
+[[artists]]
+name = "Kendrick Lamar"
+spotify = "2YZyLoL8N0Wb9xBt1NhZWg"
+liked_tracks = 17
+liked_albums = 1
+followed = false
+playlist_tracks = 6
+score = 26
+sources = 3
+
+[[artists]]
+name = "Metronomy"
+spotify = "54QMjE4toDfiCryzYWCpXX"
+liked_tracks = 12
+liked_albums = 2
+followed = false
+playlist_tracks = 8
+score = 26
+sources = 3
+
+[[artists]]
+name = "Roméo Elvis"
+spotify = "2pHk4wAmL7ofTAuvCIUWtv"
+liked_tracks = 15
+liked_albums = 1
+followed = false
+playlist_tracks = 6
+score = 24
+sources = 3
+
+[[artists]]
+name = "Noir Désir"
+spotify = "4ksCwAPgMi8rkQwwR3nMos"
+liked_tracks = 11
+liked_albums = 3
+followed = false
+playlist_tracks = 2
+score = 22
+sources = 3
+
+[[artists]]
+name = "Therapie TAXI"
+spotify = "5MynxBz4ZMqvUzpcxTZl4C"
+liked_tracks = 14
+liked_albums = 1
+followed = false
+playlist_tracks = 5
+score = 22
+sources = 3
+
+[[artists]]
+name = "Jay Reatard"
+spotify = "3cAGUcRbwsFHwKbJv8FT4T"
+liked_tracks = 15
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 21
+sources = 3
+
+[[artists]]
+name = "-M-"
+spotify = "6soPpJHlCtN6SY8pWlfbC6"
+liked_tracks = 1
+liked_albums = 4
+followed = false
+playlist_tracks = 7
+score = 20
+sources = 3
+
+[[artists]]
+name = "Les Innocents"
+spotify = "4yBNT94b6M3yRNVLIy8RhP"
+liked_tracks = 14
+liked_albums = 2
+followed = false
+playlist_tracks = 0
+score = 20
+sources = 2
+
+[[artists]]
+name = "Nouvelle Vague"
+spotify = "4h7NLIlg1oYdEtfQJfyto0"
+liked_tracks = 13
+liked_albums = 1
+followed = false
+playlist_tracks = 4
+score = 20
+sources = 3
+
+[[artists]]
+name = "Oscar Peterson Trio"
+spotify = "0ldU0QJm31y0d6f57R1G2A"
+liked_tracks = 17
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 20
+sources = 2
+
+[[artists]]
+name = "Yo La Tengo"
+spotify = "5hAhrnb0Ch4ODwWu4tsbpi"
+liked_tracks = 16
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 20
+sources = 3
+
+[[artists]]
+name = "The Limiñanas"
+spotify = "2joJCoCL4EmiVqic3vZn7n"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 10
+score = 19
+sources = 2
+
+[[artists]]
+name = "Gorillaz"
+spotify = "3AA28KZvwAUcZuOKwyblJQ"
+liked_tracks = 1
+liked_albums = 4
+followed = false
+playlist_tracks = 5
+score = 18
+sources = 3
+
+[[artists]]
+name = "Pulp"
+spotify = "36E7oYfz3LLRto6l2WmDcD"
+liked_tracks = 12
+liked_albums = 2
+followed = false
+playlist_tracks = 0
+score = 18
+sources = 2
+
+[[artists]]
+name = "Bertrand Belin"
+spotify = "5yFrjxlSd8zPqzCCNrOI5h"
+liked_tracks = 11
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 17
+sources = 3
+
+[[artists]]
+name = "Cat Power"
+spotify = "6G7OerKc3eBO9sVkRNopFC"
+liked_tracks = 12
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 17
+sources = 3
+
+[[artists]]
+name = "Flora Fishbach"
+spotify = "6smOYrOT8fGSn5lDC86Jjb"
+liked_tracks = 12
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 16
+sources = 3
+
+[[artists]]
+name = "Kevin Morby"
+spotify = "6fxk3UXHTFYET8qCT9WlBF"
+liked_tracks = 12
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 16
+sources = 3
+
+[[artists]]
+name = "Sébastien Tellier"
+spotify = "23ymPLjbtAMzTJS2qRtQ8Z"
+liked_tracks = 10
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 16
+sources = 3
+
+[[artists]]
+name = "TTC"
+spotify = "3taeGwG1yqKJQvpgh21E4j"
+liked_tracks = 12
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 16
+sources = 3
+
+[[artists]]
+name = "Childish Gambino"
+spotify = "73sIBHcqh3Z3NyqHKZ7FOL"
+liked_tracks = 11
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 15
+sources = 3
+
+[[artists]]
+name = "The xx"
+spotify = "3iOvXCl6edW5Um0fXEBRXy"
+liked_tracks = 11
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 15
+sources = 3
+
+[[artists]]
+name = "Leonard Cohen"
+spotify = "5l8VQNuIg0turYE1VtM9zV"
+liked_tracks = 9
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 14
+sources = 3
+
+[[artists]]
+name = "Experience"
+spotify = "108LzqsVpFtyMvf47wSent"
+liked_tracks = 10
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 13
+sources = 2
+
+[[artists]]
+name = "LCD Soundsystem"
+spotify = "066X20Nz7iquqkkCW6Jxy6"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 4
+score = 13
+sources = 2
+
+[[artists]]
+name = "La Dispute"
+spotify = "7lQKE6HaKQcCsgLRMhsh5W"
+liked_tracks = 13
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 13
+sources = 1
+
+[[artists]]
+name = "Archive"
+spotify = "1Q776wzj2mrtXrNu3iH6nk"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 6
+score = 12
+sources = 2
+
+[[artists]]
+name = "Mac DeMarco"
+spotify = "3Sz7ZnJQBIHsXLUSo0OQtM"
+liked_tracks = 2
+liked_albums = 0
+followed = true
+playlist_tracks = 2
+score = 12
+sources = 3
+
+[[artists]]
+name = "Mano Solo"
+spotify = "2MfAaMT9qmkHIBnU1ofzAP"
+liked_tracks = 0
+liked_albums = 4
+followed = false
+playlist_tracks = 0
+score = 12
+sources = 1
+
+[[artists]]
+name = "Manu Chao"
+spotify = "6wH6iStAh4KIaWfuhf0NYM"
+liked_tracks = 2
+liked_albums = 2
+followed = false
+playlist_tracks = 4
+score = 12
+sources = 3
+
+[[artists]]
+name = "Gwendoline"
+spotify = "0KeEMBn34d4rKeACHxK9AF"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 2
+score = 11
+sources = 2
+
+[[artists]]
+name = "Mano Negra"
+spotify = "6jq7GptAwkoFiunDhZYqQ2"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 2
+score = 11
+sources = 2
+
+[[artists]]
+name = "Michel Cloup"
+spotify = "0rRULIeh8sNPdevC0UXbDF"
+liked_tracks = 8
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 11
+sources = 2
+
+[[artists]]
+name = "Tame Impala"
+spotify = "5INjqkS1o8h1imAzPqGZBb"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 2
+score = 11
+sources = 2
+
+[[artists]]
+name = "Yann Tiersen"
+spotify = "00sazWvoTLOqg5MFwC68Um"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 2
+score = 11
+sources = 2
+
+[[artists]]
+name = "Cheveu"
+spotify = "3No127Hkg9LRf1Q63Uyq35"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 4
+score = 10
+sources = 2
+
+[[artists]]
+name = "Rendez Vous"
+spotify = "4a118edzJsiImCyPCZk6mY"
+liked_tracks = 10
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 10
+sources = 1
+
+[[artists]]
+name = "XXXTENTACION"
+spotify = "15UsOTVnJzReFVN1VCnxy4"
+liked_tracks = 2
+liked_albums = 2
+followed = false
+playlist_tracks = 2
+score = 10
+sources = 3
+
+[[artists]]
+name = "CAN"
+spotify = "4l8xPGtl6DHR2uvunqrl8r"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 3
+score = 9
+sources = 2
+
+[[artists]]
+name = "Fiona Apple"
+spotify = "3g2kUQ6tHLLbmkV7T4GPtL"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 0
+score = 9
+sources = 1
+
+[[artists]]
+name = "The Dø"
+spotify = "2mcNCn1qbZUQ3J9KHapUxj"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 6
+score = 9
+sources = 2
+
+[[artists]]
+name = "The Great Bertholinis"
+spotify = "1gUfn4t4GzgwunzkJODHCE"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 0
+score = 9
+sources = 1
+
+[[artists]]
+name = "Traband"
+spotify = "4M6ui8P7kQmxRhrsPihC6R"
+liked_tracks = 0
+liked_albums = 3
+followed = false
+playlist_tracks = 0
+score = 9
+sources = 1
+
+[[artists]]
+name = "24kGoldn"
+spotify = "6fWVd57NKTalqvmjRd2t8Z"
+liked_tracks = 8
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 8
+sources = 1
+
+[[artists]]
+name = "Alain Bashung"
+spotify = "6y1aZyP40077De3neGJD2b"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 5
+score = 8
+sources = 2
+
+[[artists]]
+name = "Brutus"
+spotify = "7m63GptZSke3jGqCxR4rom"
+liked_tracks = 0
+liked_albums = 0
+followed = true
+playlist_tracks = 0
+score = 8
+sources = 1
+
+[[artists]]
+name = "Georges Bizet"
+spotify = "2D7RkvtKKb6E5UmbjQM1Jd"
+liked_tracks = 0
+liked_albums = 0
+followed = true
+playlist_tracks = 0
+score = 8
+sources = 1
+
+[[artists]]
+name = "Guilhem Valayé"
+spotify = "7uTkqqOQNvjARy45pUraKA"
+liked_tracks = 0
+liked_albums = 0
+followed = true
+playlist_tracks = 0
+score = 8
+sources = 1
+
+[[artists]]
+name = "IAM"
+spotify = "56Q6weEROZ1RsVrTak8Bm7"
+liked_tracks = 3
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 8
+sources = 3
+
+[[artists]]
+name = "Portishead"
+spotify = "6liAMWkVf5LH7YR9yfFy1Y"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 8
+score = 8
+sources = 1
+
+[[artists]]
+name = "Squeezie"
+spotify = "0xECfhlRzRRIIe2Co5HX6n"
+liked_tracks = 8
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 8
+sources = 1
+
+[[artists]]
+name = "The Chemical Brothers"
+spotify = "1GhPHrq36VKCY3ucVaZCfo"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 5
+score = 8
+sources = 2
+
+[[artists]]
+name = "Andrea Laszlo De Simone"
+spotify = "2InNZR52CaeutuA8BjbfSh"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 1
+score = 7
+sources = 2
+
+[[artists]]
+name = "Astéréotypie"
+spotify = "1bPIphq90zexFcnUA7qILm"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 1
+score = 7
+sources = 2
+
+[[artists]]
+name = "Flotation Toy Warning"
+spotify = "5Ar6PhhipWm9a8v8PYppgQ"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 1
+score = 7
+sources = 2
+
+[[artists]]
+name = "M83"
+spotify = "63MQldklfxkjYDoUE4Tppz"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 4
+score = 7
+sources = 2
+
+[[artists]]
+name = "ROSALÍA"
+spotify = "7ltDVBr6mKbRvohxheJ9h1"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 1
+score = 7
+sources = 2
+
+[[artists]]
+name = "Zebda"
+spotify = "0eOdRJIL6L8AInJLre2uIP"
+liked_tracks = 1
+liked_albums = 2
+followed = false
+playlist_tracks = 0
+score = 7
+sources = 2
+
+[[artists]]
+name = "Casseurs Flowters"
+spotify = "5sXx89ZqVFOUKTl5g2uiST"
+liked_tracks = 6
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 6
+sources = 1
+
+[[artists]]
+name = "Dionysos"
+spotify = "75nb7WjICnFHCXFdVX0PkO"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 6
+sources = 2
+
+[[artists]]
+name = "La Ruda Salska"
+spotify = "5wLQgAe9uO150K07T2MYvl"
+liked_tracks = 0
+liked_albums = 2
+followed = false
+playlist_tracks = 0
+score = 6
+sources = 1
+
+[[artists]]
+name = "Mulatu Astatke"
+spotify = "7HGFXtBhRq3g1Ma3nH4Rgv"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 6
+sources = 2
+
+[[artists]]
+name = "PJ Harvey"
+spotify = "12VaqyEhgwDRuFfEqbnrpz"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 6
+sources = 2
+
+[[artists]]
+name = "Sopico"
+spotify = "01fkQiYuBZt16vQ8iRIc7g"
+liked_tracks = 6
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 6
+sources = 1
+
+[[artists]]
+name = "disiz"
+spotify = "7rz6ZZErn5YFDteXKhyf3g"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 3
+score = 6
+sources = 2
+
+[[artists]]
+name = "Bob Dylan"
+spotify = "74ASZWbe4lXaubB36ztrGX"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Cult Hero"
+spotify = "2j79xceNizMi1wtnPSAPqz"
+liked_tracks = 4
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 5
+sources = 2
+
+[[artists]]
+name = "EKKSTACY"
+spotify = "0ynzbXwyCzxicMKHBoOkSH"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Fabulous Trobadors"
+spotify = "3qcBqLV9Ckuc91nge5D6Xo"
+liked_tracks = 1
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 5
+sources = 3
+
+[[artists]]
+name = "Juste Robert"
+spotify = "4lll5qbnN7kMIi5jOZUpVi"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Massive Attack"
+spotify = "6FXMGgJwohJLUSr5nVlf9X"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Tata Bojs"
+spotify = "03nooG8IpNXkgqpPVgWQQn"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "The Police"
+spotify = "5NGO30tJxFlKixkPSgXcFE"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "The Strokes"
+spotify = "0epOFNiUfyON9EYx7Tpr6V"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Tinariwen"
+spotify = "2sf2owtFSCvz2MLfxmNdkb"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Troublemakers"
+spotify = "1fvr9T1HgAq0fZvTLsWorn"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Têtes Raides"
+spotify = "2omAWwH1ZV9JYIyfMUQSgG"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 2
+score = 5
+sources = 2
+
+[[artists]]
+name = "Abd Al Malik"
+spotify = "4FZdtzXycKH3gwStYJrx18"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Bad Bunny"
+spotify = "4q3ewBCX7sLwd24euuV69X"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Beth Gibbons"
+spotify = "6Lt6KFXX3P0v6vfrynQAMo"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Buena Vista Social Club"
+spotify = "11kBu957KTYoAltZHDm8gW"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "CAKE"
+spotify = "6A43Djmhbe9100UwnI7epV"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Death In Vegas"
+spotify = "5aj3LEYRbuaabjjHkj5oE1"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 4
+score = 4
+sources = 1
+
+[[artists]]
+name = "Elliott Smith"
+spotify = "2ApaG60P4r0yhBoDCGD8YG"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Foals"
+spotify = "6FQqZYVfTNQ1pCqfkwVFEa"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Fontaines D.C."
+spotify = "3SXwqSqAoBz9WCI9PDQzY6"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Girls In Hawaii"
+spotify = "1HRqqu7DoKzpIBvdU7Jjib"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Kanye West"
+spotify = "5K4W6rqBFWDnAN6FQUkS6x"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 4
+sources = 2
+
+[[artists]]
+name = "King Hannah"
+spotify = "7t00AYOoiQrcgNlpTkNer6"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Loïc Lantoine"
+spotify = "1zJwk8m4TL8v36ac3PHqU6"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Michou"
+spotify = "1nODcAdzs2eLjAp6AsrMzA"
+liked_tracks = 4
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 4
+sources = 1
+
+[[artists]]
+name = "Morcheeba"
+spotify = "6bWxFw65IEJzBYjx3SxUXd"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Motivés"
+spotify = "746xFau8DOtNcVLtnd4enN"
+liked_tracks = 1
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 4
+sources = 2
+
+[[artists]]
+name = "Ms. Lauryn Hill"
+spotify = "2Mu5NfyYm8n5iTomuKAEHl"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Onda Vaga"
+spotify = "3cBb4A9AZeZhcq781P3wCZ"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Paul McCartney"
+spotify = "4STHEaNw4mPZ2tzheohgXB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 4
+score = 4
+sources = 1
+
+[[artists]]
+name = "Peter Kernel"
+spotify = "6ALx4lIQ20HZJ8R13q8xLa"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Sanseverino"
+spotify = "1jKouRXGXSjxHAx2ayWolz"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Soprano"
+spotify = "2RJBv9wXbW6m539q9NOfW1"
+liked_tracks = 4
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 4
+sources = 1
+
+[[artists]]
+name = "Tamino"
+spotify = "3IWdvItNhmdo282Wwp0CwH"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "The Velvet Underground"
+spotify = "1nJvji2KIlWSseXRSlNYsC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 4
+score = 4
+sources = 1
+
+[[artists]]
+name = "The Wiseguys"
+spotify = "7oBJEgh7PQKJuxXb1lUEKA"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Thom Yorke"
+spotify = "4CvTDPKA6W06DRfBnZKrau"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Tom Waits"
+spotify = "7x83XhcMbOTl1UdYsPTuZM"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Tue-Loup"
+spotify = "02jPN60oNlulurb9sW7OQt"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Télépopmusik"
+spotify = "3aKCo8gLJfuPYtr88aWKjF"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "Yellow Ostrich"
+spotify = "3zIJJVhqINXeuLWMbZdlbY"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 1
+score = 4
+sources = 2
+
+[[artists]]
+name = "10 Rue D'la Madeleine"
+spotify = "0wWnXw1ZkmXAWEXbyHPfcR"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Aim"
+spotify = "1ILwJ5zliBLMsRARQJjOMp"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Alanis Morissette"
+spotify = "6ogn9necmbUdCppmNnGOdi"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Arthur H"
+spotify = "2nYkI1rHgPRp95pTmO9GZR"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Arthur Satàn"
+spotify = "5FqdsNPeUr5UlUpMJqjiVP"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Asian Dub Foundation"
+spotify = "2EeUsNnv2BcVIGhBZ5SV8z"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Baba Zula"
+spotify = "39zIRxvWFOGGH4hxGqRkLy"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Beck"
+spotify = "3vbKDsSS70ZX9D2OcvbZmS"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Björk"
+spotify = "7w29UYBi0qsHi5RTcv3lmA"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Boo"
+spotify = "5Z3tsYTS1kfBUfGjCLXmqy"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Bénabar"
+spotify = "6xoAWsIOZxJVPpo7Qvqaqv"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Camille"
+spotify = "0gOsZcHl7H3ewXVIEnWFZX"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Carolina Durante"
+spotify = "2BVE7Pqd8kxv9xEsuvoJoE"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Chaka Demus & Pliers"
+spotify = "6RQkaOWddQmiLLJqSgnTbm"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Charlotte Gainsbourg"
+spotify = "2rBcvLKWCZs9w1qIWv560v"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Control Machete"
+spotify = "628gUkswCfCS1hIOOHmIpK"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "DVA"
+spotify = "5KBiPJpYVQsbjL3PGZoMSx"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Dalle Béton"
+spotify = "5U0wT5tqaSZK8cmOGdevd5"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Devendra Banhart"
+spotify = "1YZEoYFXx4AxVv13OiOPvZ"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Eric Clapton"
+spotify = "6PAt558ZEZl0DmdXlnjMgD"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Fatboy Slim"
+spotify = "4Y7tXHSEejGu1vQ9bwDdXW"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "France Gall"
+spotify = "22HVxZPA6UhBp8wahxDA6I"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Frustration"
+spotify = "4OAmUQMp9sTuvo55MxGUq4"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Frères Misère"
+spotify = "5wtMVsYjLEQiLxgmbOJsQO"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Fugees"
+spotify = "2WKdxPFRD7IqZvlIAvhMgY"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Gaël Faye"
+spotify = "69irZ4R8OsrLHjr6VmMmMg"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Godspeed You! Black Emperor"
+spotify = "4svpOyfmQKuWpHLjgy4cdK"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Grizzly Bear"
+spotify = "2Jv5eshHtLycR6R8KQCdc4"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Hariprasad Chaurasia"
+spotify = "7CozfB3IEACZpAelpwkUon"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Have A Nice Life"
+spotify = "0FRKTwQSToXpCxYMhyUzYY"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Holy Wave"
+spotify = "0Cx9SrMKbfrkHvnqJLHq6b"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "JP Nataf"
+spotify = "1JD5AxCamcPAICtruZai4s"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Janire"
+spotify = "4sD4ggYulUsZmOxGyQK0Sj"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "John Lennon"
+spotify = "4x1nvY2FN8jxqAFA0DA02H"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Johnny Cash"
+spotify = "6kACVPfCOnqzgfEF5ryl0x"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "José González"
+spotify = "6xrCU6zdcSTsG2hLrojpmI"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "K's Choice"
+spotify = "1lO13Grp3I1AsIbcACRWvv"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Keren Ann"
+spotify = "4v1YZL83eLyemlt32wWAoA"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Le Prince Miiaou"
+spotify = "0fffWPHzxwbxt9Eb75nHX3"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Les Hurlements d'Léo"
+spotify = "5WclEPgvoYK28a034NNa8s"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Les Ogres De Barback"
+spotify = "3avSMklPuyXhcT5Smt1h7G"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Lhasa De Sela"
+spotify = "3IbqRfvnvj5C22pHD38KXI"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Lil Nas X"
+spotify = "7jVv8c5Fj3E9VhNjxT4snq"
+liked_tracks = 3
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Lisa Ekdahl"
+spotify = "4SJSGUVZ04tezaGrxc96EE"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Mahmoud Ahmed"
+spotify = "1QrSgIS6RU4dgNPxLQMoha"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Marie Kiss La Joue"
+spotify = "4HFWYq62a6tTBLtoAhNBtO"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Massilia Sound System"
+spotify = "6OQvEmzlyemB8CjQGgIKqr"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Memphis Slim"
+spotify = "5JuPv0rJXe5aWNTgu8YVqZ"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Milos Asian"
+spotify = "6KS1pbtZJm5H0COtfTewRn"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Miossec"
+spotify = "0wf6vuNqTvdRGrmpsPu2kW"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Molchat Doma"
+spotify = "1nVq0hKIVReeaiB3xJgKf0"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Moriarty"
+spotify = "0qG2Tf6fJaCuWKGz1IitKa"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 3
+sources = 2
+
+[[artists]]
+name = "Nikl Petr & Lakome Barky"
+spotify = "4yU2BLu0DbCQzMOx1zW2g2"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Norman"
+spotify = "0dDnrCby0p9J96dwtsSrRQ"
+liked_tracks = 3
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Oscar Peterson"
+spotify = "6zkX5fhrSD4tdVOmimR9wB"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Pandit Shivkumar Sharma"
+spotify = "3ehCEIDusX13qf207bFKGS"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Philippe Katerine"
+spotify = "61NKNrhSMTYg2q0f3vS46e"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Pixies"
+spotify = "6zvul52xwTWzilBZl6BUbT"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Prohom"
+spotify = "2oJhMFkmKwLkTDJlAYs23u"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Psi Vojaci"
+spotify = "51trtVM0ZCx8RLVshKIWWb"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Quantic"
+spotify = "5ZMwoAjeDtLJ0XRwRTgaK8"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Queen"
+spotify = "1dfeR4HaWDbWqFHLkxsg1d"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 3
+sources = 2
+
+[[artists]]
+name = "Radio Elvis"
+spotify = "1U1tfTJHxezIBnlay13sVA"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Radůza"
+spotify = "4iwfTVBJGGtaCAgy2K0PAd"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Red Hot Chili Peppers"
+spotify = "0L8ExT028jH3ddEcZwqJJ5"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Reymour"
+spotify = "6mlzYzLXQ7gQrMg3DydrAi"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Robin Foster"
+spotify = "5gy6nEdic2H0Lun3duVGGb"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Sisu"
+spotify = "2nRrBGaBwtYiYxepPL76s4"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Spook & The Guay"
+spotify = "785WwHSA7CvkBWom5EqVyg"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Swell"
+spotify = "4EaWgdL8zvu4JvDZY4ED5Q"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 3
+score = 3
+sources = 1
+
+[[artists]]
+name = "Tarmac"
+spotify = "7jj1zcBEwp0Joqfb9Bdk7J"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 3
+sources = 2
+
+[[artists]]
+name = "The Alan Parsons Project"
+spotify = "2m62cc253Xvd9qYQ8d2X3d"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "The Automators"
+spotify = "2YFRQZPuJRdsINUPnqFSkT"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "The Plastic People Of The Universe"
+spotify = "08o3tljcXO1Fj1dArg8gyi"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "The Rapture"
+spotify = "166Dz1GX3xonSQ3Z6CQW26"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Tindersticks"
+spotify = "3dmSPhg0tdao8ePj4pySJ5"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Už jsme doma"
+spotify = "4Pizl05TR32XfJD1btfu2T"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "VALJEAN"
+spotify = "4euM0l1BEsgkcAzhIEWTbQ"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Various Artists"
+spotify = "0LyfQWJT6nXafLPZqxe9Of"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Vincent Delerm"
+spotify = "3Uo7E7lR9Li0qXzxU8VmnF"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "Vladimír Václavek"
+spotify = "6eSsmDUYGEmcdro8fQzMUN"
+liked_tracks = 0
+liked_albums = 1
+followed = false
+playlist_tracks = 0
+score = 3
+sources = 1
+
+[[artists]]
+name = "17 Hippies"
+spotify = "3Tq2hRlRrQzA4Zq2ncYiiA"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Action Bronson"
+spotify = "7BMccF0hQFBpP6417k1OtQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Al Green"
+spotify = "3dkbV4qihUeMsqN4vBGg93"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Ali Farka Touré"
+spotify = "3mNygoyrEKLgo6sx0MzwOL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Arcade Fire"
+spotify = "3kjuyTCjPG1WMFCiyc5IuB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Architecture In Helsinki"
+spotify = "60eT7q88iLWKnuSXed1AGr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Babx"
+spotify = "7MCsMOkbdDHqJ4WAGuXdDZ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Baxter Dury"
+spotify = "0EgHhNmWcjusA7F2heSD0O"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Bedroom"
+spotify = "7COP1HCvVq1cIpZcLQYoNe"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Beirut"
+spotify = "6pmxr66tMAePxzOLfjGNcX"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Bigflo & Oli"
+spotify = "5mmEMfYChd6MImBagU7zCs"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "Blur"
+spotify = "7MhMgCo0Bl0Kukl93PZbYS"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Bow Wow"
+spotify = "7352aRY2mqSxBZwzUb6LmA"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "Daniel Pemberton"
+spotify = "7LbEDjJKrmWoMcN3OpaNnR"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "Drake"
+spotify = "3TVXtAsR1Inumwj472S9r4"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Eminem"
+spotify = "7dGJo4pcD2V6oG8kP0tJRR"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Fat White Family"
+spotify = "5ztBFCBEL7OtjdAt98RnD4"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Florence + The Machine"
+spotify = "1moxjboGR7GNWYIMWsRjgG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Francis Cabrel"
+spotify = "5uo5NwSONVNfvSHHMQrHAv"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Françoise Hardy"
+spotify = "7x3f7c0fBanNlQwpx1255g"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Fugazi"
+spotify = "62sC6lUEWRjbFqXpMmOk4G"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Goran Bregović"
+spotify = "491v9k5NTGBGanwqPNSkuS"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "IDLES"
+spotify = "75mafsNqNE1WSEVxIKuY5C"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Ikimonogakari"
+spotify = "5YneEA2nLtAhkD5t2769lZ"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "JOYCA"
+spotify = "5AqhBC5pt6b0WVpUAII1Ro"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "Jabberwocky"
+spotify = "7xfdx6PiB50V9VWI4Mq70R"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Kid Loco"
+spotify = "1ViF5mdcW7pEn7md71YjOL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Kings of Leon"
+spotify = "2qk9voo8llSGYcZ6xrBzKx"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "L'Orchestra Numerique"
+spotify = "2PmhopJZWPv5BwlqB0QJDR"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "Laura Marling"
+spotify = "7B2edU3Q7btJoNsoHCNohM"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Lil Pump"
+spotify = "3wyVrVrFCkukjdVIdirGVY"
+liked_tracks = 2
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 2
+sources = 1
+
+[[artists]]
+name = "Lo'Jo"
+spotify = "3U9HMtqg5oztf8GAh3gosw"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Luna"
+spotify = "2AACqFGo8offvHCKGvrWxq"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Maya Kamaty"
+spotify = "1Fo8xzZmOICeHrM9tta1zt"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Mazzy Star"
+spotify = "37w38cCSGgKLdayTRjna4W"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Michel Berger"
+spotify = "5skauLarl8sqqUFypECtP4"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Modeselektor"
+spotify = "2jYMYP2SVifgmzNRQJx3SJ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Nada Surf"
+spotify = "11zHPjHnZN0ACA50rSnTcy"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Nekfeu"
+spotify = "4LXBc13z5EWsc5N32bLxfH"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Nick Cave & The Bad Seeds"
+spotify = "4UXJsSlnKd7ltsrHebV79Q"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Ol' Dirty Bastard"
+spotify = "50NoVNy9GU1lCrDV8iGpyu"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Pavement"
+spotify = "3inCNiUr4R6XQ3W43s9Aqi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Petit Fantôme"
+spotify = "3MUJ4wHF8z7MSoIfp1Tt1j"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Rilès"
+spotify = "6pdcQa7by8IKuoVXvgknlI"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Rodrigo Amarante"
+spotify = "0UOrkpzPED604dKzxgfJqg"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Ropoporose"
+spotify = "0WTmIAb1dKl8oPfOmuq2cH"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "San Cisco"
+spotify = "0Ou0138wEd8XWebhc4j7O0"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Serge Gainsbourg"
+spotify = "01C9OoXDvCKkGcf735Tcfo"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Sleaford Mods"
+spotify = "0otAqZw8htTsGHfqR491Yh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Soko"
+spotify = "4Q3f2YYH4gQxWFS3WY5G3j"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Sporto Kantès"
+spotify = "7FpOGzPK8QgIpFOky6PnGk"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Supersystem"
+spotify = "78nwJdECC92P64VVevJQUx"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Syd Matters"
+spotify = "4kDmwaDsfY9hcvz7K0otLJ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Beach Boys"
+spotify = "3oDbviiivRWhXwIE8hxkVV"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Cinematic Orchestra"
+spotify = "32ogthv0BdaSMPml02X9YB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Clash"
+spotify = "3RGLhK1IP9jnYFH4BRFJBS"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "The Growlers"
+spotify = "2RhgnQNC74QoBlaUvT4MEe"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Knife"
+spotify = "7eQZTqEMozBcuSubfu52i4"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The La's"
+spotify = "47Z8LEl3LnQkcpva0xSthT"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Little Rabbits"
+spotify = "2jgwF9tYvQyXjQviSfdxAu"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Modern Lovers"
+spotify = "2eRdPaLHWAL4d1WcNUO9Vz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Prodigy"
+spotify = "4k1ELeJKT1ISyDv8JivPpB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "The Smiths"
+spotify = "3yY2gUcIsjMr8hjo51PoJ8"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Timber Timbre"
+spotify = "7HeVXdOdMhLslVputGTZFQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Tuxedomoon"
+spotify = "4zn0m3hBUQVl6Nf36Sb0A6"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Vald"
+spotify = "3CnCGFxXbOA8bAK54jR8js"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Vampire Weekend"
+spotify = "5BvJzeQpmsdsFp4HGUYUEx"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 2
+sources = 2
+
+[[artists]]
+name = "Ventre De Biche"
+spotify = "10h4G0Gi4q3gf92Tj6GljD"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Violent Femmes"
+spotify = "0rpMdBzQXf7aYRnu5fDBJy"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Weezer"
+spotify = "3jOstUTkEu2JkjvRdBA5Gu"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Yelle"
+spotify = "0WbqAlM1WvfUD6dF7omThd"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "Zaho de Sagazan"
+spotify = "38GSybQjdc6sxptciOkxMq"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 2
+score = 2
+sources = 1
+
+[[artists]]
+name = "47ter"
+spotify = "0aXaZj4wB5jLF2E2d8WEVi"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "AUSGANG"
+spotify = "02sS3W8DneIaxX8VH3TbkJ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Adriana Paz"
+spotify = "3lRv03FuzVeH86fJhllcMz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Aestus"
+spotify = "3Zpqcw9f2Teu5tFEvKKv5j"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Aldebert"
+spotify = "1Vr9NCbc1sYiPDeZmFjOTS"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Alek Olsen"
+spotify = "27sdgIaFiz55vkR68fBiy8"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Aminé"
+spotify = "3Gm5F95VdRxW3mqCn8RPBJ"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Amixem"
+spotify = "28FoMtJg9p3EOYc0NP2wh8"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Amy Winehouse"
+spotify = "6Q192DXotxtaysaqNPy5yR"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Angus & Julia Stone"
+spotify = "4tvKz56Tr39bkhcQUTO0Xr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Angèle"
+spotify = "3QVolfxko2UyCOtexhVTli"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Animal Collective"
+spotify = "4kwxTgCKMipBKhSnEstNKj"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Arctic Monkeys"
+spotify = "7Ln80lUS6He07XvHI8qqHH"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Arnaud Fleurent-Didier"
+spotify = "0kg7oDpSOP5V6IClysbqEp"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Arno"
+spotify = "0pJz4IBnZkfgJFTrqBl3ZQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Azealia Banks"
+spotify = "7gRhy3MIPHQo5CXYfWaw9I"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "B.E.R."
+spotify = "06wWda9NZKtf5jUMPqFlOe"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bab L' Bluz"
+spotify = "07J09Vf9YReIIaFtarQshi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bacao Rhythm & Steel Band"
+spotify = "0sjhSgEkyVa8QRmkkuckJ0"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Basement Jaxx"
+spotify = "4YrKBkKSVeqDamzBPWVnSJ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Battant"
+spotify = "4de67wnGuLR2TmxQ8qbxWD"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Battle Royale"
+spotify = "0ZxRTAdhVr76X9LFdGFPpe"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ben Harper"
+spotify = "45lorWzrKLxfKlWpV7r9CN"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ben Howard"
+spotify = "5schNIzWdI9gJ1QRK8SBnc"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bernard Minet"
+spotify = "1BoKBYU77hUJ4HRcZEtsbt"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Biga*Ranx"
+spotify = "5rgdw8NVhnxWL8Poo6HsiX"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bill Callahan"
+spotify = "7gqsi6aBSkRMJoL9psKqMr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bill Withers"
+spotify = "1ThoqLcyIYvZn7iWbj8fsj"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Binary Audio Misfits"
+spotify = "1CwOH8ZmH4I3gHIZ9cpxpD"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Black Box Recorder"
+spotify = "6Hd3xhv1sj3rlojjvGLkGR"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Black Country, New Road"
+spotify = "3PP6ghmOlDl2jaKaH0avUN"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Black M"
+spotify = "7lMgpN1tEBQKpRoUMKB8iw"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Blackalicious"
+spotify = "42Np3r8zXnaKcjLQsQSjyG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Blackway"
+spotify = "1QvK8bFc2WREH4LDlJcJbi"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Blaqout"
+spotify = "6wI2A5J2jZZ2GXFHr1Qm5K"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Blondie"
+spotify = "4tpUmLEVLCGFr93o8hFFIB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bloodhound Gang"
+spotify = "6nDLku5uL3ou60kvCGZorh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bob Marley & The Wailers"
+spotify = "2QsynagSdAqZj3U9HgDzjD"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bosh"
+spotify = "6Mm2g25BTeJ6BICPFWGkPg"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bossikan"
+spotify = "2Iy8kK89T3l62dJcAkflqM"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Brenda Lee"
+spotify = "4cPHsZM98sKzmV26wlwD2W"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Brian Eno"
+spotify = "7MSUfLeTdDEoZiJPDSBXgi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Brigitte Bardot"
+spotify = "1q24xIsAD7JZuVkTLR9TJy"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Brigitte Fontaine"
+spotify = "2P03Aan9wfgwkxTwGch2g1"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Bronski Beat"
+spotify = "2wpWOzQE5TpA0dVnh5YD08"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Buraka Som Sistema"
+spotify = "6zUiRChNyL3HEezOd1Wjam"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Buzzcocks"
+spotify = "2DxlS3lTLFIq70S7ap5H3y"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "C.W. Stoneking"
+spotify = "6FfC7T2cxMj6H7Q5mmqAYe"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "CA7RIEL & Paco Amoroso"
+spotify = "6I8TDGeUmmLom8auKPzMdX"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "CIVIL CIVIC"
+spotify = "3b31cCPqCClE0mYRj1epTh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "CSS"
+spotify = "2K13AVg3bFpHSxDM1vJ0qA"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Caetano Veloso"
+spotify = "7HGNYPmbDrMkylWqeFCOIQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Cali"
+spotify = "1ULXG4gd6YSvdjuFBJ6sAA"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Camila Cabello"
+spotify = "4nDoRrQiYLoBzwC5BhVJzF"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Casiokids"
+spotify = "7MEBuOs4NysWceqYZ9J8gy"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Cass Elliot"
+spotify = "5jX7X3kRkfJTRqAdT7RcHk"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Catastrophe"
+spotify = "6bcVuNO2JKqacO1ITmA6jK"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Cesária Evora"
+spotify = "0Nks3cFWU2a7rooAlFQYgn"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Chasing Mirrors"
+spotify = "5rZuQbaBUI6qi8sB8tBcge"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Chinese Man"
+spotify = "6vgw0jwJkUnW2NR1rzsQU3"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Chris Pine"
+spotify = "5ueYs7bR3niiOeZdOSge5e"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Clap Your Hands Say Yeah"
+spotify = "1jSaZgaKHmgc7VTgML528r"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Cold War Kids"
+spotify = "6VDdCwrBM4qQaGxoAyxyJC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Coolio"
+spotify = "3y24n3XhZ96wgwRXjvS17T"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Corynne Charby"
+spotify = "0g3UZ5TKLKBB9m35O8KAm3"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "DA Uzi"
+spotify = "3xEJ7cDz5rdg6VM8E6Mqhf"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "DJ Khaled"
+spotify = "0QHgL1lAIqAw0HtD7YldmP"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "DJ Khalil"
+spotify = "7zfaArteqSs8YgCCmPrDK4"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "DJ Snake"
+spotify = "540vIaP2JwjQb9dm3aArA4"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Daddy Yankee"
+spotify = "4VMYDCV2IEDYJArk749S6m"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Daft Punk"
+spotify = "4tZwfgrHOc3mvqYlEYSvVi"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dan Le Sac"
+spotify = "2M4nNMw5bfpnvfZIi1jnXq"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dawn Penn"
+spotify = "6mLXvSt7Xxy2r9uBba1O6Z"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dengue Fever"
+spotify = "3wFHDAXLsjvclEtifEV7F5"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Depresión Post-Mortem"
+spotify = "21R9yNYe0vAQEOjcuddBTZ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dim Sum"
+spotify = "6hZDTUqjAdw543I6czUumV"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dinosaur Jr."
+spotify = "267VY6GX5LyU5c9M85ECZQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dj Mujava"
+spotify = "5lwkumgV9KuPaGGRKxgdVu"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Djmarkie"
+spotify = "2qGCpgYmOBD7v0nfgd7yaT"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Dominic Fike"
+spotify = "6USv9qhCn6zfxlBQIYJ9qs"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Donovan"
+spotify = "6vLlQYujOujIrm7zAKzEdG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Double 99"
+spotify = "3XUgFwHXbyBHNuAfv7sWu3"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Eagles"
+spotify = "0ECwFtbIWEVNwjlrfc6xoL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Eddy de Pretto"
+spotify = "7rFugkk9ZvVB1zXHg8h0rj"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Edward Sharpe & The Magnetic Zeros"
+spotify = "7giUHu5pv6YTZgSkxxCcgh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Edwin Raphael"
+spotify = "44DUgsrbRUlhwfLyj4ySUB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Eels"
+spotify = "3zunDAtRDg7kflREzWAhxl"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Electric Six"
+spotify = "4xNadaO5ZZLVJdqDIVVIua"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Estelle"
+spotify = "5T0MSzX9RC5NA6gAI6irSn"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Eyedress"
+spotify = "3XxNRirzbjfLdDli06zMaB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "FLOW"
+spotify = "3w2HqkKa6upwuXEULtGvnY"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Fall Out Boy"
+spotify = "4UXqAaa6dQYAk18Lv7PEgX"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Farruko"
+spotify = "329e4yvIujISKGKz1BZZbO"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Feu! Chatterton"
+spotify = "538TfjnJpRXI80MHYWfKlo"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Fool's Gold"
+spotify = "4cAaMbr6CLIXAokpayCEOL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "French Affair"
+spotify = "6ja9fzugcFkIEIXRw3Ie1E"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Futuro Pelo"
+spotify = "5EqHv5lvGgrnkuGEFn67yN"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Generationals"
+spotify = "57MtJQ6Sc4tIxrXIhrqVJL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Georges Brassens"
+spotify = "5UWyW1PcEM8coxeqg3RIHr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Georges Moustaki"
+spotify = "0P4PF0pSB8hBeL1keuPwdG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Gil Scott-Heron"
+spotify = "0kEfub5RzlZOB2zGomqVSU"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Gillian Welch"
+spotify = "2H5elA2mJKrHmqkN9GSfkz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Gnarls Barkley"
+spotify = "5SbkVQYYzlw1kte75QIabH"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Gotan Project"
+spotify = "44ejFPE33H5aOInxNV2BFP"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Gradur"
+spotify = "2tcoLkA9Hexz70Kuc1NTUl"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Graham Coxon"
+spotify = "7ueZp29tCNwjIj4yAMTEaC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Grauzone"
+spotify = "2oNZUW4sR0AGXRyPExtFnW"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Gwen Stefani"
+spotify = "4yiQZ8tQPux8cPriYMWUFP"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "H-Burns"
+spotify = "5Jd4dFTFgTta5lqPvamjZn"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Handsome Boy Modeling School"
+spotify = "3pkmfqaBNsMqnXus05PNfP"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Her"
+spotify = "1T2WeXEi0XlZiPpjjDAY0L"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "INTERWORLD"
+spotify = "5hKGLu4Ik88FzWcTPhWNTN"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Iggy Azalea"
+spotify = "5yG7ZAZafVaAlMTeBybKAL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Imagine Dragons"
+spotify = "53XhwfbYqKCa1cC15pYq2q"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Interpol"
+spotify = "3WaJSfKnzc65VDgmj2zU8B"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Irma Thomas"
+spotify = "01Z8Z9K54zewyP04ZfGLSv"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Isaac Delusion"
+spotify = "2HGAZDmVV3GAH4XFAZdvSG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Isobel Campbell"
+spotify = "55dlp5I9jyc4UjzlrcKMnq"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jacco Gardner"
+spotify = "5RfKXXQQn2OhZiT5iSggZn"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jacno"
+spotify = "0Ylo19ka3IHeArSwlL3D8m"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jacqueline Taieb"
+spotify = "2gaXk926O69Od01e5CSFdH"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jaden"
+spotify = "0xOeVMOz2fVg5BJY3N6akT"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "James"
+spotify = "0qLNsNKm8bQcMoRFkR8Hmh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jan Turkenburg"
+spotify = "0q1sn2fj3GimDbGM61ZFL9"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jean-Louis Murat"
+spotify = "1vSHzGHsVOCrgPSCmKNimP"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jeanne Added"
+spotify = "5TEGxYftTkeKmLXkZjHNUE"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jefferson Airplane"
+spotify = "2qFr8w5sWUITRlzZ9kZotF"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Jet"
+spotify = "5ypxebeHEIXjMtJb17uJlI"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "JoeyStarr"
+spotify = "5q3WViYe7mEvzU9CY6lixh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Joy Division"
+spotify = "432R46LaYsJZV2Gmc4jUV5"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Juice WRLD"
+spotify = "4MCBfE4596Uoi2O4DtmEMz"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Julien Doré"
+spotify = "6jStlKLflTMUN6BajxrNlj"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Juniore"
+spotify = "1vxsourLLLfobrxyWAcuQH"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Justin Timberlake"
+spotify = "31TPClRtHm23RisEBtV3X7"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "K-OS"
+spotify = "3EZWlSBWlPsC8lCI2Y36Gl"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "K.Maro"
+spotify = "1a2yfRvULXWkUSvxJbkw75"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kamasi Washington"
+spotify = "6HQYnRM4OzToCYPpVBInuU"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kamini"
+spotify = "0AFEmxYJqHfNUtADd6eWhc"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kap Bambino"
+spotify = "2EsL7l54h5MZm34uFVsRQi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Katalyst"
+spotify = "5yAyZa2e9KTHLsxSOMDmrC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kavinsky"
+spotify = "0UF7XLthtbSF2Eur7559oV"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kazuya Yoshii"
+spotify = "4tgnOBWTNWUtp3uhUiLCkj"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Keen' V"
+spotify = "5iZMWWLoDJH1u6Ru2rOEsd"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kelis"
+spotify = "0IF46mUS8NXjgHabxk2MCM"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kev Adams"
+spotify = "28fTXEL90HZCAWinBeKF9m"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kingmichaelbeats"
+spotify = "7cFjrseFN6bG9IN3V2XG76"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kirby"
+spotify = "4VZ6HC2m6jAjAcT80Oxquw"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kizzy"
+spotify = "2ts6ZwCxrTztmpesHijQEO"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kodak Black"
+spotify = "46SHBwWsqBkxI7EeeBEQG7"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kofs"
+spotify = "5RaQ9nmVGoTye2SI76x3yw"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kungs"
+spotify = "7keGfmQR4X5w0two1xKZ7d"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Kurt Cobain"
+spotify = "6pAuTi6FXi6qFQJ1dzMXQs"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "LUM!X"
+spotify = "0TKFPt9w0AAEnhB9bd0pLy"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "La Chica"
+spotify = "7BiV41WZCIDfp0YtYol0Wr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "La Rue Kétanou"
+spotify = "5RJtcUSgNu7Y3X9YmZDci9"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Labrinth"
+spotify = "2feDdbD5araYcm6JhFHHw7"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Las Aves"
+spotify = "0bbL6moYLUu792U2ZdWgXU"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Laurent Bardainne"
+spotify = "077jd0crcXmExS5nOSDhQw"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Laurent Voulzy"
+spotify = "6ogXCiVOaz2afPmMNHph7Z"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Le Tigre"
+spotify = "2n6FviARgtjjimZXu18uRM"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Le Volume Courbe"
+spotify = "33ZXBbTDWd3gX0Wd0ewwxC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lee Fields & The Expressions"
+spotify = "2bToe6WyGvADJftreuXh2K"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Les Négresses Vertes"
+spotify = "0baGqHSXVphCsotxWDv7NX"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Les Rita Mitsouko"
+spotify = "7CdlYgtOoxBtNjuDeIxSPM"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Les Thugs"
+spotify = "4vQYIaFxrYwC0Z8dkA4yER"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lescop"
+spotify = "2KlDlqEMf0YyYW8rBKUx6W"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lianne La Havas"
+spotify = "2RP4pPHTXlQpDnO9LvR7Yt"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lil Wayne"
+spotify = "55Aa2cqylxrFIXC767Z865"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lina"
+spotify = "6m4bxCXURtuITrIkJDL68V"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lomepal"
+spotify = "1Yfe3ONJlioHys7jwHdfVm"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lord Kossity"
+spotify = "5QWxhSb2qupA3pNE3X6VpM"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lorenzo Ferrara"
+spotify = "2ElQWsoSpwUhYFFdFuHqse"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Lou Reed"
+spotify = "42TFhl7WlMRXiNqzSrnzPL"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Louise Attaque"
+spotify = "4CAsSAU842glNKJX71ndA9"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Love"
+spotify = "3Q6OOkfssqoMSTtl11J5Uk"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "MEL GRANDA"
+spotify = "6h9lS66Ib3dOiz3Gg6PpI1"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "MORGENSHTERN"
+spotify = "0XNKQFs2Ewb3y0VsFUFc5l"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "MaMaMa"
+spotify = "4cyoA6TEaCkcI6ue37dJpw"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Macklemore"
+spotify = "3JhNCzhSMTxs9WLGJJxWOY"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Macklemore & Ryan Lewis"
+spotify = "5BcAKTbp20cv7tC5VqPFoC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Madcon"
+spotify = "6c4sUNBgdonFJz8Kx2VsGz"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Magnapop"
+spotify = "7dHWgQrSX118dV8s56RQDe"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Mark Ronson"
+spotify = "3hv9jJF3adDNsBSIQDqcjp"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Marlon Magnée"
+spotify = "0NscG1sENWBbNcF8Wj5yLs"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Marshmello"
+spotify = "64KEffDW9EtZ1y2vBYgq8T"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Marvin Gaye"
+spotify = "3koiLjNrgRTNbOwViDipeA"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Mathieu Boogaerts"
+spotify = "0LlWS1VC17Bpd2RUd6enaQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Maurice Williams & The Zodiacs"
+spotify = "43BgumF6B7s0W2mhVkmVO4"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Mazouni"
+spotify = "0wfq6Qxt4GZIEgjmrXSt9k"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Mcfly & Carlito"
+spotify = "2DNfUNwenBiLLGMc4vQGei"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Melingo"
+spotify = "7oEBXFf9TDKulnNMFKU0FI"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Mercury Rev"
+spotify = "77oD8X9qLXZhpbCjv53l5n"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Michael Sembello"
+spotify = "771qBvjnXOH9Azr6lKy6FB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Michel Fugain"
+spotify = "3Uitc0uNSbhVrqJON4NCMY"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Migos"
+spotify = "6oMuImdp5ZcFhWP0ESe6mG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Missy Elliott"
+spotify = "2wIVse2owClT7go1WT98tk"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Moha K"
+spotify = "6o5sl0TGublDPXyMHdMq1E"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Moondai"
+spotify = "7fHoNdaXrLbxqzam9PIHbr"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Morrissey"
+spotify = "3iTsJGG39nMg9YiolUgLMQ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Music Falcon"
+spotify = "69bhrJWZoiVQWRYB2YSfhY"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "N.E.R.D"
+spotify = "5wPoxI5si3eJsYYwyXV4Wi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "NLE Choppa"
+spotify = "0ErzCpIMyLcjPiwT4elrtZ"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Naive New Beaters"
+spotify = "0xW1QQBD5O09HptO2fEaI4"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Naps"
+spotify = "6W5uA6CNMf3hd2j4a2XWCx"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Nat King Cole"
+spotify = "7v4imS0moSyGdXyLgVTIV7"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Natalie Bergman"
+spotify = "6YP6iGwynI5kEyNYxfxVeC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ned's Atomic Dustbin"
+spotify = "5AX02tEFl85gnqkvzqeltP"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Negrito Senpai"
+spotify = "2GaeJMjlHon1tOuq3LGeaZ"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "New Order"
+spotify = "0yNLKJebCb8Aueb54LYya3"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Nils Frahm"
+spotify = "5gqhueRUZEa7VDnQt4HODp"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Nina Simone"
+spotify = "7G1GBhoKtEPnP86X2PvEYO"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Nino Ferrer"
+spotify = "3THqHCN7gq2Z9hLleof9uv"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Nomeansno"
+spotify = "4wDDRTuUAWHiYtrvYsU0kp"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Noob"
+spotify = "3p2cynbpnQqIukLKI5AJ33"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ofenbach"
+spotify = "4AKwRarlmsUlLjIwt38NLw"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ojard"
+spotify = "54IzBE68OjYeVdBPmg5guC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Oldelaf"
+spotify = "7GBufLo5czrJHbWuo6gD7P"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Orchestra Baobab"
+spotify = "7xT0arvCDupDU1YYy0BNv9"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Orishas"
+spotify = "2gKYxTUOqw9aPt7ljMwSHT"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Otis Redding"
+spotify = "60df5JBRRPcnSpsIMxxwQm"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Outkast"
+spotify = "1G9G7WwrXka3Z1r7aIDjI7"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "PZK"
+spotify = "4ii7OZHtY3E4ndPm1MFMSR"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Pagoda"
+spotify = "75PegGBjVwiFSYJuDPgzlU"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Palatine"
+spotify = "4eJdfmQbRaPDjYJ1JNgXTp"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Panic! At The Disco"
+spotify = "20JZFwl6HVl6yg8a4H3ZqK"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Pascal Comelade"
+spotify = "1S8bX9opXYLkPIp7WPhySa"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Peter, Paul and Mary"
+spotify = "6yrBBtqX2gKCHCrZOYBDrB"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Petite Noir"
+spotify = "4dGwtd1FYag1VY1vaR1U8y"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Post Malone"
+spotify = "246dkjvS1zLTtiykXe5h60"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Primal Scream"
+spotify = "3wury2nd8idV4GecUg5xze"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Princess Chelsea"
+spotify = "6SrA4711bML5NvPO13Tr6t"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Pv Nova"
+spotify = "4ZmvWXweW6z8J13MFuioAd"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "R.E.M."
+spotify = "4KWTAlx2RvbpseOGMEmROg"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ray Charles"
+spotify = "1eYhYunlNJlDoQhtYBvPsi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Regina Spektor"
+spotify = "3z6Gk257P9jNcZbBXJNX5i"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Rhume"
+spotify = "3RSTHtAvVBCZ8S9IQo0QmZ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ricky Desktop"
+spotify = "6CTStccOisUTgXVrtCIANm"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ricky Nelson"
+spotify = "73sSFVlM6pkweLXE8qw1OS"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ride"
+spotify = "0WPY9nnBy01s5QOt4o4oQX"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Rubin Steiner"
+spotify = "4QMangq7dcB1zMVXOzaeWT"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "SABOTEN"
+spotify = "7sXuNhQNs04fBoANVpwUq0"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sallie Ford & The Sound Outside"
+spotify = "0Z8RhQLJrLxKMWoUW2qo95"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sam's"
+spotify = "3mvmdWXXKKpUrmYTvdALyS"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Saults"
+spotify = "0v3GJQVtEdCbwnKpCUwOE8"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Scala & Kolacny Brothers"
+spotify = "5cXCuJjbyxee1uCILXatYZ"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Scout Niblett"
+spotify = "3gSfOAPCvsDDVDBeSLl9v6"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sebadoh"
+spotify = "2wrhBKGC3DTNNNDRJPaxW6"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sexion d'Assaut"
+spotify = "4vnmifnGOeRXfNTRtgd4Tj"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Shantel"
+spotify = "0F8l1raRpXvRCsTrfSVocA"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Siekiera"
+spotify = "38uLydKe68e7BayK8UcDYn"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Siouxsie and the Banshees"
+spotify = "1n65zfwYIj5kKEtNgxUlWb"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sloy"
+spotify = "5MeQgwQf2pvqh6Tm2s2qAC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Smog"
+spotify = "2ajVJyxI4sHmTMtTA3ENko"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Smoke City"
+spotify = "76aD5RR474u5LVtrYxBKkF"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Snoop Dogg"
+spotify = "7hJcb9fa4alzcOq3EaNPoG"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Solomon Burke"
+spotify = "4nts0oxMT67lVUoi5Kjxrb"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sonic Youth"
+spotify = "5UqTO8smerMvxHYA5xsXb6"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Stereo Total"
+spotify = "662bj9rCw8Twt6JDAMmMDb"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Stereolab"
+spotify = "3Rj0tDHoX7C5NFq5DKIpHt"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Stromae"
+spotify = "5j4HeCoUlzhfWtjAfM1acR"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Stuck in the Sound"
+spotify = "5sTzirFL1wjNa3GuSiUHsy"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Suprême NTM"
+spotify = "4ko6Ysxtvx9EY9GEFslrIz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Susheela Raman"
+spotify = "3uSVvh3bPDq5XMTHElgfC2"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Sébastien Schuller"
+spotify = "7rC92pQez96x5GErIUeMXD"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "T. Rex"
+spotify = "3dBVyJ7JuOMt4GE9607Qin"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "TV On The Radio"
+spotify = "3HJIB8sYPyxrFGuwvKXSLR"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Talking Heads"
+spotify = "2x9SpqnPi8rlE9pjHBwmSC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Tesfa-maryam Kidane"
+spotify = "4lkJVzTgbODM4otpBaHknX"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The B-52's"
+spotify = "3gdbcIdNypBsYNu3iiCjtN"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Bangles"
+spotify = "51l0uqRxGaczYr4271pVIC"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Black Keys"
+spotify = "7mnBLXK823vNxN3UWB7Gfz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Breeders"
+spotify = "1xgFexIwrf2QjbU0buCNnp"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Brian Jonestown Massacre"
+spotify = "30uiS1n3uIGXJEYFR1GVDy"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Callstore"
+spotify = "2ZfGBm5TancCYbMjE8KdYh"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Contours"
+spotify = "2ugPdplEWBmyU6EcIzlcY1"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Cox Family"
+spotify = "5fu3Po5z59bTfUgbcaE0ay"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Dandy Warhols"
+spotify = "7siPLyFwRFYQkKgWKJ5Sod"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Divine Comedy"
+spotify = "7EV6jW6dotBdvsHj6xPixi"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Fall"
+spotify = "6WoTvA9qinpHtSRJuldYh6"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Fox Heads"
+spotify = "7MVJ9T8pSlbt7uCHtvZJqr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Gun Club"
+spotify = "3Un18X4NF1bpjgUk44lUzn"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Halluci Nation"
+spotify = "2jlWF9ltd8UtoaqW0PxY4z"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Isley Brothers"
+spotify = "53QzNeFpzAaXYnrDBbDrIp"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Kid LAROI"
+spotify = "2tIP7SsRs7vjIcLrU85W8J"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Kills"
+spotify = "5BYuBzqmTXwUDw2rYkwExr"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Kinks"
+spotify = "1SQRv42e4PjEYfPhS0Tk9E"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Rolling Stones"
+spotify = "22bE4uQ6baNwSHPVcDxLCe"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Ronettes"
+spotify = "7CyeXFnOrfC1N6z4naIpgo"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Skatalites"
+spotify = "4og9jrin5xH5JiFPbeGUPb"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Spencer Davis Group"
+spotify = "3i9hP422d2KMjaupTzBNVS"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Very Small Orchestra and The Other Fuckers"
+spotify = "6Sx6bYuGyzwOBhetaAex4p"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The West Coast Pop Art Experimental Band"
+spotify = "2z4eiJkDaXYCR9kv2UuSgz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The White Stripes"
+spotify = "4F84IBURUo98rz4r61KF70"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Who"
+spotify = "67ea9eGLXYMsO2eYQRui3w"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "The Zombies"
+spotify = "2jgPkn6LuUazBoBk6vvjh5"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "These New Puritans"
+spotify = "7w0e6inAfRWIEb9tWVgB7a"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Thutmose"
+spotify = "1igl9M102nuD96lo3ZoW5d"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Tijuana Panthers"
+spotify = "5XGoUe0WjmbOtppHlB7Taf"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Tokyo"
+spotify = "6EbqAudWdOXJmGgJnfzAqq"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Tori Amos"
+spotify = "1KsASRNugxU85T0u6zSg32"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Trei Degete"
+spotify = "1APMveRvLxWAB5AI0j11DD"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Tshegue"
+spotify = "3eEAELTLLkQc0PD2S2xAhN"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Typhillosion"
+spotify = "3DvDYQx7kUpb3sz5njRC8p"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Vanilla Ice"
+spotify = "7GXXMm3DB1VswVcuGyInUd"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Videoclub"
+spotify = "3rp4f58JlRHkk8hpdLCer1"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Vince Staples"
+spotify = "68kEuyFKyqrdQQLLsmiatm"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Ween"
+spotify = "3u1ulLq00Y3bfmq9FfjsPu"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Wejdene"
+spotify = "1SxuyHZnLUFyFHGzdGaxZk"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "Welshly Arms"
+spotify = "1xKrH6GSh9CJh8nYwbqW7B"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "White Town"
+spotify = "1MPcILKoMCJym9KscdYxuM"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "WhoHeem"
+spotify = "5KYEMMz9O9iLIESifKAEOp"
+liked_tracks = 1
+liked_albums = 0
+followed = false
+playlist_tracks = 0
+score = 1
+sources = 1
+
+[[artists]]
+name = "XTC"
+spotify = "2qT62DYO8Ajb276vUJmvhz"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Y2K"
+spotify = "6USMTwO0MNDnKte5a5h0xx"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Yael Naim"
+spotify = "32aFdXARUiqP81SXqIPD4w"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Young Fathers"
+spotify = "5mZC7ndY6oGMxJentRwsuV"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Yusuf / Cat Stevens"
+spotify = "08F3Y3SctIlsOEmKd6dnH8"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Zuzana Navarová"
+spotify = "78pqktwsz3pr1uOZYe7tkH"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "alt-J"
+spotify = "3XHO7cRUPCLOr6jwp8vsx5"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
+
+[[artists]]
+name = "Étienne Daho"
+spotify = "5aDKJuLDczfmHfRSOmHCJk"
+liked_tracks = 0
+liked_albums = 0
+followed = false
+playlist_tracks = 1
+score = 1
+sources = 1
