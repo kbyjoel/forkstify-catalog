@@ -1,5 +1,5 @@
-plays = 2.9848652884476685
-last = "2026-09-10"
+plays = 3.8627304785331096
+last = "2026-09-21"
 weight = 1.0
 
 [tops."Into My Arms"]
@@ -9,6 +9,10 @@ last = "2026-09-08"
 [tops."Jubilee Street"]
 plays = 1.0
 last = "2026-09-08"
+
+[tops."Night of the Lotus Eaters"]
+plays = 1.0
+last = "2026-09-21"
 
 [tops."Where the Wild Roses Grow"]
 plays = 1.0
