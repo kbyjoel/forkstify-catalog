@@ -2,9 +2,15 @@ plays = 3.9547676599633355
 last = "2026-09-15"
 weight = 1.0
 
+[tops."Bring Me Coffee or Tea"]
+liked = true
+
 [tops.Moonshake]
 plays = 1.0
 last = "2026-09-11"
+
+[tops.Paperhouse]
+liked = true
 
 [tops."She Brings the Rain"]
 plays = 1.0
