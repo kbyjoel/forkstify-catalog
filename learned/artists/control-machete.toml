@@ -1,8 +1,12 @@
-plays = 9.787052304266037
+plays = 10.787052304266037
 last = "2026-09-22"
 weight = 1.0
 
 [tops."Comprendes, Mendes?"]
+plays = 1.0
+last = "2026-09-22"
+
+[tops."Cumbia Sobre El Rio"]
 plays = 1.0
 last = "2026-09-22"
 
