@@ -1,4 +1,4 @@
-plays = 1.0
+plays = 3.0
 last = "2026-09-22"
 weight = 1.0
 
@@ -6,3 +6,11 @@ weight = 1.0
 plays = 1.0
 last = "2026-09-22"
 liked = true
+
+[tops.Puto]
+plays = 1.0
+last = "2026-09-22"
+
+[tops."Voto Latino"]
+plays = 1.0
+last = "2026-09-22"
