@@ -1,5 +1,5 @@
-plays = 3.9660114034732663
-last = "2026-09-13"
+plays = 4.818204316842349
+last = "2026-09-23"
 weight = 1.4285714626312256
 
 [tops."Come Together"]
@@ -17,3 +17,7 @@ last = "2026-09-10"
 [tops."Strawberry Fields Forever"]
 plays = 1.0
 last = "2026-09-10"
+
+[tops."Tomorrow Never Knows"]
+plays = 1.0
+last = "2026-09-23"
