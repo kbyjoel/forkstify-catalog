@@ -5,6 +5,7 @@ weight = 1.0
 [tops."I Will Survive"]
 plays = 1.0
 last = "2026-09-11"
+liked = true
 
 [tops."Meanwhile, Rick James..."]
 plays = 1.0
