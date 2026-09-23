@@ -1,24 +1,16 @@
 format = 1
 generated = true
-name = "Boo!"
-mbid = "51108135-65c2-4e01-bd4e-bd7d9e0091f1"
-spotify = "39dPrvOQpekY24oOeKGYlq"
-begin = "1997"
-origin = "South Africa"
+name = "Boo"
+mbid = "a15ba7c3-e02e-440b-bc7e-cc60c328e34a"
+spotify = "75aF8TBGAxDZlcFPDEhIIK"
+begin = "1998"
 
-tags = ["punk", "za", "90s"]
+tags = ["cz", "90s"]
 
 tops = [
-  "Lucki",
-  "Dance",
-  "Ooaa",
-  "Positive",
-  "I Know What Your All About",
-]
-
-links = [
-  { to = "the-parlotones", type = "similar" },
-  { to = "desmond-and-the-tutus", type = "similar" },
-  { to = "wonderboom", type = "similar" },
-  { to = "zebra-and-giraffe", type = "similar" },
+  "Hyper Feminine",
+  "Winged Victory",
+  "Neoteny",
+  "Epiphany Bathing",
+  "Kama Sutra",
 ]
