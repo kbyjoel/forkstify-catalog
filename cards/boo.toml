@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Boo!"
+mbid = "51108135-65c2-4e01-bd4e-bd7d9e0091f1"
+spotify = "39dPrvOQpekY24oOeKGYlq"
+begin = "1997"
+origin = "South Africa"
+
+tags = ["punk", "za", "90s"]
+
+tops = [
+  "Lucki",
+  "Dance",
+  "Ooaa",
+  "Positive",
+  "I Know What Your All About",
+]
+
+links = [
+  { to = "the-parlotones", type = "similar" },
+  { to = "desmond-and-the-tutus", type = "similar" },
+  { to = "wonderboom", type = "similar" },
+  { to = "zebra-and-giraffe", type = "similar" },
+]
