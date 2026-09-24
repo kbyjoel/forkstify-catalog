@@ -18,8 +18,8 @@ tops = [
 
 links = [
   { to = "pulp", type = "member" },
-  { to = "keren-ann", type = "similar" },
+  { to = "eels", type = "similar" },
+  { to = "the-divine-comedy", type = "similar" },
   { to = "nouvelle-vague", type = "similar" },
-  { to = "the-liminanas", type = "similar" },
   { to = "nick-cave-and-the-bad-seeds", type = "similar" },
 ]
