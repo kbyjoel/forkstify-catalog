@@ -1,6 +1,10 @@
-plays = 4.888194658365222
+plays = 5.888194658365222
 last = "2026-09-24"
 weight = 1.0
+
+[tops.Aline]
+plays = 1.0
+last = "2026-09-24"
 
 [tops."Do the Hippogriff"]
 skipped = 1
