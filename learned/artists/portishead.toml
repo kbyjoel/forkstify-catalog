@@ -1,5 +1,5 @@
-plays = 8.742667430223094
-last = "2026-09-24"
+plays = 10.709525173904408
+last = "2026-09-25"
 weight = 1.0
 
 [tops."Glory Box"]
@@ -11,8 +11,8 @@ plays = 1.9811888466490064
 last = "2026-09-15"
 
 [tops.Roads]
-plays = 2.9291265769201438
-last = "2026-09-24"
+plays = 3.9180226587422013
+last = "2026-09-25"
 liked = true
 
 [tops."Sour Times"]
@@ -20,6 +20,6 @@ plays = 1.0
 last = "2026-09-15"
 
 [tops."Wandering Star"]
-plays = 1.988670467824422
-last = "2026-09-21"
+plays = 2.9586863948839195
+last = "2026-09-25"
 liked = true
