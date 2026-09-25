@@ -1,6 +1,10 @@
-plays = 3.0
+plays = 4.0
 last = "2026-09-25"
 weight = 1.0
+
+[tops.Boosters]
+plays = 1.0
+last = "2026-09-25"
 
 [tops."Je fume pu d'shit"]
 plays = 1.0
