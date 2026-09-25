@@ -1,7 +1,15 @@
-plays = 1.0
+plays = 3.0
 last = "2026-09-25"
 weight = 1.0
 
 [tops."Je fume pu d'shit"]
+plays = 1.0
+last = "2026-09-25"
+
+[tops."Raggalloween (La chanson pour Halloween)"]
+plays = 1.0
+last = "2026-09-25"
+
+[tops."Stupeflip vite !!!"]
 plays = 1.0
 last = "2026-09-25"
