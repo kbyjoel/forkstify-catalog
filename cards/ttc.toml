@@ -17,6 +17,7 @@ tops = [
 ]
 
 links = [
+  { to = "klub-des-loosers", type = "similar" },
   { to = "svinkels", type = "similar" },
   { to = "iam", type = "similar" },
   { to = "joeystarr", type = "similar" },
