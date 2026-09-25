@@ -1,5 +1,5 @@
-plays = 3.0
-last = "2026-09-16"
+plays = 3.899185072395209
+last = "2026-09-25"
 weight = 1.0
 
 [tops."Chaos A.D"]
@@ -7,6 +7,9 @@ plays = 1.0
 last = "2026-09-16"
 
 [tops.Listeners]
+plays = 1.0
+last = "2026-09-25"
+liked = true
 
 [tops.Love]
 plays = 1.0
