@@ -1,0 +1,23 @@
+format = 1
+name = "Rubin Steiner"
+mbid = "cb882ad7-c2de-485e-9986-0a1462a2e254"
+spotify = "4QMangq7dcB1zMVXOzaeWT"
+begin = "1974"
+origin = "Tours"
+
+tags = ["fr"]
+
+tops = [
+  "Que Bonita Es la Vida",
+  "Minellos, Pt. 2",
+  "Computer Heartbeat",
+  "Numbers are Words",
+  "Girls",
+]
+
+links = [
+  { to = "nasser", type = "similar" },
+  { to = "soulwax", type = "similar" },
+  { to = "fujiya-and-miyagi", type = "similar" },
+  { to = "dombrance", type = "similar" },
+]
