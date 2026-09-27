@@ -1,16 +1,23 @@
-plays = 6.805724968608103
-last = "2026-09-25"
+plays = 8.75422362645591
+last = "2026-09-27"
 weight = 1.0
 
 [tops."Defiant order"]
-plays = 4.87293492034463
-last = "2026-09-25"
+plays = 5.83605968812828
+last = "2026-09-27"
 liked = true
 
 [tops."Jaded Future"]
 plays = 1.0
 last = "2026-09-16"
 
+[tops."The Parachute Ending"]
+plays = 1.0
+last = "2026-09-27"
+
 [tops."Trans Boulogne Express"]
 plays = 1.0
 last = "2026-09-16"
+
+[connections]
+laurent-garnier = 4
