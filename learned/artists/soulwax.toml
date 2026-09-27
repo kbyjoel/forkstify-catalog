@@ -1,6 +1,10 @@
-plays = 1.0
-last = "2026-09-25"
+plays = 1.9924326442238343
+last = "2026-09-27"
 weight = 1.0
+
+[tops.Krack]
+plays = 1.0
+last = "2026-09-27"
 
 [tops."Run Free"]
 plays = 1.0
