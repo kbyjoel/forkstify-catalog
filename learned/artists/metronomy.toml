@@ -1,5 +1,5 @@
-plays = 5.825537059285622
-last = "2026-09-25"
+plays = 6.781453147770771
+last = "2026-09-27"
 weight = 1.0
 
 [tops."Everything Goes My Way"]
@@ -18,3 +18,7 @@ last = "2026-09-16"
 [tops."The End Of You Too"]
 plays = 1.0
 last = "2026-09-16"
+
+[tops."The Look"]
+plays = 1.0
+last = "2026-09-27"
