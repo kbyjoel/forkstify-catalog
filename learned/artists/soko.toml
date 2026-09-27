@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-09-14"
+plays = 2.9036485093692943
+last = "2026-09-27"
 weight = 1.0
 
 [tops."I Thought I Was An Alien"]
@@ -7,6 +7,6 @@ plays = 1.0
 last = "2026-09-14"
 
 [tops."We Might Be Dead By Tomorrow"]
-plays = 1.0
-last = "2026-09-14"
+plays = 1.9518242546846472
+last = "2026-09-27"
 liked = true
