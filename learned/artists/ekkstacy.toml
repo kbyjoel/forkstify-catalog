@@ -1,0 +1,15 @@
+plays = 3.0
+last = "2026-09-27"
+weight = 1.0
+
+[tops."i just want to hide my face"]
+plays = 1.0
+last = "2026-09-27"
+
+[tops."i walk this earth all by myself"]
+plays = 1.0
+last = "2026-09-27"
+
+[tops."mr. mole"]
+plays = 1.0
+last = "2026-09-27"
