@@ -20,6 +20,9 @@ liked = true
 plays = 1.0
 last = "2026-09-16"
 
+[tops."The End"]
+skipped = 1
+
 [tops."The Shooter"]
 plays = 1.0
 last = "2026-09-16"
