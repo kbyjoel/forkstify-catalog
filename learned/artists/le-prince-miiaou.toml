@@ -1,5 +1,19 @@
-plays = 0.0
+plays = 3.0
+last = "2026-09-28"
 weight = 1.0
+
+[tops."J'ai deux yeux"]
+plays = 1.0
+last = "2026-09-28"
+liked = true
+
+[tops."Je te vois dans ma main"]
+plays = 1.0
+last = "2026-09-28"
+
+[tops."Turn Me Off"]
+plays = 1.0
+last = "2026-09-28"
 
 [connections]
 cat-power = 3
