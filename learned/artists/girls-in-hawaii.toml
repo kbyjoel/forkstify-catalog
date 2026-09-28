@@ -1,4 +1,4 @@
-plays = 11.984922553321113
+plays = 12.984922553321113
 last = "2026-09-28"
 weight = 1.0
 
@@ -12,6 +12,10 @@ last = "2026-09-28"
 
 [tops.Casper]
 plays = 1.9849225533211117
+last = "2026-09-28"
+
+[tops.Catwalk]
+plays = 1.0
 last = "2026-09-28"
 
 [tops.Flavor]
