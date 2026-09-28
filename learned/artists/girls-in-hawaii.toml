@@ -1,7 +1,19 @@
-plays = 1.0
-last = "2026-09-24"
+plays = 3.9849225533211117
+last = "2026-09-28"
 weight = 1.0
+
+[tops."9.00 am"]
+plays = 1.0
+last = "2026-09-28"
 
 [tops.Casper]
 plays = 1.0
 last = "2026-09-24"
+
+[tops."Short Song for a Short Mind"]
+plays = 1.0
+last = "2026-09-28"
+
+[tops."Time to Forgive the Winter"]
+plays = 1.0
+last = "2026-09-28"
