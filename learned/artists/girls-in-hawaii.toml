@@ -1,4 +1,4 @@
-plays = 3.9849225533211117
+plays = 6.984922553321112
 last = "2026-09-28"
 weight = 1.0
 
@@ -7,10 +7,18 @@ plays = 1.0
 last = "2026-09-28"
 
 [tops.Casper]
+plays = 1.9849225533211117
+last = "2026-09-28"
+
+[tops."Found in the Ground"]
 plays = 1.0
-last = "2026-09-24"
+last = "2026-09-28"
 
 [tops."Short Song for a Short Mind"]
+plays = 1.0
+last = "2026-09-28"
+
+[tops."The Ship on the Sea"]
 plays = 1.0
 last = "2026-09-28"
 
