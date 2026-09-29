@@ -1,6 +1,14 @@
-plays = 2.916351242694219
+plays = 5.916351242694219
 last = "2026-09-29"
 weight = 1.0
+
+[tops."Alone Again Or"]
+plays = 1.0
+last = "2026-09-29"
+
+[tops."Black Car, Black Night"]
+plays = 1.0
+last = "2026-09-29"
 
 [tops."Crystal Frontier"]
 plays = 1.0
@@ -13,3 +21,7 @@ last = "2026-09-29"
 [tops.Para]
 plays = 1.0
 last = "2026-09-06"
+
+[tops."Stinging Nettle"]
+plays = 1.0
+last = "2026-09-29"
