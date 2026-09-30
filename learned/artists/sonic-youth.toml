@@ -1,6 +1,10 @@
-plays = 1.0
-last = "2026-09-10"
+plays = 1.9268520427343785
+last = "2026-09-30"
 weight = 1.0
+
+[tops."Kool Thing"]
+plays = 1.0
+last = "2026-09-30"
 
 [tops."Teen Age Riot (Album Version)"]
 plays = 1.0
