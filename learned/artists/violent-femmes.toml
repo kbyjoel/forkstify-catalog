@@ -1,8 +1,10 @@
-plays = 1.0
-last = "2026-09-10"
+plays = 1.9268520427343785
+last = "2026-09-30"
 weight = 1.0
 
 [tops."Blister In The Sun"]
+plays = 1.0
+last = "2026-09-30"
 liked = true
 
 [tops."Kiss Off"]
