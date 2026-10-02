@@ -1,4 +1,4 @@
-plays = 3.7386719972247824
+plays = 5.738671997224783
 last = "2026-10-02"
 weight = 1.0
 
@@ -7,9 +7,13 @@ plays = 1.0
 last = "2026-09-07"
 
 [tops."King Kunta"]
-plays = 1.0
-last = "2026-09-07"
+plays = 1.9094168868248205
+last = "2026-10-02"
 
 [tops."Money Trees"]
 plays = 1.9198382235751414
+last = "2026-10-02"
+
+[tops."Rich Spirit"]
+plays = 1.0
 last = "2026-10-02"
