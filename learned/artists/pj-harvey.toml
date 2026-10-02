@@ -1,5 +1,5 @@
-plays = 7.6898515292825795
-last = "2026-09-30"
+plays = 8.631659686894608
+last = "2026-10-02"
 weight = 1.0
 
 [tops.Cadenza]
@@ -29,3 +29,7 @@ last = "2026-09-30"
 [tops."This Wicked Tongue"]
 plays = 1.0
 last = "2026-09-21"
+
+[tops.Wait]
+plays = 1.0
+last = "2026-10-02"
