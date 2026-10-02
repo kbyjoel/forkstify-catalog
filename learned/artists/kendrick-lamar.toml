@@ -1,4 +1,4 @@
-plays = 5.738671997224783
+plays = 8.738671997224783
 last = "2026-10-02"
 weight = 1.0
 
@@ -6,12 +6,24 @@ weight = 1.0
 plays = 1.0
 last = "2026-09-07"
 
+[tops."County Building Blues"]
+plays = 1.0
+last = "2026-10-02"
+
+[tops."DNA."]
+plays = 1.0
+last = "2026-10-02"
+
 [tops."King Kunta"]
 plays = 1.9094168868248205
 last = "2026-10-02"
 
 [tops."Money Trees"]
 plays = 1.9198382235751414
+last = "2026-10-02"
+
+[tops."Opposites Attract (Tomorrow W/O Her)"]
+plays = 1.0
 last = "2026-10-02"
 
 [tops."Rich Spirit"]
