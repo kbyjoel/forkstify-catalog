@@ -1,4 +1,4 @@
-plays = 28.56626665744953
+plays = 29.56626665744953
 last = "2026-10-05"
 weight = 1.4285714626312256
 
@@ -9,6 +9,10 @@ last = "2026-10-05"
 [tops."Come Together"]
 plays = 1.9554462206115173
 last = "2026-09-25"
+
+[tops."Day Tripper (2023 Mix)"]
+plays = 1.0
+last = "2026-10-05"
 
 [tops."Day Tripper (Take 1 - Instrumental Backing Track)"]
 plays = 1.0
