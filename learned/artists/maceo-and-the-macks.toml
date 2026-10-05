@@ -1,0 +1,13 @@
+plays = 2.0
+last = "2026-10-05"
+weight = 1.4285714626312256
+
+[tops."Cross The Tracks (We Better Go Back)"]
+plays = 1.0
+last = "2026-10-05"
+liked = true
+
+[tops."Parrty (Pt. 1)"]
+plays = 1.0
+last = "2026-10-05"
+liked = true
