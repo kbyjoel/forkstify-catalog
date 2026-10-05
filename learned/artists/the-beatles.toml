@@ -1,4 +1,4 @@
-plays = 19.56626665744953
+plays = 22.56626665744953
 last = "2026-10-05"
 weight = 1.4285714626312256
 
@@ -34,6 +34,10 @@ last = "2026-10-05"
 plays = 1.0
 last = "2026-09-10"
 
+[tops."I'm Looking Through You (First Version - Take 1)"]
+plays = 1.0
+last = "2026-10-05"
+
 [tops."If I Needed Someone (Take 1 - Instrumental Backing Track)"]
 plays = 1.0
 last = "2026-10-05"
@@ -47,6 +51,10 @@ plays = 1.0
 last = "2026-10-05"
 
 [tops."Norwegian Wood (This Bird Has Flown) [Third Version - Take 3]"]
+plays = 1.0
+last = "2026-10-05"
+
+[tops."Nowhere Man (Second Version - Take 5 - Instrumental Backing Track)"]
 plays = 1.0
 last = "2026-10-05"
 
@@ -71,6 +79,10 @@ plays = 1.0
 last = "2026-10-05"
 
 [tops."We Can Work It Out (Paul's Demo)"]
+plays = 1.0
+last = "2026-10-05"
+
+[tops."We Can Work It Out (Take 1 - Instrumental Backing Track)"]
 plays = 1.0
 last = "2026-10-05"
 
