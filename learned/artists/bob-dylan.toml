@@ -1,5 +1,5 @@
-plays = 5.806372431765148
-last = "2026-09-23"
+plays = 6.547676595392916
+last = "2026-10-05"
 weight = 1.0
 
 [tops."Blowin' in the Wind"]
@@ -13,6 +13,10 @@ last = "2026-09-13"
 [tops."I Want You"]
 plays = 1.9924326442238343
 last = "2026-09-13"
+
+[tops.Imagination]
+plays = 1.0
+last = "2026-10-05"
 
 [tops."Knockin' On Heaven's Door"]
 plays = 1.0
