@@ -1,10 +1,18 @@
-plays = 11.566266657449528
+plays = 15.566266657449528
 last = "2026-10-05"
 weight = 1.4285714626312256
 
 [tops."Come Together"]
 plays = 1.9554462206115173
 last = "2026-09-25"
+
+[tops."Day Tripper [Songwriting Work Tape]"]
+plays = 1.0
+last = "2026-10-05"
+
+[tops."Drive My Car (Takes 1 And 2 - Instrumental Backing Track)"]
+plays = 1.0
+last = "2026-10-05"
 
 [tops."Eleanor Rigby"]
 plays = 1.0
@@ -19,6 +27,14 @@ plays = 1.0
 last = "2026-09-10"
 
 [tops."Norwegian Wood (This Bird Has Flown) [First Version - Take 1]"]
+plays = 1.0
+last = "2026-10-05"
+
+[tops."Norwegian Wood (This Bird Has Flown) [Second Version - Take 2]"]
+plays = 1.0
+last = "2026-10-05"
+
+[tops."Norwegian Wood (This Bird Has Flown) [Third Version - Take 3]"]
 plays = 1.0
 last = "2026-10-05"
 
