@@ -1,5 +1,5 @@
-plays = 5.7817432505745465
-last = "2026-09-25"
+plays = 9.566266657449528
+last = "2026-10-05"
 weight = 1.4285714626312256
 
 [tops."Come Together"]
@@ -10,14 +10,26 @@ last = "2026-09-25"
 plays = 1.0
 last = "2026-09-10"
 
+[tops."For No One - 2022 Mix"]
+plays = 1.0
+last = "2026-10-05"
+
 [tops."Here Comes the Sun"]
 plays = 1.0
 last = "2026-09-10"
 
 [tops."Strawberry Fields Forever"]
+plays = 1.9094168868248205
+last = "2026-10-05"
+
+[tops."Till There Was You - Remastered 2009"]
 plays = 1.0
-last = "2026-09-10"
+last = "2026-10-05"
 
 [tops."Tomorrow Never Knows"]
 plays = 1.0
 last = "2026-09-23"
+
+[tops."Wait (Take 3 - Instrumental Backing Track)"]
+plays = 1.0
+last = "2026-10-05"
