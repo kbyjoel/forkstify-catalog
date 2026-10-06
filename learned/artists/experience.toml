@@ -1,5 +1,5 @@
-plays = 2.9700724360405784
-last = "2026-09-17"
+plays = 3.7632929700720386
+last = "2026-10-06"
 weight = 1.0
 
 [tops."Aujourd'hui maintenant"]
@@ -8,6 +8,8 @@ last = "2026-09-09"
 liked = true
 
 [tops.Deux]
+plays = 1.0
+last = "2026-10-06"
 liked = true
 
 [tops."Entre voisins"]
