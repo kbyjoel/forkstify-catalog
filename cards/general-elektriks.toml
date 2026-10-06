@@ -16,7 +16,7 @@ tops = [
 
 links = [
   { to = "sporto-kantes", type = "similar" },
-  { to = "wax-tailor", type = "similar" },
-  { to = "bumcello", type = "similar" },
-  { to = "applause", type = "similar" },
+  { to = "wax-tailor", type = "audience" },
+  { to = "bumcello", type = "audience" },
+  { to = "applause", type = "audience" },
 ]

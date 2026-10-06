@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "wax-tailor", type = "similar" },
-  { to = "belleruche", type = "similar" },
+  { to = "wax-tailor", type = "audience" },
+  { to = "belleruche", type = "audience" },
   { to = "general-elektriks", type = "similar" },
-  { to = "chinese-man", type = "similar" },
+  { to = "chinese-man", type = "audience" },
 ]

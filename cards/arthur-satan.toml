@@ -14,8 +14,8 @@ tops = [
 ]
 
 links = [
-  { to = "porridge-radio", type = "similar" },
-  { to = "king-hannah", type = "similar" },
-  { to = "cate-le-bon", type = "similar" },
-  { to = "ghostwoman", type = "similar" },
+  { to = "porridge-radio", type = "audience" },
+  { to = "king-hannah", type = "audience" },
+  { to = "cate-le-bon", type = "audience" },
+  { to = "ghostwoman", type = "audience" },
 ]

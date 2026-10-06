@@ -20,6 +20,6 @@ links = [
   { to = "the-beatles", type = "member", note = "member (1960–1970)" },
   { to = "paul-mccartney", type = "similar" },
   { to = "john-lennon", type = "similar" },
-  { to = "fleetwood-mac", type = "similar" },
+  { to = "fleetwood-mac", type = "audience" },
   { to = "wings", type = "similar" },
 ]

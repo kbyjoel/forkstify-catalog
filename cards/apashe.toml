@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "rl-grime", type = "similar" },
-  { to = "flux-pavilion", type = "similar" },
-  { to = "black-tiger-sex-machine", type = "similar" },
-  { to = "wasiu", type = "similar" },
+  { to = "rl-grime", type = "audience" },
+  { to = "flux-pavilion", type = "audience" },
+  { to = "black-tiger-sex-machine", type = "audience" },
+  { to = "wasiu", type = "audience" },
 ]

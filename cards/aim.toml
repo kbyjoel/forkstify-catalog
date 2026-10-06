@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "the-herbaliser", type = "similar" },
+  { to = "the-herbaliser", type = "audience" },
   { to = "dj-cam", type = "similar" },
-  { to = "mr-scruff", type = "similar" },
-  { to = "jon-kennedy", type = "similar" },
+  { to = "mr-scruff", type = "audience" },
+  { to = "jon-kennedy", type = "audience" },
 ]

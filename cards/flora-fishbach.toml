@@ -16,6 +16,6 @@ tops = [
 ]
 
 links = [
-  { to = "juniore", type = "similar" },
-  { to = "lescop", type = "similar" },
+  { to = "juniore", type = "audience" },
+  { to = "lescop", type = "audience" },
 ]

@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "babylon-circus", type = "similar" },
-  { to = "oai-star", type = "similar" },
-  { to = "percubaba", type = "similar" },
-  { to = "massilia-sound-system", type = "similar" },
+  { to = "babylon-circus", type = "audience" },
+  { to = "oai-star", type = "audience" },
+  { to = "percubaba", type = "audience" },
+  { to = "massilia-sound-system", type = "audience" },
 ]

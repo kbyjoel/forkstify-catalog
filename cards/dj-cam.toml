@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "nightmares-on-wax", type = "similar" },
-  { to = "the-herbaliser", type = "similar" },
-  { to = "mr-scruff", type = "similar" },
-  { to = "dj-krush", type = "similar" },
+  { to = "nightmares-on-wax", type = "audience" },
+  { to = "the-herbaliser", type = "audience" },
+  { to = "mr-scruff", type = "audience" },
+  { to = "dj-krush", type = "audience" },
 ]

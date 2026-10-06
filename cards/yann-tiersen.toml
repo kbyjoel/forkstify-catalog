@@ -16,5 +16,5 @@ tops = [
 ]
 
 links = [
-  { to = "chilly-gonzales", type = "similar" },
+  { to = "chilly-gonzales", type = "audience" },
 ]

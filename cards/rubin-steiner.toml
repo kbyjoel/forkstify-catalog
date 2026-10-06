@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "nasser", type = "similar" },
-  { to = "soulwax", type = "similar" },
-  { to = "fujiya-and-miyagi", type = "similar" },
-  { to = "dombrance", type = "similar" },
+  { to = "nasser", type = "audience" },
+  { to = "soulwax", type = "audience" },
+  { to = "fujiya-and-miyagi", type = "audience" },
+  { to = "dombrance", type = "audience" },
 ]

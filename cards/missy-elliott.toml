@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "lil-kim", type = "similar" },
-  { to = "eve", type = "similar" },
-  { to = "ll-cool-j", type = "similar" },
-  { to = "mase", type = "similar" },
+  { to = "lil-kim", type = "audience" },
+  { to = "eve", type = "audience" },
+  { to = "ll-cool-j", type = "audience" },
+  { to = "mase", type = "audience" },
 ]

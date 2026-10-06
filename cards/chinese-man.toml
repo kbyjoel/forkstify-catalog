@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "al-tarba", type = "similar" },
-  { to = "degiheugi", type = "similar" },
-  { to = "le-peuple-de-l-herbe", type = "similar" },
-  { to = "wax-tailor", type = "similar" },
+  { to = "al-tarba", type = "audience" },
+  { to = "degiheugi", type = "audience" },
+  { to = "le-peuple-de-l-herbe", type = "audience" },
+  { to = "wax-tailor", type = "audience" },
 ]

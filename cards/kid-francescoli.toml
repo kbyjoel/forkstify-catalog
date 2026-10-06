@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "blow", type = "similar" },
-  { to = "camel-power-club", type = "similar" },
-  { to = "napkey", type = "similar" },
-  { to = "french-79", type = "similar" },
+  { to = "blow", type = "audience" },
+  { to = "camel-power-club", type = "audience" },
+  { to = "napkey", type = "audience" },
+  { to = "french-79", type = "audience" },
 ]

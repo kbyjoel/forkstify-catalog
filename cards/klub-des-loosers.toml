@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "le-klub-des-7", type = "similar" },
-  { to = "soklak", type = "similar" },
-  { to = "lucio-bukowski", type = "similar" },
-  { to = "roce", type = "similar" },
+  { to = "le-klub-des-7", type = "audience" },
+  { to = "soklak", type = "audience" },
+  { to = "lucio-bukowski", type = "audience" },
+  { to = "roce", type = "audience" },
 ]

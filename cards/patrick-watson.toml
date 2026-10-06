@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "tamino", type = "similar" },
   { to = "syd-matters", type = "similar" },
-  { to = "this-is-the-kit", type = "similar" },
-  { to = "sufjan-stevens", type = "similar" },
+  { to = "this-is-the-kit", type = "audience" },
+  { to = "sufjan-stevens", type = "audience" },
 ]

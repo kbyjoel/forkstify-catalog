@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "churupaca", type = "similar" },
-  { to = "susana-baca", type = "similar" },
-  { to = "colectivo-panamera", type = "similar" },
-  { to = "amparo-sanchez", type = "similar" },
+  { to = "churupaca", type = "audience" },
+  { to = "susana-baca", type = "audience" },
+  { to = "colectivo-panamera", type = "audience" },
+  { to = "amparo-sanchez", type = "audience" },
 ]

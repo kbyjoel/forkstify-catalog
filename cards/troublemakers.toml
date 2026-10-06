@@ -13,8 +13,8 @@ tops = [
 ]
 
 links = [
-  { to = "smooth", type = "similar" },
-  { to = "dj-cam", type = "similar" },
-  { to = "nightmares-on-wax", type = "similar" },
-  { to = "the-herbaliser", type = "similar" },
+  { to = "smooth", type = "audience" },
+  { to = "dj-cam", type = "audience" },
+  { to = "nightmares-on-wax", type = "audience" },
+  { to = "the-herbaliser", type = "audience" },
 ]

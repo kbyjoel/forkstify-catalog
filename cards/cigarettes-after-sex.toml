@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "sufjan-stevens", type = "similar" },
-  { to = "lana-del-rey", type = "similar" },
-  { to = "beach-house", type = "similar" },
-  { to = "the-walters", type = "similar" },
+  { to = "sufjan-stevens", type = "audience" },
+  { to = "lana-del-rey", type = "audience" },
+  { to = "beach-house", type = "audience" },
+  { to = "the-walters", type = "audience" },
 ]
