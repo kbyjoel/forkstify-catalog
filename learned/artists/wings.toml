@@ -1,8 +1,12 @@
-plays = 1.9554462206115173
-last = "2026-10-05"
+plays = 2.9480333914746257
+last = "2026-10-06"
 weight = 1.0
 
 [tops."Band On The Run"]
 plays = 1.9554462206115173
 last = "2026-10-05"
 liked = true
+
+[tops."Silly Love Songs"]
+plays = 1.0
+last = "2026-10-06"
