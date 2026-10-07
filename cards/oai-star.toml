@@ -18,4 +18,5 @@ links = [
   { to = "spook-and-the-guay", type = "audience" },
   { to = "marcel-et-son-orchestre", type = "audience" },
   { to = "les-cameleons", type = "audience" },
+  { to = "massilia-sound-system", type = "scene", proximity = 5, note = "Marseille ragga-rock with festive, Occitan-flavoured energy." },
 ]
