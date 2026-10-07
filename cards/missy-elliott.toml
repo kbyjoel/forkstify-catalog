@@ -20,4 +20,5 @@ links = [
   { to = "eve", type = "audience" },
   { to = "ll-cool-j", type = "audience" },
   { to = "mase", type = "audience" },
+  { to = "outkast", type = "scene", proximity = 4, note = "Playful, futuristic Southern hip-hop that ruled late-90s pop rap." },
 ]
