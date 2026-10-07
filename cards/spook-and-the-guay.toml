@@ -19,5 +19,5 @@ links = [
   { to = "babylon-circus", type = "audience" },
   { to = "oai-star", type = "audience" },
   { to = "percubaba", type = "audience" },
-  { to = "massilia-sound-system", type = "audience" },
+  { to = "massilia-sound-system", type = "scene", note = "Festive French reggae and ska from the 90s alternative circuit." },
 ]
