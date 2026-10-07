@@ -19,4 +19,5 @@ links = [
   { to = "phoenix", type = "audience" },
   { to = "hot-chip", type = "audience" },
   { to = "the-rapture", type = "audience" },
+  { to = "ttc", type = "scene", note = "Playful 2000s French rap over electro beats." },
 ]
