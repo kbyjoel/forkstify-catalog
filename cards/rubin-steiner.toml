@@ -20,4 +20,5 @@ links = [
   { to = "soulwax", type = "audience" },
   { to = "fujiya-and-miyagi", type = "audience" },
   { to = "dombrance", type = "audience" },
+  { to = "kid-loco", type = "scene", note = "French electronica built on jazz and crate-digging samples." },
 ]
