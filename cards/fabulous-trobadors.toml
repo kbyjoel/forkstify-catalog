@@ -20,4 +20,5 @@ links = [
   { to = "zebda", type = "audience" },
   { to = "tetes-raides", type = "audience" },
   { to = "la-rue-ketanou", type = "audience" },
+  { to = "massilia-sound-system", type = "scene", proximity = 5, note = "Occitan ragga and tchatche from the same southern French movement." },
 ]
