@@ -11,3 +11,6 @@ liked = true
 plays = 1.0
 last = "2026-10-05"
 liked = true
+
+[connections]
+general-elektriks = 3
