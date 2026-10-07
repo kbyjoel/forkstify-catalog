@@ -18,4 +18,5 @@ tops = [
 links = [
   { to = "juniore", type = "audience" },
   { to = "lescop", type = "audience" },
+  { to = "la-femme", type = "scene", note = "2010s French coldwave revival, eerie synths and French vocals." },
 ]
