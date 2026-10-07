@@ -18,4 +18,5 @@ links = [
   { to = "king-hannah", type = "audience" },
   { to = "cate-le-bon", type = "audience" },
   { to = "ghostwoman", type = "audience" },
+  { to = "cheveu", type = "scene", note = "Both belong to the French Born Bad garage underground." },
 ]
