@@ -19,6 +19,9 @@ last = "2026-09-16"
 plays = 1.0
 last = "2026-09-16"
 
+[tops."Salted Caramel Ice Cream"]
+skipped = 1
+
 [tops."The End Of You Too"]
 plays = 1.0
 last = "2026-09-16"
