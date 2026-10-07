@@ -17,4 +17,5 @@ links = [
   { to = "the-shoes", type = "audience" },
   { to = "digitalism", type = "audience" },
   { to = "the-toxic-avenger", type = "audience" },
+  { to = "birdy-nam-nam", type = "scene", note = "Both part of the late-2000s French electro wave." },
 ]
