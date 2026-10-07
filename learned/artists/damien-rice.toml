@@ -9,3 +9,6 @@ last = "2026-09-13"
 [tops."The Blower's Daughter"]
 plays = 1.0
 last = "2026-09-13"
+
+[connections]
+elliott-smith = 3
