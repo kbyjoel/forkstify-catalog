@@ -14,3 +14,6 @@ last = "2026-09-10"
 [tops."Popstar researching oblivion"]
 plays = 2.9811316901110905
 last = "2026-09-15"
+
+[connections]
+arcade-fire = 3

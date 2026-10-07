@@ -9,3 +9,6 @@ last = "2026-09-27"
 [tops."Live Good"]
 plays = 1.0
 last = "2026-09-27"
+
+[connections]
+metronomy = 3

@@ -6,3 +6,11 @@ weight = 1.4285714626312256
 plays = 1.0
 last = "2026-10-05"
 liked = true
+
+[connections]
+jay-reatard = 3
+mac-demarco = 4
+the-liminanas = 2
+
+[declined]
+la-femme = "2026-10-07"
