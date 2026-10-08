@@ -1,5 +1,5 @@
-plays = 5.731789263714106
-last = "2026-09-30"
+plays = 7.560250773922376
+last = "2026-10-08"
 weight = 1.0
 
 [tops."Charmless Man"]
@@ -15,6 +15,14 @@ last = "2026-09-24"
 plays = 1.9268520427343785
 last = "2026-09-30"
 liked = true
+
+[tops.Parklife]
+plays = 1.0
+last = "2026-10-08"
+
+[tops."Song 2"]
+plays = 1.0
+last = "2026-10-08"
 
 [tops."To the End (La Comedie) - 2012 Remaster"]
 skipped = 1
