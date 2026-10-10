@@ -1,10 +1,14 @@
-plays = 3.801758027999738
-last = "2026-09-25"
+plays = 4.591222226248843
+last = "2026-10-10"
 weight = 1.0
 
 [tops.Brutalisme]
 plays = 1.0
 last = "2026-09-07"
+
+[tops.Contretemps]
+plays = 1.0
+last = "2026-10-10"
 
 [tops."La Fête noire"]
 plays = 2.0
