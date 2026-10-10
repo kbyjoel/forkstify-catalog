@@ -1,10 +1,17 @@
-plays = 1.0
-last = "2026-09-11"
+plays = 1.8957052022048388
+last = "2026-10-10"
 weight = 1.0
 
 [tops."Autumn Sweater"]
+plays = 1.0
+last = "2026-10-10"
 liked = true
 
 [tops."Tom Courtenay"]
 plays = 1.0
 last = "2026-09-11"
+
+[connections]
+cat-power = 3
+r-e-m = 2
+the-velvet-underground = 4
