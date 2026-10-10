@@ -1,8 +1,12 @@
-plays = 2.0
+plays = 3.0
 last = "2026-10-10"
 weight = 1.4285714626312256
 
 [tops.Apocalypse]
+plays = 1.0
+last = "2026-10-10"
+
+[tops."K."]
 plays = 1.0
 last = "2026-10-10"
 
