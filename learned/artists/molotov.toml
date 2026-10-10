@@ -1,10 +1,10 @@
-plays = 3.0
-last = "2026-09-22"
+plays = 3.801758027999738
+last = "2026-10-10"
 weight = 1.0
 
 [tops."Gimme Tha Power"]
-plays = 1.0
-last = "2026-09-22"
+plays = 1.9339193426665793
+last = "2026-10-10"
 liked = true
 
 [tops.Puto]

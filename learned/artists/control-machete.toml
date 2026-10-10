@@ -1,4 +1,4 @@
-plays = 17.75324073280133
+plays = 18.75324073280133
 last = "2026-10-10"
 weight = 1.0
 
@@ -29,8 +29,8 @@ plays = 1.0
 last = "2026-09-29"
 
 [tops."Si Señor"]
-plays = 2.943920399437414
-last = "2026-09-22"
+plays = 3.7493842043053234
+last = "2026-10-10"
 liked = true
 
 [connections]
