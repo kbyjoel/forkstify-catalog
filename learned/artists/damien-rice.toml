@@ -1,6 +1,10 @@
-plays = 2.0
-last = "2026-09-13"
+plays = 2.8050700113867286
+last = "2026-10-10"
 weight = 1.0
+
+[tops."9 Crimes"]
+plays = 1.0
+last = "2026-10-10"
 
 [tops.Delicate]
 plays = 1.0

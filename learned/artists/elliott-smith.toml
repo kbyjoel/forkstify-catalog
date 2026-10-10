@@ -1,11 +1,15 @@
-plays = 1.9849225533211117
-last = "2026-09-15"
+plays = 2.805122089029659
+last = "2026-10-10"
 weight = 1.0
 
 [tops."Ballad Of Big Nothing"]
 plays = 1.0
 last = "2026-09-15"
 liked = true
+
+[tops."Miss Misery"]
+plays = 1.0
+last = "2026-10-10"
 
 [tops."Say Yes"]
 skipped = 1
