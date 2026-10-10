@@ -6,6 +6,9 @@ weight = 1.0
 plays = 1.0
 last = "2026-10-08"
 
+[tops."Do You Remember the First Time?"]
+skipped = 1
+
 [tops."This Is Hardcore"]
 plays = 1.9482160191351572
 last = "2026-09-24"
