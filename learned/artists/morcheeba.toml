@@ -1,8 +1,10 @@
-plays = 1.0
-last = "2026-09-14"
+plays = 1.9059694118059842
+last = "2026-10-10"
 weight = 1.0
 
 [tops."Blood Like Lemonade"]
+plays = 1.0
+last = "2026-10-10"
 liked = true
 
 [tops.Otherwise]

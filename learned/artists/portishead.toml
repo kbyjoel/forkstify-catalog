@@ -1,5 +1,5 @@
-plays = 18.4343287145745
-last = "2026-10-01"
+plays = 18.814843542973584
+last = "2026-10-10"
 weight = 1.0
 
 [tops."Glory Box"]
@@ -11,8 +11,8 @@ plays = 1.0
 last = "2026-10-01"
 
 [tops.Numb]
-plays = 2.8714735046474433
-last = "2026-09-30"
+plays = 3.764458145920004
+last = "2026-10-10"
 liked = true
 
 [tops.Roads]
