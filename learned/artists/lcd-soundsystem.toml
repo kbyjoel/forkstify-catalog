@@ -1,5 +1,5 @@
-plays = 1.9924326442238343
-last = "2026-09-27"
+plays = 2.8964457165977118
+last = "2026-10-10"
 weight = 1.0
 
 [tops."Dance Yrself Clean"]
@@ -11,4 +11,6 @@ plays = 1.0
 last = "2026-09-25"
 
 [tops."oh baby"]
+plays = 1.0
+last = "2026-10-10"
 liked = true
