@@ -1,5 +1,5 @@
-plays = 29.56626665744953
-last = "2026-10-05"
+plays = 31.01009108133988
+last = "2026-10-10"
 weight = 1.4285714626312256
 
 [tops."Beatle Talk (Take 2 - Instrumental Backing Track)"]
@@ -13,6 +13,10 @@ last = "2026-09-25"
 [tops."Day Tripper (2023 Mix)"]
 plays = 1.0
 last = "2026-10-05"
+
+[tops."Day Tripper (Songwriting Work Tape)"]
+plays = 1.0
+last = "2026-10-10"
 
 [tops."Day Tripper (Take 1 - Instrumental Backing Track)"]
 plays = 1.0
@@ -81,6 +85,10 @@ last = "2026-10-05"
 [tops."Run For Your Life (Takes 1-5 - Instrumental Backing Track)"]
 plays = 1.0
 last = "2026-10-05"
+
+[tops."Something (Take 39 - Strings Only Instrumental)"]
+plays = 1.0
+last = "2026-10-10"
 
 [tops."Strawberry Fields Forever"]
 plays = 1.9094168868248205
