@@ -1,7 +1,19 @@
-plays = 1.0
-last = "2026-09-28"
-weight = 1.0
+plays = 3.9554462206115173
+last = "2026-10-10"
+weight = 1.4285714626312256
 
 [tops."Birds Also Sing for Anamaria"]
 plays = 1.0
 last = "2026-09-28"
+
+[tops."Show your love"]
+plays = 1.0
+last = "2026-10-10"
+
+[tops."Summer in Paris"]
+plays = 1.0
+last = "2026-10-10"
+
+[tops."Underground Vibes - Remastered 2025"]
+plays = 1.0
+last = "2026-10-10"
