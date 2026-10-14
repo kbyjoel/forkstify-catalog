@@ -1,5 +1,5 @@
-plays = 2.8964457165977118
-last = "2026-10-10"
+plays = 3.8527747107474157
+last = "2026-10-14"
 weight = 1.0
 
 [tops."Dance Yrself Clean"]
@@ -9,6 +9,10 @@ last = "2026-09-27"
 [tops.Dancer]
 plays = 1.0
 last = "2026-09-25"
+
+[tops."Seconds - electric lady sessions"]
+plays = 1.0
+last = "2026-10-14"
 
 [tops."oh baby"]
 plays = 1.0
