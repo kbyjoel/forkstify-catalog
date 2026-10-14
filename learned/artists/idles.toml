@@ -6,6 +6,9 @@ weight = 1.0
 plays = 1.0
 last = "2026-10-14"
 
+[tops."Gift Horse"]
+liked = true
+
 [tops."POP POP POP"]
 plays = 1.9025350056933643
 last = "2026-10-14"
