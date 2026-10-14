@@ -1,4 +1,4 @@
-plays = 1.9025350056933643
+plays = 2.9025350056933643
 last = "2026-10-14"
 weight = 1.0
 
@@ -7,6 +7,6 @@ plays = 1.0
 last = "2026-10-14"
 
 [tops."POP POP POP"]
-plays = 1.0
-last = "2026-09-17"
+plays = 1.9025350056933643
+last = "2026-10-14"
 liked = true
