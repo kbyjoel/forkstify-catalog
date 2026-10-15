@@ -1,10 +1,14 @@
-plays = 16.356004482216775
+plays = 17.356004482216775
 last = "2026-10-15"
 weight = 1.0
 
 [tops."Bouche à lèvres"]
 plays = 1.9339193426665793
 last = "2026-09-25"
+
+[tops."Chewing gum"]
+plays = 1.0
+last = "2026-10-15"
 
 [tops.Houston]
 plays = 2.9080408893833853
