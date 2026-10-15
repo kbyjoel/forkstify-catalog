@@ -1,7 +1,8 @@
-plays = 1.0
-last = "2026-09-07"
+plays = 1.865605050499667
+last = "2026-10-15"
 weight = 1.0
 
 [tops."Je ne suis pas très drogue"]
-plays = 1.0
-last = "2026-09-07"
+plays = 1.865605050499667
+last = "2026-10-15"
+liked = true
