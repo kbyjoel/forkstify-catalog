@@ -1,8 +1,12 @@
-plays = 1.878855954288881
-last = "2026-10-14"
+plays = 2.8717334683748375
+last = "2026-10-15"
 weight = 1.0
 
 [tops."Fin du monde"]
 plays = 1.878855954288881
 last = "2026-10-14"
 liked = true
+
+[tops."Hypnose en bas de gamme"]
+plays = 1.0
+last = "2026-10-15"
