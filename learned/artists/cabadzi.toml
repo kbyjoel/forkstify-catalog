@@ -1,6 +1,15 @@
-plays = 1.9811888466490064
+plays = 3.9811888466490064
 last = "2026-10-15"
 weight = 1.0
+
+[tops.Bain]
+plays = 1.0
+last = "2026-10-15"
+
+[tops.Bouche]
+plays = 1.0
+last = "2026-10-15"
+liked = true
 
 [tops."Un deux trois"]
 plays = 1.9811888466490064
