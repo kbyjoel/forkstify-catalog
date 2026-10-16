@@ -1,7 +1,11 @@
-plays = 1.0
-last = "2026-09-17"
+plays = 1.8957052022048388
+last = "2026-10-16"
 weight = 1.0
 
 [tops."Ella, elle l'a"]
 plays = 1.0
 last = "2026-09-17"
+
+[tops."Le quatro domande"]
+plays = 1.0
+last = "2026-10-16"
