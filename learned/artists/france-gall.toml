@@ -1,11 +1,19 @@
-plays = 1.8957052022048388
+plays = 3.895705202204839
 last = "2026-10-16"
-weight = 1.0
+weight = 1.4285714626312256
 
 [tops."Ella, elle l'a"]
 plays = 1.0
 last = "2026-09-17"
 
+[tops."Il jouait du piano debout"]
+plays = 1.0
+last = "2026-10-16"
+
 [tops."Le quatro domande"]
+plays = 1.0
+last = "2026-10-16"
+
+[tops."Si maman si"]
 plays = 1.0
 last = "2026-10-16"
