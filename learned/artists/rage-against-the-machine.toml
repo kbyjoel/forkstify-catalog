@@ -1,6 +1,10 @@
-plays = 2.0
+plays = 3.0
 last = "2026-10-16"
 weight = 1.4285714626312256
+
+[tops.Bombtrack]
+plays = 1.0
+last = "2026-10-16"
 
 [tops."Bulls On Parade"]
 plays = 1.0
