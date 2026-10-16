@@ -1,11 +1,15 @@
-plays = 5.812585234597291
-last = "2026-10-02"
+plays = 6.511586432033638
+last = "2026-10-16"
 weight = 1.0
 
 [tops."All I Think About Now"]
 plays = 2.9006158842971863
 last = "2026-09-30"
 liked = true
+
+[tops."Dead - John Peel Session (9th October 1988)"]
+plays = 1.0
+last = "2026-10-16"
 
 [tops."In Heaven - Live from Red Rocks Amphitheatre, Denver, CO. June 5th, 2005"]
 plays = 1.0
