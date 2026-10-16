@@ -1,6 +1,10 @@
-plays = 1.0
-last = "2026-09-17"
+plays = 1.8957052022048388
+last = "2026-10-16"
 weight = 1.0
+
+[tops."Chanter pour ceux qui sont loin de chez eux"]
+plays = 1.0
+last = "2026-10-16"
 
 [tops."Quelques mots d'amour"]
 plays = 1.0
