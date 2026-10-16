@@ -1,6 +1,10 @@
-plays = 1.0
-last = "2026-09-14"
+plays = 1.8855572812966264
+last = "2026-10-16"
 weight = 1.0
+
+[tops."Future Starts Slow"]
+plays = 1.0
+last = "2026-10-16"
 
 [tops."I Hate The Way You Love - The Tchad Blake Mix 2022"]
 plays = 1.0

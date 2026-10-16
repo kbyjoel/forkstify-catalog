@@ -1,10 +1,14 @@
-plays = 8.631659686894608
-last = "2026-10-02"
+plays = 9.184677986836622
+last = "2026-10-16"
 weight = 1.0
 
 [tops.Cadenza]
 plays = 1.0
 last = "2026-09-24"
+
+[tops."Ecstasy - 4-Track Demo Version"]
+plays = 1.0
+last = "2026-10-16"
 
 [tops."Good Fortune"]
 plays = 1.9518242546846472
