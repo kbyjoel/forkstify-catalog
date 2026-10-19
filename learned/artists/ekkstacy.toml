@@ -1,4 +1,4 @@
-plays = 3.759514670725425
+plays = 4.759514670725425
 last = "2026-10-19"
 weight = 1.0
 
@@ -9,6 +9,10 @@ last = "2026-09-27"
 [tops."i walk this earth all by myself"]
 plays = 1.0
 last = "2026-09-27"
+
+[tops."i want to sleep for 1000 years"]
+plays = 1.0
+last = "2026-10-19"
 
 [tops."im so happy"]
 plays = 1.0
