@@ -1,10 +1,14 @@
-plays = 3.0
-last = "2026-10-10"
+plays = 4.899185072395209
+last = "2026-10-19"
 weight = 1.4285714626312256
 
 [tops.Apocalypse]
 plays = 1.0
 last = "2026-10-10"
+
+[tops.Cry]
+plays = 1.0
+last = "2026-10-19"
 
 [tops."K."]
 plays = 1.0
@@ -13,6 +17,10 @@ last = "2026-10-10"
 [tops.Sweet]
 plays = 1.0
 last = "2026-10-10"
+
+[tops.Touch]
+plays = 1.0
+last = "2026-10-19"
 
 [connections]
 king-hannah = 3
