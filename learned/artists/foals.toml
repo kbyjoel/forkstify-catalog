@@ -1,6 +1,10 @@
-plays = 1.9339193426665793
-last = "2026-10-02"
+plays = 2.8061246812733547
+last = "2026-10-20"
 weight = 1.0
+
+[tops."Late Night (Solomun Remix)"]
+plays = 1.0
+last = "2026-10-20"
 
 [tops."My Number"]
 plays = 1.9339193426665793
