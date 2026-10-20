@@ -1,5 +1,5 @@
-plays = 8.255862961765587
-last = "2026-10-16"
+plays = 9.131385628171358
+last = "2026-10-20"
 weight = 1.0
 
 [tops.Aline]
@@ -19,8 +19,8 @@ last = "2026-09-24"
 liked = true
 
 [tops."The Tearjerker Returns"]
-plays = 2.9254631055768154
-last = "2026-09-24"
+plays = 3.650380089019535
+last = "2026-10-20"
 liked = true
 
 [connections]
