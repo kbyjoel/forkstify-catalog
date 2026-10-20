@@ -1,0 +1,13 @@
+plays = 1.0
+last = "2026-10-20"
+weight = 1.4285714626312256
+
+[tops."Ricordo tattile"]
+plays = 1.0
+last = "2026-10-20"
+liked = true
+
+[connections]
+flavien-berger = 3
+flotation-toy-warning = 4
+tame-impala = 3
