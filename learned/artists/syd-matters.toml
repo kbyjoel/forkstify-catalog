@@ -1,6 +1,10 @@
-plays = 1.9482160191351572
-last = "2026-09-24"
-weight = 1.0
+plays = 2.765024120926874
+last = "2026-10-20"
+weight = 1.4285714626312256
+
+[tops."Armageddon Time"]
+plays = 1.0
+last = "2026-10-20"
 
 [tops."Choking on Anger"]
 plays = 1.0
