@@ -1,6 +1,10 @@
-plays = 2.9550654919561583
-last = "2026-09-24"
+plays = 3.677198945595682
+last = "2026-10-20"
 weight = 1.0
+
+[tops."If I Ever Feel Better"]
+plays = 1.0
+last = "2026-10-20"
 
 [tops.Nightcall]
 plays = 2.9550654919561583
