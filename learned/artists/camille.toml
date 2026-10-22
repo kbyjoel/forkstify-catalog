@@ -1,13 +1,13 @@
-plays = 8.755088942199146
+plays = 12.755088942199146
 last = "2026-10-21"
 weight = 1.4285714626312256
 
 [tops.Assise]
-plays = 1.0
+plays = 2.0
 last = "2026-10-21"
 
 [tops."Janine 1"]
-plays = 1.0
+plays = 2.0
 last = "2026-10-21"
 
 [tops."La jeune fille aux cheveux blancs"]
@@ -24,9 +24,9 @@ plays = 1.0
 last = "2026-09-09"
 
 [tops."Ta douleur"]
-plays = 2.9025350056933643
+plays = 3.9025350056933643
 last = "2026-10-21"
 
 [tops.Vous]
-plays = 1.0
+plays = 2.0
 last = "2026-10-21"
