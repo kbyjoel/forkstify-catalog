@@ -1,5 +1,5 @@
-plays = 10.045283068710912
-last = "2026-10-20"
+plays = 10.969266837857683
+last = "2026-10-22"
 weight = 1.0
 
 [tops."Everybody's Gotta Learn Sometime"]
@@ -16,8 +16,8 @@ plays = 1.0
 last = "2026-10-20"
 
 [tops."Old Man"]
-plays = 1.0
-last = "2026-09-10"
+plays = 1.852553936505782
+last = "2026-10-22"
 
 [tops.Phase]
 plays = 1.0
