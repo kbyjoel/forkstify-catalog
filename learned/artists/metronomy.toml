@@ -1,4 +1,4 @@
-plays = 10.952856650217916
+plays = 12.952856650217916
 last = "2026-10-22"
 weight = 1.0
 
@@ -26,13 +26,17 @@ last = "2026-09-16"
 [tops."Salted Caramel Ice Cream"]
 skipped = 1
 
+[tops."She Wants"]
+plays = 1.0
+last = "2026-10-22"
+
 [tops."The End Of You Too"]
 plays = 1.0
 last = "2026-09-16"
 
 [tops."The Look"]
-plays = 1.0
-last = "2026-09-27"
+plays = 1.9094168868248205
+last = "2026-10-22"
 
 [tops."Upset My Girlfriend"]
 plays = 1.0
