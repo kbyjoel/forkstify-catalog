@@ -1,4 +1,4 @@
-plays = 12.755088942199146
+plays = 16.755088942199144
 last = "2026-10-21"
 weight = 1.4285714626312256
 
@@ -6,11 +6,23 @@ weight = 1.4285714626312256
 plays = 2.0
 last = "2026-10-21"
 
+[tops."Baby carni bird"]
+plays = 1.0
+last = "2026-10-21"
+
 [tops."Janine 1"]
 plays = 2.0
 last = "2026-10-21"
 
+[tops."Janine 2"]
+plays = 1.0
+last = "2026-10-21"
+
 [tops."La jeune fille aux cheveux blancs"]
+plays = 1.0
+last = "2026-10-21"
+
+[tops."Pour que l'amour me quitte"]
 plays = 1.0
 last = "2026-10-21"
 
@@ -22,6 +34,10 @@ liked = true
 [tops."Que je t'aime"]
 plays = 1.0
 last = "2026-09-09"
+
+[tops.Senza]
+plays = 1.0
+last = "2026-10-21"
 
 [tops."Ta douleur"]
 plays = 3.9025350056933643
