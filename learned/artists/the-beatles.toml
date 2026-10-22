@@ -1,5 +1,5 @@
-plays = 30.74121921824072
-last = "2026-10-21"
+plays = 31.62468346127509
+last = "2026-10-22"
 weight = 1.4285714626312256
 
 [tops."Beatle Talk (Take 2 - Instrumental Backing Track)"]
@@ -101,6 +101,10 @@ last = "2026-10-21"
 [tops."The Word (Takes 1 And 2 - Instrumental Backing Track)"]
 plays = 1.0
 last = "2026-10-05"
+
+[tops."Ticket To Ride - Remastered 2009"]
+plays = 1.0
+last = "2026-10-22"
 
 [tops."Till There Was You - Remastered 2009"]
 plays = 1.0
