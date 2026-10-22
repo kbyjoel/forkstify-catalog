@@ -1,6 +1,10 @@
-plays = 5.6806657309391
+plays = 6.6806657309391
 last = "2026-10-21"
 weight = 1.4285714626312256
+
+[tops."Femme Fatale"]
+plays = 1.0
+last = "2026-10-21"
 
 [tops."Pale Blue Eyes"]
 plays = 1.0
