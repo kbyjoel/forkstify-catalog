@@ -1,5 +1,5 @@
-plays = 1.9518242546846472
-last = "2026-10-10"
+plays = 2.8648631074363378
+last = "2026-10-22"
 weight = 1.0
 
 [tops."Asleep From Day"]
@@ -9,3 +9,8 @@ last = "2026-09-27"
 [tops.Go]
 plays = 1.0
 last = "2026-10-10"
+
+[tops."Go (Extended Mix)"]
+plays = 1.0
+last = "2026-10-22"
+liked = true
