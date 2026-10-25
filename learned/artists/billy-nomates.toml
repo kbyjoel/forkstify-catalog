@@ -1,6 +1,10 @@
-plays = 1.0
-last = "2026-10-14"
+plays = 1.9590819691638153
+last = "2026-10-25"
 weight = 1.0
+
+[tops."Nothin Worth Winnin"]
+plays = 1.0
+last = "2026-10-25"
 
 [tops.Override]
 plays = 1.0
