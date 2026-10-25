@@ -1,10 +1,14 @@
-plays = 1.9233384734244436
-last = "2026-10-14"
+plays = 2.8446392504604416
+last = "2026-10-25"
 weight = 1.0
 
 [tops.Feet]
 plays = 1.0
 last = "2026-10-14"
+
+[tops."When I Leave"]
+plays = 1.0
+last = "2026-10-25"
 
 [tops."Whitest Boy on the Beach"]
 plays = 1.0
