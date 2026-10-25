@@ -1,10 +1,10 @@
-plays = 4.0
-last = "2026-09-28"
+plays = 4.610140022773457
+last = "2026-10-25"
 weight = 1.0
 
 [tops."J'ai deux yeux"]
-plays = 1.0
-last = "2026-09-28"
+plays = 1.9025350056933643
+last = "2026-10-25"
 liked = true
 
 [tops."Je te vois dans ma main"]
