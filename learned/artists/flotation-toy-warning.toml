@@ -1,4 +1,4 @@
-plays = 9.966288198366115
+plays = 12.966288198366115
 last = "2026-10-25"
 weight = 1.0
 
@@ -8,12 +8,16 @@ last = "2026-10-25"
 liked = true
 
 [tops."Driving Under the Influence of Loneliness"]
+plays = 1.9774692939481615
+last = "2026-10-25"
+
+[tops."French Kids"]
 plays = 1.0
-last = "2026-10-19"
+last = "2026-10-25"
 
 [tops."Happy 13"]
-plays = 1.0
-last = "2026-09-10"
+plays = 1.842894899250724
+last = "2026-10-25"
 
 [tops."Popstar researching oblivion"]
 plays = 3.5609552168994507
