@@ -24,4 +24,6 @@ plays = 1.0
 last = "2026-10-15"
 
 [connections]
+air = 3
+bertrand-belin = 3
 odezenne = 4

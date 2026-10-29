@@ -1,0 +1,7 @@
+plays = 0.0
+weight = 1.0
+
+[connections]
+kanye-west = 3
+kendrick-lamar = 3
+outkast = 3
