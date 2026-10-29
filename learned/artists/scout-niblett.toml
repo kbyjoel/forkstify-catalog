@@ -3,3 +3,6 @@ weight = 1.0
 
 [tops.Kiss]
 liked = true
+
+[connections]
+soko = 4
