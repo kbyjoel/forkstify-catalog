@@ -20,4 +20,5 @@ links = [
   { to = "the-cranberries", type = "similar" },
   { to = "kings-of-leon", type = "similar" },
   { to = "u2", type = "similar" },
+  { to = "blur", type = "scene", proximity = 5, note = "The two defining bands of 90s Britpop, guitar anthems steeped in British pop." },
 ]
