@@ -1,6 +1,10 @@
-plays = 2.801674614010823
-last = "2026-10-20"
+plays = 3.666701851349748
+last = "2026-11-02"
 weight = 1.0
+
+[tops.Dimensions]
+plays = 1.0
+last = "2026-11-02"
 
 [tops."Rebellion (Lies)"]
 plays = 1.0
