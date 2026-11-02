@@ -1,0 +1,13 @@
+plays = 1.0
+last = "2026-11-02"
+weight = 1.4285714626312256
+
+[tops."Don't Look Back In Anger"]
+plays = 1.0
+last = "2026-11-02"
+
+[connections]
+arctic-monkeys = 3
+
+[declined]
+the-kinks = "2026-11-02"
