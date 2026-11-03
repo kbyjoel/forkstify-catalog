@@ -1,5 +1,5 @@
-plays = 9.707494202573033
-last = "2026-10-25"
+plays = 10.416972548939814
+last = "2026-11-02"
 weight = 1.0
 
 [tops."All Being Fine"]
@@ -14,6 +14,10 @@ last = "2026-09-10"
 [tops."Milk Boy (I Love You)"]
 plays = 1.0
 last = "2026-09-15"
+
+[tops."New York, Let's Do Nothing"]
+plays = 1.0
+last = "2026-11-02"
 
 [tops."The Moods That I Get In"]
 plays = 1.865605050499667
