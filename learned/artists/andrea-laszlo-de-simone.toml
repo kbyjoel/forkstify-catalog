@@ -1,5 +1,5 @@
-plays = 3.0
-last = "2026-10-20"
+plays = 3.8554727640539417
+last = "2026-11-02"
 weight = 1.4285714626312256
 
 [tops."Immensità"]
@@ -11,8 +11,8 @@ plays = 1.0
 last = "2026-10-20"
 
 [tops."Ricordo tattile"]
-plays = 1.0
-last = "2026-10-20"
+plays = 1.9518242546846472
+last = "2026-11-02"
 liked = true
 
 [connections]
