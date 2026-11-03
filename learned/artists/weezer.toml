@@ -1,5 +1,5 @@
-plays = 2.9111129672062805
-last = "2026-10-16"
+plays = 3.7290903168403804
+last = "2026-11-02"
 weight = 1.0
 
 [tops."All the Good Ones"]
@@ -10,3 +10,7 @@ last = "2026-10-16"
 plays = 1.9700724360405784
 last = "2026-10-08"
 liked = true
+
+[tops."Say It Ain't So (Original Mix)"]
+plays = 1.0
+last = "2026-11-02"
