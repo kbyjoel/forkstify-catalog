@@ -1,5 +1,5 @@
-plays = 13.806106844033623
-last = "2026-10-25"
+plays = 14.291574679919151
+last = "2026-11-04"
 weight = 1.0
 
 [tops."Back on the Motorway"]
@@ -14,6 +14,10 @@ liked = true
 [tops."Love Letters"]
 plays = 1.0
 last = "2026-10-07"
+
+[tops."Mandibules - Main Theme"]
+plays = 1.0
+last = "2026-11-04"
 
 [tops."Nights Out"]
 plays = 1.0
