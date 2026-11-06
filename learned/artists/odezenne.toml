@@ -1,4 +1,4 @@
-plays = 17.96471633128447
+plays = 18.96471633128447
 last = "2026-11-06"
 weight = 1.0
 
@@ -24,8 +24,8 @@ plays = 1.0
 last = "2026-09-06"
 
 [tops."On nait on vit on meurt"]
-plays = 1.0
-last = "2026-10-15"
+plays = 1.9198382235751414
+last = "2026-11-06"
 liked = true
 
 [tops.Skizo]
