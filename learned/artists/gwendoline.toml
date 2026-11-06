@@ -23,3 +23,6 @@ liked = true
 plays = 1.0
 last = "2026-10-15"
 liked = true
+
+[connections]
+experience = 3
