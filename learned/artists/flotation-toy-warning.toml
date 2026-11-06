@@ -1,4 +1,4 @@
-plays = 14.373513607809736
+plays = 16.373513607809734
 last = "2026-11-06"
 weight = 1.0
 
@@ -8,8 +8,8 @@ last = "2026-11-06"
 liked = true
 
 [tops."Driving Under the Influence of Loneliness"]
-plays = 1.9774692939481615
-last = "2026-10-25"
+plays = 2.889365563278097
+last = "2026-11-06"
 
 [tops."French Kids"]
 plays = 1.0
@@ -24,8 +24,8 @@ plays = 1.0
 last = "2026-11-02"
 
 [tops."Popstar researching oblivion"]
-plays = 3.5609552168994507
-last = "2026-10-25"
+plays = 4.402301203753447
+last = "2026-11-06"
 
 [connections]
 arcade-fire = 3

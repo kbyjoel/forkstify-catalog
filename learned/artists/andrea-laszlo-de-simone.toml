@@ -1,9 +1,13 @@
-plays = 3.8554727640539417
-last = "2026-11-02"
+plays = 4.7973420790320125
+last = "2026-11-06"
 weight = 1.4285714626312256
 
 [tops.Conchiglie]
 liked = true
+
+[tops."Fiore mio"]
+plays = 1.0
+last = "2026-11-06"
 
 [tops."Immensità"]
 plays = 1.0
