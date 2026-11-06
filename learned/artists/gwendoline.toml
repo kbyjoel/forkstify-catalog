@@ -1,4 +1,4 @@
-plays = 4.335860461160632
+plays = 6.335860461160632
 last = "2026-11-06"
 weight = 1.0
 
@@ -11,8 +11,8 @@ plays = 1.0
 last = "2026-09-10"
 
 [tops.Clubs]
-plays = 1.0
-last = "2026-09-10"
+plays = 1.8053407458618298
+last = "2026-11-06"
 
 [tops.Conspire]
 plays = 1.0
@@ -23,6 +23,10 @@ liked = true
 plays = 1.0
 last = "2026-10-15"
 liked = true
+
+[tops."Rock 2000"]
+plays = 1.0
+last = "2026-11-06"
 
 [connections]
 experience = 3
