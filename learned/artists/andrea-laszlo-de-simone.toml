@@ -2,6 +2,9 @@ plays = 3.8554727640539417
 last = "2026-11-02"
 weight = 1.4285714626312256
 
+[tops.Conchiglie]
+liked = true
+
 [tops."Immensità"]
 plays = 1.0
 last = "2026-10-20"
@@ -10,12 +13,21 @@ last = "2026-10-20"
 plays = 1.0
 last = "2026-10-20"
 
+[tops.Meglio]
+liked = true
+
 [tops."Ricordo tattile"]
 plays = 1.9518242546846472
 last = "2026-11-02"
 liked = true
 
+[tops."Sogno l'amore"]
+liked = true
+
+[tops."Sparite tutti"]
+liked = true
+
 [connections]
 flavien-berger = 3
-flotation-toy-warning = 4
+flotation-toy-warning = 3
 tame-impala = 3
