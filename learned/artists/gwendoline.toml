@@ -14,6 +14,9 @@ last = "2026-09-10"
 plays = 1.0
 last = "2026-09-10"
 
+[tops.Conspire]
+liked = true
+
 [tops."Parce que j'ai rêvé d'être riche"]
 plays = 1.0
 last = "2026-10-15"
