@@ -1,5 +1,5 @@
-plays = 3.0
-last = "2026-10-16"
+plays = 3.759514670725425
+last = "2026-11-07"
 weight = 1.4285714626312256
 
 [tops.Bombtrack]
@@ -9,6 +9,10 @@ last = "2026-10-16"
 [tops."Bulls On Parade"]
 plays = 1.0
 last = "2026-10-16"
+
+[tops."Guerrilla Radio"]
+plays = 1.0
+last = "2026-11-07"
 
 [tops."Killing In The Name"]
 plays = 1.0
