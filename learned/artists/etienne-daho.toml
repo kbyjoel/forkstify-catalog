@@ -1,6 +1,10 @@
-plays = 1.8114815151930779
+plays = 2.811481515193078
 last = "2026-11-11"
 weight = 1.4285714626312256
+
+[tops."Le Premier jour (Du reste de ta vie)"]
+plays = 1.0
+last = "2026-11-11"
 
 [tops."Tombé pour la France"]
 plays = 1.0

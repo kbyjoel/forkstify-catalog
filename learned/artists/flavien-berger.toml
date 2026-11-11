@@ -1,4 +1,4 @@
-plays = 10.716961829532682
+plays = 11.716961829532682
 last = "2026-11-11"
 weight = 1.0
 
@@ -19,8 +19,8 @@ plays = 2.0
 last = "2026-09-07"
 
 [tops."Maddy la nuit"]
-plays = 2.7723921600809236
-last = "2026-11-06"
+plays = 3.7202402660085494
+last = "2026-11-11"
 liked = true
 
 [tops."Meltdown goo"]
