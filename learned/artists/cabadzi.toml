@@ -1,5 +1,5 @@
-plays = 4.662049676418789
-last = "2026-11-06"
+plays = 5.574351145025726
+last = "2026-11-11"
 weight = 1.0
 
 [tops.Bain]
@@ -7,8 +7,8 @@ plays = 1.0
 last = "2026-10-15"
 
 [tops.Bouche]
-plays = 1.0
-last = "2026-10-15"
+plays = 1.9025350056933643
+last = "2026-11-11"
 liked = true
 
 [tops."Polaroïd"]
