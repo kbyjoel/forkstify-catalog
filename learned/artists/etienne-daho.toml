@@ -1,6 +1,10 @@
-plays = 1.0
-last = "2026-09-17"
+plays = 1.8114815151930779
+last = "2026-11-11"
 weight = 1.4285714626312256
+
+[tops."Tombé pour la France"]
+plays = 1.0
+last = "2026-11-11"
 
 [tops."Week-end à Rome"]
 plays = 1.0
