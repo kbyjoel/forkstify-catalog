@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-09-11"
+plays = 2.5863965274155243
+last = "2026-11-11"
 weight = 1.0
 
 [tops."Depression & Obsession"]
@@ -9,3 +9,7 @@ last = "2026-09-11"
 [tops.Moonlight]
 plays = 1.0
 last = "2026-09-11"
+
+[tops."SAD!"]
+plays = 1.0
+last = "2026-11-11"
