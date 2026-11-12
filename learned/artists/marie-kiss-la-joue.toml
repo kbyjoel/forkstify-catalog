@@ -1,6 +1,10 @@
-plays = 4.0
+plays = 6.0
 last = "2026-11-12"
 weight = 1.0
+
+[tops.Henri]
+plays = 1.0
+last = "2026-11-12"
 
 [tops."J'aime la pluie"]
 liked = true
@@ -13,6 +17,10 @@ last = "2026-11-12"
 plays = 1.0
 last = "2026-11-12"
 
+[tops."On veut vivre"]
+plays = 1.0
+last = "2026-11-12"
+
 [tops.Valentin]
 plays = 1.0
 last = "2026-11-12"
@@ -21,3 +29,7 @@ liked = true
 [tops."Y'a du monde au balcon"]
 plays = 1.0
 last = "2026-11-12"
+
+[connections]
+loic-lantoine = 3
+sanseverino = 3
