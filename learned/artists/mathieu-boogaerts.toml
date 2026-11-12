@@ -1,0 +1,14 @@
+plays = 1.0
+last = "2026-11-12"
+weight = 1.0
+
+[tops."Renée"]
+plays = 1.0
+last = "2026-11-12"
+liked = true
+
+[connections]
+babx = 4
+francoiz-breut = 3
+jp-nataf = 4
+m = 3
