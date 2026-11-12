@@ -1,0 +1,12 @@
+plays = 2.0
+last = "2026-11-12"
+weight = 1.0
+
+[tops.Valentin]
+plays = 1.0
+last = "2026-11-12"
+liked = true
+
+[tops."Y'a du monde au balcon"]
+plays = 1.0
+last = "2026-11-12"
