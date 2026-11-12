@@ -1,8 +1,10 @@
-plays = 3.0
+plays = 4.0
 last = "2026-11-12"
 weight = 1.4285714626312256
 
 [tops."Gaston Miron"]
+plays = 1.0
+last = "2026-11-12"
 liked = true
 
 [tops."Jean Genet"]
