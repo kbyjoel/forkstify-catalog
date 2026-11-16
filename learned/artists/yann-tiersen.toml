@@ -1,6 +1,10 @@
-plays = 2.0
-last = "2026-10-16"
+plays = 2.7778541645383847
+last = "2026-11-16"
 weight = 1.0
+
+[tops."Eusa: VIII. Penn Ar Lann"]
+plays = 1.0
+last = "2026-11-16"
 
 [tops."La valse d'Amélie"]
 plays = 2.0
