@@ -2,6 +2,16 @@ plays = 1.0
 last = "2026-09-24"
 weight = 1.0
 
+[tops."Lay Your Head Down"]
+liked = true
+
 [tops."My Name Is Trouble"]
 plays = 1.0
 last = "2026-09-24"
+
+[connections]
+cat-power = 4
+dominique-a = 3
+francoiz-breut = 4
+hope-sandoval = 3
+mazzy-star = 4
