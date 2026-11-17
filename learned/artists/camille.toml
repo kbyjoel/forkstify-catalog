@@ -1,5 +1,5 @@
-plays = 24.787691645420797
-last = "2026-11-11"
+plays = 25.321406576661644
+last = "2026-11-16"
 weight = 1.4285714626312256
 
 [tops.Assise]
@@ -38,6 +38,11 @@ last = "2026-10-21"
 [tops."La rue de Ménilmontant"]
 plays = 1.0
 last = "2026-10-21"
+
+[tops."Party Girl - Enfance"]
+plays = 1.0
+last = "2026-11-16"
+liked = true
 
 [tops."Pour que l'amour me quitte"]
 plays = 1.0
