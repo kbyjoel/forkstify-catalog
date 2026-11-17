@@ -1,6 +1,15 @@
-plays = 1.0
+plays = 3.0
 last = "2026-11-16"
 weight = 1.4285714626312256
+
+[tops."(Getting Some) Fun out of Life"]
+plays = 1.0
+last = "2026-11-16"
+
+[tops."Dance Me To The End Of Love"]
+plays = 1.0
+last = "2026-11-16"
+liked = true
 
 [tops."Don't Wait Too Long"]
 plays = 1.0
