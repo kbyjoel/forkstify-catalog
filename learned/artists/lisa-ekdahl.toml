@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-11-16"
+plays = 3.9924182735799576
+last = "2026-11-17"
 weight = 1.0
 
 [tops.Daybreak]
@@ -7,6 +7,10 @@ plays = 1.0
 last = "2026-11-16"
 
 [tops."Nature Boy (feat. Patrik Boman & Ronnie Gardiner)"]
-plays = 1.0
-last = "2026-11-16"
+plays = 1.9962091367899788
+last = "2026-11-17"
 liked = true
+
+[tops."Stranger On Earth (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
