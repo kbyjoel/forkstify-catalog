@@ -1,4 +1,4 @@
-plays = 3.9924182735799576
+plays = 4.992418273579958
 last = "2026-11-17"
 weight = 1.0
 
@@ -10,6 +10,10 @@ last = "2026-11-16"
 plays = 1.9962091367899788
 last = "2026-11-17"
 liked = true
+
+[tops."Now or Never (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
 
 [tops."Stranger On Earth (feat. Patrik Boman & Ronnie Gardiner)"]
 plays = 1.0
