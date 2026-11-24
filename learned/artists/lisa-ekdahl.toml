@@ -1,10 +1,22 @@
-plays = 4.992418273579958
+plays = 7.992418273579958
 last = "2026-11-17"
 weight = 1.0
 
 [tops.Daybreak]
 plays = 1.0
 last = "2026-11-16"
+
+[tops."Down With Love (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
+
+[tops."It Had to Be You (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
+
+[tops."Laziest Girl In Town (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
 
 [tops."Nature Boy (feat. Patrik Boman & Ronnie Gardiner)"]
 plays = 1.9962091367899788
