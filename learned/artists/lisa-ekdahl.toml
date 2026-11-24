@@ -1,4 +1,4 @@
-plays = 7.992418273579958
+plays = 10.992418273579958
 last = "2026-11-17"
 weight = 1.0
 
@@ -28,5 +28,17 @@ plays = 1.0
 last = "2026-11-17"
 
 [tops."Stranger On Earth (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
+
+[tops."Tea for Two (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
+
+[tops."The Lonely One (feat. Patrik Boman & Ronnie Gardiner)"]
+plays = 1.0
+last = "2026-11-17"
+
+[tops."What Is This Thing Called Love (feat. Patrik Boman & Ronnie Gardiner)"]
 plays = 1.0
 last = "2026-11-17"
