@@ -1,8 +1,15 @@
-plays = 3.746431715399265
+plays = 4.746431715399265
 last = "2026-11-25"
 weight = 1.0
 
 [tops."Amsterdam (Live, Olympia / 1964)"]
+plays = 1.0
+last = "2026-11-25"
+
+[tops."La chanson des vieux amants"]
+liked = true
+
+[tops."Marathon (Les Flamandes)"]
 plays = 1.0
 last = "2026-11-25"
 
