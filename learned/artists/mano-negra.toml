@@ -1,5 +1,5 @@
-plays = 2.0
-last = "2026-09-09"
+plays = 2.49286343079853
+last = "2026-11-25"
 weight = 1.0
 
 [tops."King Kong Five"]
@@ -7,5 +7,5 @@ plays = 1.0
 last = "2026-09-09"
 
 [tops.Soledad]
-plays = 1.0
-last = "2026-09-09"
+plays = 1.746431715399265
+last = "2026-11-25"
