@@ -1,5 +1,5 @@
-plays = 5.904521804171876
-last = "2026-11-16"
+plays = 6.7061004914290425
+last = "2026-11-25"
 weight = 1.0
 
 [tops.Immortels]
@@ -9,6 +9,10 @@ last = "2026-09-07"
 [tops."Le Courage des oiseaux"]
 plays = 1.0
 last = "2026-09-07"
+
+[tops."Le Twenty-Two Bar"]
+plays = 1.0
+last = "2026-11-25"
 
 [tops."Le travail"]
 plays = 1.8270390740421485
