@@ -1,5 +1,5 @@
-plays = 3.725909424075532
-last = "2026-10-15"
+plays = 4.188626393043478
+last = "2026-11-25"
 weight = 1.4285714626312256
 
 [tops."Bois mes p...... - Bécane Remix"]
@@ -9,6 +9,10 @@ last = "2026-10-15"
 [tops."J'pète quand j'crache - Remastered"]
 plays = 1.0
 last = "2026-09-25"
+
+[tops."Mappe monde"]
+plays = 1.0
+last = "2026-11-25"
 
 [tops."Réveille le punk"]
 plays = 1.0
