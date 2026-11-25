@@ -1,4 +1,4 @@
-plays = 3.2623232027366758
+plays = 4.262323202736676
 last = "2026-11-25"
 weight = 1.0
 
@@ -9,3 +9,7 @@ liked = true
 
 [tops."L'identité"]
 blacklisted = true
+
+[tops.Saint-Vincent]
+plays = 1.0
+last = "2026-11-25"
