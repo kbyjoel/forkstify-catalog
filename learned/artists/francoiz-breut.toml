@@ -1,7 +1,11 @@
-plays = 2.0
-last = "2026-11-16"
+plays = 2.9327900482634726
+last = "2026-11-25"
 weight = 1.4285714626312256
 
 [tops."Dérive urbaine dans la ville cannibale"]
 plays = 2.0
 last = "2026-11-16"
+
+[tops."La Chanson d'Hélène"]
+plays = 1.0
+last = "2026-11-25"
