@@ -1,7 +1,11 @@
-plays = 1.0
-last = "2026-11-07"
+plays = 1.9339193426665793
+last = "2026-11-25"
 weight = 1.0
 
 [tops."Sous le soleil de Bodega"]
 plays = 1.0
 last = "2026-11-07"
+
+[tops."Voilà l'été"]
+plays = 1.0
+last = "2026-11-25"
