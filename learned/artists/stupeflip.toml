@@ -1,11 +1,15 @@
-plays = 11.040102174899738
-last = "2026-11-11"
+plays = 11.46840173512882
+last = "2026-11-25"
 weight = 1.0
 
 [tops.Boosters]
 plays = 2.7723921600809236
 last = "2026-11-06"
 liked = true
+
+[tops."Ce que tu dois savoir... - Interlude"]
+plays = 1.0
+last = "2026-11-25"
 
 [tops.Forcefield]
 plays = 1.0
