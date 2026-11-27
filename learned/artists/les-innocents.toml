@@ -1,7 +1,11 @@
-plays = 1.0
-last = "2026-09-17"
+plays = 2.763636996088443
+last = "2026-11-27"
 weight = 1.0
 
 [tops."L'Autre Finistère"]
+plays = 1.7636369960884428
+last = "2026-11-27"
+
+[tops."Un monde parfait"]
 plays = 1.0
-last = "2026-09-17"
+last = "2026-11-27"
