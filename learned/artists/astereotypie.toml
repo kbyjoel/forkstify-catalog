@@ -1,6 +1,10 @@
-plays = 3.8493220211533234
+plays = 4.8493220211533234
 last = "2026-11-27"
 weight = 1.0
+
+[tops."Aucun mec ne ressemble à Brad Pitt dans la Drôme"]
+plays = 1.0
+last = "2026-11-27"
 
 [tops."Cheese bad girl"]
 plays = 1.8493220211533232
