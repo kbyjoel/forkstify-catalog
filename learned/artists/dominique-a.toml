@@ -1,6 +1,11 @@
-plays = 6.7061004914290425
-last = "2026-11-25"
+plays = 7.65535304313968
+last = "2026-11-27"
 weight = 1.0
+
+[tops."Encore (Version alternative) - Remasterisé en 2012"]
+plays = 1.0
+last = "2026-11-27"
+liked = true
 
 [tops.Immortels]
 plays = 1.0
