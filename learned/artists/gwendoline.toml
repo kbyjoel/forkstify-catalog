@@ -1,5 +1,5 @@
-plays = 7.216675618415243
-last = "2026-11-11"
+plays = 7.791184257204051
+last = "2026-11-27"
 weight = 1.0
 
 [tops."Audi rtt"]
@@ -11,8 +11,8 @@ plays = 1.0
 last = "2026-09-10"
 
 [tops.Clubs]
-plays = 1.8053407458618298
-last = "2026-11-06"
+plays = 2.6669405682950087
+last = "2026-11-27"
 
 [tops.Conspire]
 plays = 1.0

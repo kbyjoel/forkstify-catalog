@@ -1,4 +1,4 @@
-plays = 2.8493220211533234
+plays = 3.8493220211533234
 last = "2026-11-27"
 weight = 1.0
 
@@ -6,6 +6,10 @@ weight = 1.0
 plays = 1.8493220211533232
 last = "2026-11-27"
 liked = true
+
+[tops."Colère"]
+plays = 1.0
+last = "2026-11-27"
 
 [tops."Que la biche soit en nous"]
 plays = 1.0
