@@ -1,5 +1,5 @@
-plays = 25.321406576661644
-last = "2026-11-16"
+plays = 25.285304481542234
+last = "2026-11-27"
 weight = 1.4285714626312256
 
 [tops.Assise]
@@ -49,8 +49,8 @@ plays = 1.0
 last = "2026-10-21"
 
 [tops."Pâle Septembre"]
-plays = 2.8466769468488873
-last = "2026-11-11"
+plays = 3.6788383861198355
+last = "2026-11-27"
 liked = true
 
 [tops."Quand je marche"]
